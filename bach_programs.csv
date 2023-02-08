@@ -1,0 +1,1111 @@
+,CIPCODE,CIPDESC,INSTNM
+0,101,Agricultural Business and Management.,University of Northwestern Ohio
+1,101,Agricultural Business and Management.,Alcorn State University
+2,101,Agricultural Business and Management.,Virginia Polytechnic Institute and State University
+3,101,Agricultural Business and Management.,Southern Arkansas University Main Campus
+4,101,Agricultural Business and Management.,Arkansas Tech University
+5,101,Agricultural Business and Management.,Kent State University at Tuscarawas
+6,101,Agricultural Business and Management.,California State University-Fresno
+7,101,Agricultural Business and Management.,Clemson University
+8,101,Agricultural Business and Management.,Abraham Baldwin Agricultural College
+9,101,Agricultural Business and Management.,University of Kentucky
+10,109,Animal Sciences.,Texas A & M University-Commerce
+11,109,Animal Sciences.,Texas A & M University-Kingsville
+12,109,Animal Sciences.,Sam Houston State University
+13,109,Animal Sciences.,Brigham Young University-Idaho
+14,109,Animal Sciences.,Rutgers University-New Brunswick
+15,109,Animal Sciences.,Mississippi State University
+16,109,Animal Sciences.,Tuskegee University
+17,109,Animal Sciences.,Washington State University
+18,109,Animal Sciences.,University of Connecticut-Avery Point
+19,109,Animal Sciences.,California Polytechnic State University-San Luis Obispo
+20,301,Natural Resources Conservation and Research.,University of Massachusetts-Amherst
+21,301,Natural Resources Conservation and Research.,Ramapo College of New Jersey
+22,301,Natural Resources Conservation and Research.,Michigan State University
+23,301,Natural Resources Conservation and Research.,Broward College
+24,301,Natural Resources Conservation and Research.,University of California-Irvine
+25,301,Natural Resources Conservation and Research.,National University
+26,301,Natural Resources Conservation and Research.,University of Washington-Seattle Campus
+27,301,Natural Resources Conservation and Research.,Valparaiso University
+28,301,Natural Resources Conservation and Research.,Purdue University Global-Cedar Rapids
+29,301,Natural Resources Conservation and Research.,University of Michigan-Flint
+30,402,Architecture.,Roger Williams University
+31,402,Architecture.,Morgan State University
+32,402,Architecture.,Thomas Jefferson University
+33,402,Architecture.,Oklahoma State University-Main Campus
+34,402,Architecture.,Washington State University
+35,402,Architecture.,Drexel University
+36,402,Architecture.,Pratt Institute-Main
+37,402,Architecture.,Massachusetts Institute of Technology
+38,402,Architecture.,Carnegie Mellon University
+39,402,Architecture.,University of Colorado Denver/Anschutz Medical Campus
+40,501,Area Studies.,Princeton University
+41,501,Area Studies.,SUNY at Albany
+42,501,Area Studies.,Tulane University of Louisiana
+43,501,Area Studies.,Creighton University
+44,501,Area Studies.,Dominican University
+45,501,Area Studies.,Kent State University at Kent
+46,501,Area Studies.,University of California-Santa Cruz
+47,501,Area Studies.,Brigham Young University-Hawaii
+48,501,Area Studies.,Ave Maria University
+49,501,Area Studies.,Barnard College
+50,904,Journalism.,University of Cincinnati-Main Campus
+51,904,Journalism.,Belhaven University
+52,904,Journalism.,University of Maine
+53,904,Journalism.,Cedarville University
+54,904,Journalism.,Belmont University
+55,904,Journalism.,Gardner-Webb University
+56,904,Journalism.,University of Connecticut-Waterbury Campus
+57,904,Journalism.,Houston Baptist University
+58,904,Journalism.,Ohio University-Zanesville Campus
+59,904,Journalism.,University of Evansville
+60,907,"Radio, Television, and Digital Communication.",Northern Arizona University
+61,907,"Radio, Television, and Digital Communication.",John Brown University
+62,907,"Radio, Television, and Digital Communication.",Purdue University Global-Davenport
+63,907,"Radio, Television, and Digital Communication.",Purdue University Global-Hagerstown
+64,907,"Radio, Television, and Digital Communication.",Miami University-Oxford
+65,907,"Radio, Television, and Digital Communication.",The College of New Rochelle
+66,907,"Radio, Television, and Digital Communication.",University of Miami
+67,907,"Radio, Television, and Digital Communication.",Rider University
+68,907,"Radio, Television, and Digital Communication.",New York University
+69,907,"Radio, Television, and Digital Communication.",Campbellsville University
+70,909,"Public Relations, Advertising, and Applied Communication.",Bellevue University
+71,909,"Public Relations, Advertising, and Applied Communication.",University of Miami
+72,909,"Public Relations, Advertising, and Applied Communication.",Olivet Nazarene University
+73,909,"Public Relations, Advertising, and Applied Communication.",York College of Pennsylvania
+74,909,"Public Relations, Advertising, and Applied Communication.",Reinhardt University
+75,909,"Public Relations, Advertising, and Applied Communication.",George Fox University
+76,909,"Public Relations, Advertising, and Applied Communication.",University of Evansville
+77,909,"Public Relations, Advertising, and Applied Communication.",Eastern Illinois University
+78,909,"Public Relations, Advertising, and Applied Communication.",The University of Findlay
+79,909,"Public Relations, Advertising, and Applied Communication.",College of the Ozarks
+80,1107,Computer Science.,Bridgewater College
+81,1107,Computer Science.,Pitzer College
+82,1107,Computer Science.,Saint Joseph's University
+83,1107,Computer Science.,Westminster College
+84,1107,Computer Science.,William & Mary
+85,1107,Computer Science.,North Central University
+86,1107,Computer Science.,Ohio University-Chillicothe Campus
+87,1107,Computer Science.,William Jessup University
+88,1107,Computer Science.,New Mexico Institute of Mining and Technology
+89,1107,Computer Science.,Tusculum University
+90,1110,Computer/Information Technology Administration and Management.,Kent State University at Ashtabula
+91,1110,Computer/Information Technology Administration and Management.,New York University
+92,1110,Computer/Information Technology Administration and Management.,Oral Roberts University
+93,1110,Computer/Information Technology Administration and Management.,Herzing University-Birmingham
+94,1110,Computer/Information Technology Administration and Management.,Rowan University
+95,1110,Computer/Information Technology Administration and Management.,Clark College
+96,1110,Computer/Information Technology Administration and Management.,National University
+97,1110,Computer/Information Technology Administration and Management.,Thomas College
+98,1110,Computer/Information Technology Administration and Management.,Dakota State University
+99,1110,Computer/Information Technology Administration and Management.,New England Institute of Technology
+100,1313,"Teacher Education and Professional Development, Specific Subject Areas.",University of Puerto Rico-Arecibo
+101,1313,"Teacher Education and Professional Development, Specific Subject Areas.",Hobe Sound Bible College
+102,1313,"Teacher Education and Professional Development, Specific Subject Areas.",University of Northern Colorado
+103,1313,"Teacher Education and Professional Development, Specific Subject Areas.",Beloit College
+104,1313,"Teacher Education and Professional Development, Specific Subject Areas.",Marywood University
+105,1313,"Teacher Education and Professional Development, Specific Subject Areas.",Minnesota State University Moorhead
+106,1313,"Teacher Education and Professional Development, Specific Subject Areas.",University of Hartford
+107,1313,"Teacher Education and Professional Development, Specific Subject Areas.",Carroll University
+108,1313,"Teacher Education and Professional Development, Specific Subject Areas.",Walsh University
+109,1313,"Teacher Education and Professional Development, Specific Subject Areas.",Elizabeth City State University
+110,1402,"Aerospace, Aeronautical and Astronautical Engineering.",Western Michigan University
+111,1402,"Aerospace, Aeronautical and Astronautical Engineering.",University of Maryland-College Park
+112,1402,"Aerospace, Aeronautical and Astronautical Engineering.",University of California-Davis
+113,1402,"Aerospace, Aeronautical and Astronautical Engineering.",The University of Tennessee-Knoxville
+114,1402,"Aerospace, Aeronautical and Astronautical Engineering.",University of Akron Main Campus
+115,1402,"Aerospace, Aeronautical and Astronautical Engineering.",United States Naval Academy
+116,1402,"Aerospace, Aeronautical and Astronautical Engineering.",Florida Institute of Technology
+117,1402,"Aerospace, Aeronautical and Astronautical Engineering.",Case Western Reserve University
+118,1402,"Aerospace, Aeronautical and Astronautical Engineering.",University of Cincinnati-Main Campus
+119,1402,"Aerospace, Aeronautical and Astronautical Engineering.",Virginia Polytechnic Institute and State University
+120,1405,Biomedical/Medical Engineering.,University of Pittsburgh-Pittsburgh Campus
+121,1405,Biomedical/Medical Engineering.,Milwaukee School of Engineering
+122,1405,Biomedical/Medical Engineering.,Rose-Hulman Institute of Technology
+123,1405,Biomedical/Medical Engineering.,University of California-Irvine
+124,1405,Biomedical/Medical Engineering.,University of North Texas
+125,1405,Biomedical/Medical Engineering.,North Carolina A & T State University
+126,1405,Biomedical/Medical Engineering.,University of Rhode Island
+127,1405,Biomedical/Medical Engineering.,Stevens Institute of Technology
+128,1405,Biomedical/Medical Engineering.,National University
+129,1405,Biomedical/Medical Engineering.,Purdue University-Main Campus
+130,1410,"Electrical, Electronics and Communications Engineering.",Tufts University
+131,1410,"Electrical, Electronics and Communications Engineering.",Ohio University-Lancaster Campus
+132,1410,"Electrical, Electronics and Communications Engineering.",Brigham Young University-Idaho
+133,1410,"Electrical, Electronics and Communications Engineering.",Mississippi State University
+134,1410,"Electrical, Electronics and Communications Engineering.",Caribbean University-Bayamon
+135,1410,"Electrical, Electronics and Communications Engineering.",University of Missouri-Columbia
+136,1410,"Electrical, Electronics and Communications Engineering.",University at Buffalo
+137,1410,"Electrical, Electronics and Communications Engineering.",Indiana University-Purdue University-Indianapolis
+138,1410,"Electrical, Electronics and Communications Engineering.",West Virginia University
+139,1410,"Electrical, Electronics and Communications Engineering.",SUNY College at Oswego
+140,1419,Mechanical Engineering.,Indiana Institute of Technology
+141,1419,Mechanical Engineering.,University of Washington-Bothell Campus
+142,1419,Mechanical Engineering.,Roger Williams University
+143,1419,Mechanical Engineering.,The University of Texas at El Paso
+144,1419,Mechanical Engineering.,Binghamton University
+145,1419,Mechanical Engineering.,California State University-Fullerton
+146,1419,Mechanical Engineering.,California State University-Long Beach
+147,1419,Mechanical Engineering.,Ohio State University-Main Campus
+148,1419,Mechanical Engineering.,California State University Maritime Academy
+149,1419,Mechanical Engineering.,University of Utah
+150,1425,Petroleum Engineering.,Texas Tech University
+151,1425,Petroleum Engineering.,Mississippi State University
+152,1425,Petroleum Engineering.,Colorado School of Mines
+153,1425,Petroleum Engineering.,West Virginia University
+154,1425,Petroleum Engineering.,New Mexico Institute of Mining and Technology
+155,1425,Petroleum Engineering.,Missouri University of Science and Technology
+156,1425,Petroleum Engineering.,Marietta College
+157,1425,Petroleum Engineering.,University of Houston
+158,1425,Petroleum Engineering.,Louisiana State University and Agricultural & Mechanical College
+159,1425,Petroleum Engineering.,University of Louisiana at Lafayette
+160,1445,Biological/Biosystems Engineering.,University of Arkansas
+161,1445,Biological/Biosystems Engineering.,University of Missouri-Columbia
+162,1445,Biological/Biosystems Engineering.,Wentworth Institute of Technology
+163,1445,Biological/Biosystems Engineering.,Oakland University
+164,1445,Biological/Biosystems Engineering.,University of Arizona
+165,1445,Biological/Biosystems Engineering.,Utah State University
+166,1445,Biological/Biosystems Engineering.,University of Idaho
+167,1445,Biological/Biosystems Engineering.,University of California-San Diego
+168,1445,Biological/Biosystems Engineering.,Auburn University
+169,1445,Biological/Biosystems Engineering.,University of Georgia
+170,1515,Engineering-Related Fields.,Michigan Technological University
+171,1515,Engineering-Related Fields.,Southern Methodist University
+172,1515,Engineering-Related Fields.,Earlham College
+173,1515,Engineering-Related Fields.,Stanford University
+174,1515,Engineering-Related Fields.,Miami University-Oxford
+175,1515,Engineering-Related Fields.,Missouri State University-Springfield
+176,1515,Engineering-Related Fields.,University of South Carolina-Upstate
+177,1515,Engineering-Related Fields.,Pittsburg State University
+178,1515,Engineering-Related Fields.,Carnegie Mellon University
+179,1515,Engineering-Related Fields.,The University of Tennessee-Chattanooga
+180,1508,Mechanical Engineering Related Technologies/Technicians.,Pennsylvania College of Technology
+181,1508,Mechanical Engineering Related Technologies/Technicians.,McPherson College
+182,1508,Mechanical Engineering Related Technologies/Technicians.,Indiana State University
+183,1508,Mechanical Engineering Related Technologies/Technicians.,Universidad Politecnica de Puerto Rico
+184,1508,Mechanical Engineering Related Technologies/Technicians.,Embry-Riddle Aeronautical University-Worldwide
+185,1508,Mechanical Engineering Related Technologies/Technicians.,Central Washington University
+186,1508,Mechanical Engineering Related Technologies/Technicians.,SUNY Buffalo State
+187,1508,Mechanical Engineering Related Technologies/Technicians.,Benjamin Franklin Institute of Technology
+188,1508,Mechanical Engineering Related Technologies/Technicians.,Pennsylvania State University-World Campus
+189,1508,Mechanical Engineering Related Technologies/Technicians.,Ferris State University
+190,1609,"Romance Languages, Literatures, and Linguistics.",Birmingham-Southern College
+191,1609,"Romance Languages, Literatures, and Linguistics.",King's College
+192,1609,"Romance Languages, Literatures, and Linguistics.",Florida Agricultural and Mechanical University
+193,1609,"Romance Languages, Literatures, and Linguistics.",University of Missouri-Kansas City
+194,1609,"Romance Languages, Literatures, and Linguistics.",Drew University
+195,1609,"Romance Languages, Literatures, and Linguistics.",Kenyon College
+196,1609,"Romance Languages, Literatures, and Linguistics.",University of Pittsburgh-Greensburg
+197,1609,"Romance Languages, Literatures, and Linguistics.",Marian University
+198,1609,"Romance Languages, Literatures, and Linguistics.",Andrews University
+199,1609,"Romance Languages, Literatures, and Linguistics.",Franklin College
+200,1601,"Linguistic, Comparative, and Related Language Studies and Services.",Clark University
+201,1601,"Linguistic, Comparative, and Related Language Studies and Services.",University of Alaska Anchorage
+202,1601,"Linguistic, Comparative, and Related Language Studies and Services.",Beloit College
+203,1601,"Linguistic, Comparative, and Related Language Studies and Services.",Florida Atlantic University
+204,1601,"Linguistic, Comparative, and Related Language Studies and Services.",The University of Texas at El Paso
+205,1601,"Linguistic, Comparative, and Related Language Studies and Services.",Webster University
+206,1601,"Linguistic, Comparative, and Related Language Studies and Services.",University of Toledo
+207,1601,"Linguistic, Comparative, and Related Language Studies and Services.",Union College
+208,1601,"Linguistic, Comparative, and Related Language Studies and Services.",Brigham Young University
+209,1601,"Linguistic, Comparative, and Related Language Studies and Services.",Cedarville University
+210,2301,"English Language and Literature, General.",Morningside University
+211,2301,"English Language and Literature, General.",Cedarville University
+212,2301,"English Language and Literature, General.",California Institute of Technology
+213,2301,"English Language and Literature, General.",St. Mary's College of Maryland
+214,2301,"English Language and Literature, General.",Lewis University
+215,2301,"English Language and Literature, General.",Northeastern Illinois University
+216,2301,"English Language and Literature, General.",Trinity University
+217,2301,"English Language and Literature, General.",SUNY at Fredonia
+218,2301,"English Language and Literature, General.",Culver-Stockton College
+219,2301,"English Language and Literature, General.",Washington College
+220,2313,Rhetoric and Composition/Writing Studies.,Texas Wesleyan University
+221,2313,Rhetoric and Composition/Writing Studies.,Wabash College
+222,2313,Rhetoric and Composition/Writing Studies.,West Virginia Wesleyan College
+223,2313,Rhetoric and Composition/Writing Studies.,Suffolk University
+224,2313,Rhetoric and Composition/Writing Studies.,Pratt Institute-Main
+225,2313,Rhetoric and Composition/Writing Studies.,Dickinson State University
+226,2313,Rhetoric and Composition/Writing Studies.,Coker University
+227,2313,Rhetoric and Composition/Writing Studies.,Bowling Green State University-Main Campus
+228,2313,Rhetoric and Composition/Writing Studies.,University of Northwestern-St Paul
+229,2313,Rhetoric and Composition/Writing Studies.,Marlboro College
+230,2314,Literature.,The New School
+231,2314,Literature.,Marshall University
+232,2314,Literature.,Grove City College
+233,2314,Literature.,Fontbonne University
+234,2314,Literature.,Blackburn College
+235,2314,Literature.,The University of Findlay
+236,2314,Literature.,Stevens Institute of Technology
+237,2314,Literature.,Southern Adventist University
+238,2314,Literature.,Ohio Wesleyan University
+239,2314,Literature.,Cornell College
+240,2601,"Biology, General.",University of North Carolina Wilmington
+241,2601,"Biology, General.",Central College
+242,2601,"Biology, General.",Hardin-Simmons University
+243,2601,"Biology, General.",Allen University
+244,2601,"Biology, General.",Olivet Nazarene University
+245,2601,"Biology, General.",Illinois Wesleyan University
+246,2601,"Biology, General.",Holy Family College
+247,2601,"Biology, General.",Schreiner University
+248,2601,"Biology, General.",University of South Dakota
+249,2601,"Biology, General.",Lesley University
+250,2602,"Biochemistry, Biophysics and Molecular Biology.",Messiah University
+251,2602,"Biochemistry, Biophysics and Molecular Biology.",Texas A & M University-College Station
+252,2602,"Biochemistry, Biophysics and Molecular Biology.",Florida Southern College
+253,2602,"Biochemistry, Biophysics and Molecular Biology.",Washburn University
+254,2602,"Biochemistry, Biophysics and Molecular Biology.",Indiana Wesleyan University-Marion
+255,2602,"Biochemistry, Biophysics and Molecular Biology.",Roger Williams University
+256,2602,"Biochemistry, Biophysics and Molecular Biology.",University of Pittsburgh-Pittsburgh Campus
+257,2602,"Biochemistry, Biophysics and Molecular Biology.",North Carolina State University at Raleigh
+258,2602,"Biochemistry, Biophysics and Molecular Biology.",Oklahoma City University
+259,2602,"Biochemistry, Biophysics and Molecular Biology.",Washington University in St Louis
+260,2605,Microbiological Sciences and Immunology.,Texas State University
+261,2605,Microbiological Sciences and Immunology.,University of California-Santa Barbara
+262,2605,Microbiological Sciences and Immunology.,Quinnipiac University
+263,2605,Microbiological Sciences and Immunology.,University of Houston-Downtown
+264,2605,Microbiological Sciences and Immunology.,University of Central Florida
+265,2605,Microbiological Sciences and Immunology.,Mississippi State University
+266,2605,Microbiological Sciences and Immunology.,Ohio University-Lancaster Campus
+267,2605,Microbiological Sciences and Immunology.,University of Maine
+268,2605,Microbiological Sciences and Immunology.,University of Iowa
+269,2605,Microbiological Sciences and Immunology.,University of South Florida
+270,2609,"Physiology, Pathology and Related Sciences.",Oakland City University
+271,2609,"Physiology, Pathology and Related Sciences.",Providence College
+272,2609,"Physiology, Pathology and Related Sciences.",Midwestern State University
+273,2609,"Physiology, Pathology and Related Sciences.",Bethany Lutheran College
+274,2609,"Physiology, Pathology and Related Sciences.",Ithaca College
+275,2609,"Physiology, Pathology and Related Sciences.",Chapman University
+276,2609,"Physiology, Pathology and Related Sciences.",University of Connecticut
+277,2609,"Physiology, Pathology and Related Sciences.",Texas A&M University-Central Texas
+278,2609,"Physiology, Pathology and Related Sciences.",Bushnell University
+279,2609,"Physiology, Pathology and Related Sciences.",Eastern Washington University
+280,2613,"Ecology, Evolution, Systematics, and Population Biology.",Stetson University
+281,2613,"Ecology, Evolution, Systematics, and Population Biology.",University of Colorado Boulder
+282,2613,"Ecology, Evolution, Systematics, and Population Biology.",Boston University
+283,2613,"Ecology, Evolution, Systematics, and Population Biology.",Susquehanna University
+284,2613,"Ecology, Evolution, Systematics, and Population Biology.",Iona College
+285,2613,"Ecology, Evolution, Systematics, and Population Biology.",Central Washington University
+286,2613,"Ecology, Evolution, Systematics, and Population Biology.",Chatham University
+287,2613,"Ecology, Evolution, Systematics, and Population Biology.",Princeton University
+288,2613,"Ecology, Evolution, Systematics, and Population Biology.",Liberty University
+289,2613,"Ecology, Evolution, Systematics, and Population Biology.",Houghton College
+290,2701,Mathematics.,Albright College
+291,2701,Mathematics.,The University of Texas at Tyler
+292,2701,Mathematics.,Fitchburg State University
+293,2701,Mathematics.,Mary Baldwin University
+294,2701,Mathematics.,Saint Anselm College
+295,2701,Mathematics.,Central Christian College of Kansas
+296,2701,Mathematics.,Middle Georgia State University
+297,2701,Mathematics.,William & Mary
+298,2701,Mathematics.,Hampden-Sydney College
+299,2701,Mathematics.,University of San Francisco
+300,2703,Applied Mathematics.,Berea College
+301,2703,Applied Mathematics.,Franklin College
+302,2703,Applied Mathematics.,University of Utah
+303,2703,Applied Mathematics.,Wheaton College
+304,2703,Applied Mathematics.,Fresno Pacific University
+305,2703,Applied Mathematics.,Swarthmore College
+306,2703,Applied Mathematics.,Trevecca Nazarene University
+307,2703,Applied Mathematics.,University of New Hampshire-Main Campus
+308,2703,Applied Mathematics.,Valdosta State University
+309,2703,Applied Mathematics.,Huntingdon College
+310,2705,Statistics.,Coastal Carolina University
+311,2705,Statistics.,University of Connecticut-Hartford Campus
+312,2705,Statistics.,Dordt University
+313,2705,Statistics.,Dakota State University
+314,2705,Statistics.,Montana State University
+315,2705,Statistics.,University of California-Santa Barbara
+316,2705,Statistics.,University of Central Florida
+317,2705,Statistics.,Pennsylvania State University-Penn State Harrisburg
+318,2705,Statistics.,University of Arizona
+319,2705,Statistics.,University of New Hampshire-Main Campus
+320,3017,Behavioral Sciences.,Andrews University
+321,3017,Behavioral Sciences.,Nova Southeastern University
+322,3017,Behavioral Sciences.,Brewton-Parker College
+323,3017,Behavioral Sciences.,George Fox University
+324,3017,Behavioral Sciences.,Bryn Mawr College
+325,3017,Behavioral Sciences.,Concordia University-Nebraska
+326,3017,Behavioral Sciences.,Central Washington University
+327,3017,Behavioral Sciences.,University of Holy Cross
+328,3017,Behavioral Sciences.,California State University-Dominguez Hills
+329,3017,Behavioral Sciences.,College of St Joseph
+330,3020,International/Global Studies.,St. Mary's University
+331,3020,International/Global Studies.,Westminster College
+332,3020,International/Global Studies.,Concordia College at Moorhead
+333,3020,International/Global Studies.,West Virginia State University
+334,3020,International/Global Studies.,Westminster College
+335,3020,International/Global Studies.,American International College
+336,3020,International/Global Studies.,Lycoming College
+337,3020,International/Global Studies.,Juniata College
+338,3020,International/Global Studies.,Kean University
+339,3020,International/Global Studies.,Greenville University
+340,3105,Health and Physical Education/Fitness.,South Dakota State University
+341,3105,Health and Physical Education/Fitness.,Blackburn College
+342,3105,Health and Physical Education/Fitness.,University of Wisconsin-La Crosse
+343,3105,Health and Physical Education/Fitness.,Viterbo University
+344,3105,Health and Physical Education/Fitness.,St. Andrews University
+345,3105,Health and Physical Education/Fitness.,Ohio Wesleyan University
+346,3105,Health and Physical Education/Fitness.,Edinboro University of Pennsylvania
+347,3105,Health and Physical Education/Fitness.,Georgia Southwestern State University
+348,3105,Health and Physical Education/Fitness.,Trine University
+349,3105,Health and Physical Education/Fitness.,Inter American University of Puerto Rico-Arecibo
+350,4005,Chemistry.,Salem State University
+351,4005,Chemistry.,University of Puerto Rico-Humacao
+352,4005,Chemistry.,University of Rochester
+353,4005,Chemistry.,CUNY York College
+354,4005,Chemistry.,Brandeis University
+355,4005,Chemistry.,Inter American University of Puerto Rico-Arecibo
+356,4005,Chemistry.,Lakeland University
+357,4005,Chemistry.,Morehouse College
+358,4005,Chemistry.,Sul Ross State University
+359,4005,Chemistry.,Salve Regina University
+360,4010,Materials Sciences.,University of Arizona
+361,4010,Materials Sciences.,Carnegie Mellon University
+362,4010,Materials Sciences.,Pennsylvania State University-Penn State Abington
+363,4010,Materials Sciences.,The Catholic University of America
+364,4010,Materials Sciences.,Linfield University-McMinnville Campus
+365,4010,Materials Sciences.,University of California-Los Angeles
+366,4010,Materials Sciences.,University of Wisconsin-Eau Claire
+367,4010,Materials Sciences.,Columbia University in the City of New York
+368,4010,Materials Sciences.,University of Puerto Rico-Mayaguez
+369,4010,Materials Sciences.,United States Air Force Academy
+370,4201,"Psychology, General.",Claflin University
+371,4201,"Psychology, General.",College of Mount Saint Vincent
+372,4201,"Psychology, General.",Mars Hill University
+373,4201,"Psychology, General.",Blue Mountain College
+374,4201,"Psychology, General.",New Jersey City University
+375,4201,"Psychology, General.",University at Buffalo
+376,4201,"Psychology, General.",University of North Carolina Wilmington
+377,4201,"Psychology, General.",Coker University
+378,4201,"Psychology, General.",California State University-Dominguez Hills
+379,4201,"Psychology, General.",Antioch College
+380,4405,Public Policy Analysis.,Rochester Institute of Technology
+381,4405,Public Policy Analysis.,Virginia Polytechnic Institute and State University
+382,4405,Public Policy Analysis.,Rutgers University-New Brunswick
+383,4405,Public Policy Analysis.,Hamilton College
+384,4405,Public Policy Analysis.,Claremont McKenna College
+385,4405,Public Policy Analysis.,Arizona State University Campus Immersion
+386,4405,Public Policy Analysis.,Georgia State University
+387,4405,Public Policy Analysis.,Pennsylvania State University-World Campus
+388,4405,Public Policy Analysis.,Rider University
+389,4405,Public Policy Analysis.,Arizona State University-Downtown Phoenix
+390,4504,Criminology.,Saint Leo University
+391,4504,Criminology.,Mount St. Mary's University
+392,4504,Criminology.,Lasell University
+393,4504,Criminology.,LeTourneau University
+394,4504,Criminology.,University of Florida-Online
+395,4504,Criminology.,Elizabethtown College School of Continuing and Professional Studies
+396,4504,Criminology.,Southern Wesleyan University
+397,4504,Criminology.,Hastings College
+398,4504,Criminology.,Arkansas State University
+399,4504,Criminology.,SUNY Cortland
+400,4506,Economics.,Fort Lewis College
+401,4506,Economics.,University of Hartford
+402,4506,Economics.,Saint Cloud State University
+403,4506,Economics.,California State University-Dominguez Hills
+404,4506,Economics.,Southern Illinois University-Carbondale
+405,4506,Economics.,California State University-Stanislaus
+406,4506,Economics.,Heidelberg University
+407,4506,Economics.,Roger Williams University
+408,4506,Economics.,Ohio University-Chillicothe Campus
+409,4506,Economics.,University of California-Irvine
+410,4510,Political Science and Government.,Jacksonville State University
+411,4510,Political Science and Government.,Marshall University
+412,4510,Political Science and Government.,Pennsylvania State University-World Campus
+413,4510,Political Science and Government.,Rutgers University-New Brunswick
+414,4510,Political Science and Government.,Virginia Commonwealth University
+415,4510,Political Science and Government.,Siena College
+416,4510,Political Science and Government.,CUNY City College
+417,4510,Political Science and Government.,North Carolina A & T State University
+418,4510,Political Science and Government.,Randolph-Macon College
+419,4510,Political Science and Government.,Xavier University of Louisiana
+420,5010,"Arts, Entertainment,and Media Management.",Ohio University-Lancaster Campus
+421,5010,"Arts, Entertainment,and Media Management.",Southeastern University
+422,5010,"Arts, Entertainment,and Media Management.",Anderson University
+423,5010,"Arts, Entertainment,and Media Management.",Viterbo University
+424,5010,"Arts, Entertainment,and Media Management.",Brenau University
+425,5010,"Arts, Entertainment,and Media Management.",Missouri Baptist University
+426,5010,"Arts, Entertainment,and Media Management.",South Carolina State University
+427,5010,"Arts, Entertainment,and Media Management.",Youngstown State University
+428,5010,"Arts, Entertainment,and Media Management.",University of Wisconsin-Green Bay
+429,5010,"Arts, Entertainment,and Media Management.",Huntington University
+430,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Ouachita Baptist University
+431,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Massachusetts College of Liberal Arts
+432,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",South Dakota State University
+433,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",University of Georgia
+434,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Duquesne University
+435,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Clarke University
+436,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",University of Pittsburgh-Bradford
+437,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Rowan University
+438,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Indiana University-Bloomington
+439,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Georgetown College
+440,5122,Public Health.,Southern Adventist University
+441,5122,Public Health.,Shenandoah University
+442,5122,Public Health.,Bloomsburg University of Pennsylvania
+443,5122,Public Health.,Lock Haven University
+444,5122,Public Health.,Brigham Young University-Idaho
+445,5122,Public Health.,The University of Alabama
+446,5122,Public Health.,Santa Clara University
+447,5122,Public Health.,Roanoke College
+448,5122,Public Health.,Old Dominion University
+449,5122,Public Health.,Austin College
+450,5123,Rehabilitation and Therapeutic Professions.,Webster University
+451,5123,Rehabilitation and Therapeutic Professions.,Augsburg University
+452,5123,Rehabilitation and Therapeutic Professions.,McKendree University
+453,5123,Rehabilitation and Therapeutic Professions.,Arcadia University
+454,5123,Rehabilitation and Therapeutic Professions.,University of North Carolina Wilmington
+455,5123,Rehabilitation and Therapeutic Professions.,The University of Texas Rio Grande Valley
+456,5123,Rehabilitation and Therapeutic Professions.,SUNY at Fredonia
+457,5123,Rehabilitation and Therapeutic Professions.,University of Saint Francis-Fort Wayne
+458,5123,Rehabilitation and Therapeutic Professions.,Idaho State University
+459,5123,Rehabilitation and Therapeutic Professions.,Shaw University
+460,5131,Dietetics and Clinical Nutrition Services.,University of North Florida
+461,5131,Dietetics and Clinical Nutrition Services.,Ashland University
+462,5131,Dietetics and Clinical Nutrition Services.,Georgia State University
+463,5131,Dietetics and Clinical Nutrition Services.,Purdue University Global-St. Louis
+464,5131,Dietetics and Clinical Nutrition Services.,Texas Tech University
+465,5131,Dietetics and Clinical Nutrition Services.,California State Polytechnic University-Pomona
+466,5131,Dietetics and Clinical Nutrition Services.,Bradley University
+467,5131,Dietetics and Clinical Nutrition Services.,California State University-Los Angeles
+468,5131,Dietetics and Clinical Nutrition Services.,University of Alaska Anchorage
+469,5131,Dietetics and Clinical Nutrition Services.,Purdue University Global-Mason City
+470,5202,"Business Administration, Management and Operations.",Francis Marion University
+471,5202,"Business Administration, Management and Operations.",Herzing University-New Orleans
+472,5202,"Business Administration, Management and Operations.",Louisiana State University-Shreveport
+473,5202,"Business Administration, Management and Operations.",Peninsula College
+474,5202,"Business Administration, Management and Operations.",New Jersey Institute of Technology
+475,5202,"Business Administration, Management and Operations.",Saginaw Valley State University
+476,5202,"Business Administration, Management and Operations.",North Dakota State University-Main Campus
+477,5202,"Business Administration, Management and Operations.",University of the Virgin Islands
+478,5202,"Business Administration, Management and Operations.",Nazareth College
+479,5202,"Business Administration, Management and Operations.",Rogers State University
+480,5203,Accounting and Related Services.,Iona College
+481,5203,Accounting and Related Services.,University of Minnesota-Twin Cities
+482,5203,Accounting and Related Services.,East Texas Baptist University
+483,5203,Accounting and Related Services.,Wingate University
+484,5203,Accounting and Related Services.,Bridgewater State University
+485,5203,Accounting and Related Services.,Austin Peay State University
+486,5203,Accounting and Related Services.,Brigham Young University-Idaho
+487,5203,Accounting and Related Services.,Georgetown University
+488,5203,Accounting and Related Services.,Metropolitan State University
+489,5203,Accounting and Related Services.,Mid-America Christian University
+490,5208,Finance and Financial Management Services.,Massachusetts Institute of Technology
+491,5208,Finance and Financial Management Services.,Clemson University
+492,5208,Finance and Financial Management Services.,Virginia Union University
+493,5208,Finance and Financial Management Services.,University of Central Florida
+494,5208,Finance and Financial Management Services.,Plymouth State University
+495,5208,Finance and Financial Management Services.,Tulane University of Louisiana
+496,5208,Finance and Financial Management Services.,University of Mount Union
+497,5208,Finance and Financial Management Services.,Simmons University
+498,5208,Finance and Financial Management Services.,Brigham Young University
+499,5208,Finance and Financial Management Services.,Fairfield University
+500,5210,Human Resources Management and Services.,Goldey-Beacom College
+501,5210,Human Resources Management and Services.,University of Cincinnati-Main Campus
+502,5210,Human Resources Management and Services.,Purdue University Global-Davenport
+503,5210,Human Resources Management and Services.,Winona State University
+504,5210,Human Resources Management and Services.,Touro College
+505,5210,Human Resources Management and Services.,Trine University-Regional/Non-Traditional Campuses
+506,5210,Human Resources Management and Services.,Concordia University-Saint Paul
+507,5210,Human Resources Management and Services.,Trinity International University-Florida
+508,5210,Human Resources Management and Services.,Northern Kentucky University
+509,5210,Human Resources Management and Services.,King's College
+510,5211,International Business.,University at Buffalo
+511,5211,International Business.,St Petersburg College
+512,5211,International Business.,Drury University
+513,5211,International Business.,Johnson & Wales University-Providence
+514,5211,International Business.,Franklin College
+515,5211,International Business.,San Diego State University
+516,5211,International Business.,Ramapo College of New Jersey
+517,5211,International Business.,Benedictine University
+518,5211,International Business.,Oklahoma State University-Main Campus
+519,5211,International Business.,Portland State University
+520,5214,Marketing.,North Central University
+521,5214,Marketing.,Jackson State University
+522,5214,Marketing.,DePaul University
+523,5214,Marketing.,Purdue University-Main Campus
+524,5214,Marketing.,North Park University
+525,5214,Marketing.,University of the District of Columbia
+526,5214,Marketing.,Utah State University
+527,5214,Marketing.,Suffolk University
+528,5214,Marketing.,Methodist University
+529,5214,Marketing.,Roberts Wesleyan College
+530,5212,Management Information Systems and Services.,Miami University-Oxford
+531,5212,Management Information Systems and Services.,Rowan University
+532,5212,Management Information Systems and Services.,Florida International University
+533,5212,Management Information Systems and Services.,Briar Cliff University
+534,5212,Management Information Systems and Services.,Brigham Young University
+535,5212,Management Information Systems and Services.,Bethel University
+536,5212,Management Information Systems and Services.,Western Michigan University
+537,5212,Management Information Systems and Services.,The University of Texas Rio Grande Valley
+538,5212,Management Information Systems and Services.,Georgia Southwestern State University
+539,5212,Management Information Systems and Services.,Universidad Ana G. Mendez-Carolina Campus
+540,5213,Management Sciences and Quantitative Methods.,Thiel College
+541,5213,Management Sciences and Quantitative Methods.,Central Methodist University-College of Graduate and Extended Studies
+542,5213,Management Sciences and Quantitative Methods.,Central College
+543,5213,Management Sciences and Quantitative Methods.,Shawnee State University
+544,5213,Management Sciences and Quantitative Methods.,Farmingdale State College
+545,5213,Management Sciences and Quantitative Methods.,University of Wisconsin-Madison
+546,5213,Management Sciences and Quantitative Methods.,Hanover College
+547,5213,Management Sciences and Quantitative Methods.,Niagara University
+548,5213,Management Sciences and Quantitative Methods.,Grace College and Theological Seminary
+549,5213,Management Sciences and Quantitative Methods.,University of Connecticut-Avery Point
+550,111,Plant Sciences.,Oregon State University
+551,111,Plant Sciences.,Texas A & M University-College Station
+552,111,Plant Sciences.,Andrews University
+553,111,Plant Sciences.,New Mexico State University-Main Campus
+554,111,Plant Sciences.,North Carolina State University at Raleigh
+555,111,Plant Sciences.,Middle Tennessee State University
+556,111,Plant Sciences.,California Polytechnic State University-San Luis Obispo
+557,111,Plant Sciences.,Montana State University
+558,111,Plant Sciences.,Ohio State University-Main Campus
+559,111,Plant Sciences.,Arkansas State University
+560,901,Communication and Media Studies.,University of Wisconsin-Madison
+561,901,Communication and Media Studies.,Graceland University-Lamoni
+562,901,Communication and Media Studies.,The University of Texas at Austin
+563,901,Communication and Media Studies.,Wilberforce University
+564,901,Communication and Media Studies.,Bushnell University
+565,901,Communication and Media Studies.,Walsh University
+566,901,Communication and Media Studies.,Northern Illinois University
+567,901,Communication and Media Studies.,Edward Waters University
+568,901,Communication and Media Studies.,Pine Manor College
+569,901,Communication and Media Studies.,Minnesota State University Moorhead
+570,1101,"Computer and Information Sciences, General.",Keene State College
+571,1101,"Computer and Information Sciences, General.",Peirce College
+572,1101,"Computer and Information Sciences, General.",City University of Seattle
+573,1101,"Computer and Information Sciences, General.",Hope College
+574,1101,"Computer and Information Sciences, General.",Bowie State University
+575,1101,"Computer and Information Sciences, General.",Massachusetts College of Liberal Arts
+576,1101,"Computer and Information Sciences, General.",SUNY College of Technology at Alfred
+577,1101,"Computer and Information Sciences, General.",Grand Valley State University
+578,1101,"Computer and Information Sciences, General.",University of Florida
+579,1101,"Computer and Information Sciences, General.",Rochester Institute of Technology
+580,1310,Special Education and Teaching.,National Louis University
+581,1310,Special Education and Teaching.,DePaul University
+582,1310,Special Education and Teaching.,Bob Jones University
+583,1310,Special Education and Teaching.,University of Michigan-Dearborn
+584,1310,Special Education and Teaching.,University of South Florida
+585,1310,Special Education and Teaching.,Wright State University-Main Campus
+586,1310,Special Education and Teaching.,Oakland City University
+587,1310,Special Education and Teaching.,Gonzaga University
+588,1310,Special Education and Teaching.,University of Iowa
+589,1310,Special Education and Teaching.,Regis University
+590,1312,"Teacher Education and Professional Development, Specific Levels and Methods.",Auburn University
+591,1312,"Teacher Education and Professional Development, Specific Levels and Methods.",William Paterson University of New Jersey
+592,1312,"Teacher Education and Professional Development, Specific Levels and Methods.",Drexel University
+593,1312,"Teacher Education and Professional Development, Specific Levels and Methods.",Thomas More University
+594,1312,"Teacher Education and Professional Development, Specific Levels and Methods.",Mississippi University for Women
+595,1312,"Teacher Education and Professional Development, Specific Levels and Methods.",Missouri Valley College
+596,1312,"Teacher Education and Professional Development, Specific Levels and Methods.",Stevenson University
+597,1312,"Teacher Education and Professional Development, Specific Levels and Methods.",Daemen University
+598,1312,"Teacher Education and Professional Development, Specific Levels and Methods.",Northwestern State University of Louisiana
+599,1312,"Teacher Education and Professional Development, Specific Levels and Methods.",Universidad Adventista de las Antillas
+600,1408,Civil Engineering.,Brigham Young University
+601,1408,Civil Engineering.,University of Puerto Rico-Mayaguez
+602,1408,Civil Engineering.,Lafayette College
+603,1408,Civil Engineering.,California State Polytechnic University-Pomona
+604,1408,Civil Engineering.,Duke University
+605,1408,Civil Engineering.,Central State University
+606,1408,Civil Engineering.,Rensselaer Polytechnic Institute
+607,1408,Civil Engineering.,San Diego State University
+608,1408,Civil Engineering.,Ohio Northern University
+609,1408,Civil Engineering.,Embry-Riddle Aeronautical University-Daytona Beach
+610,1435,Industrial Engineering.,Kent State University at Kent
+611,1435,Industrial Engineering.,Ohio University-Main Campus
+612,1435,Industrial Engineering.,California Baptist University
+613,1435,Industrial Engineering.,University of Connecticut-Waterbury Campus
+614,1435,Industrial Engineering.,University of Puerto Rico-Mayaguez
+615,1435,Industrial Engineering.,Fort Hays State University
+616,1435,Industrial Engineering.,New Mexico State University-Main Campus
+617,1435,Industrial Engineering.,University of South Florida
+618,1435,Industrial Engineering.,Mississippi State University
+619,1435,Industrial Engineering.,Navajo Technical University
+620,1901,"Family and Consumer Sciences/Human Sciences, General.",California State University-Northridge
+621,1901,"Family and Consumer Sciences/Human Sciences, General.",Florida State University
+622,1901,"Family and Consumer Sciences/Human Sciences, General.",Louisiana State University and Agricultural & Mechanical College
+623,1901,"Family and Consumer Sciences/Human Sciences, General.",Langston University
+624,1901,"Family and Consumer Sciences/Human Sciences, General.",Alabama A & M University
+625,1901,"Family and Consumer Sciences/Human Sciences, General.",California State University-Fresno
+626,1901,"Family and Consumer Sciences/Human Sciences, General.",Southeastern Louisiana University
+627,1901,"Family and Consumer Sciences/Human Sciences, General.",Northeastern State University
+628,1901,"Family and Consumer Sciences/Human Sciences, General.",Mississippi State University
+629,1901,"Family and Consumer Sciences/Human Sciences, General.",University of Maryland-College Park
+630,2615,Neurobiology and Neurosciences.,Hanover College
+631,2615,Neurobiology and Neurosciences.,Belmont University
+632,2615,Neurobiology and Neurosciences.,University of Vermont
+633,2615,Neurobiology and Neurosciences.,Augustana College
+634,2615,Neurobiology and Neurosciences.,University of Alabama at Birmingham
+635,2615,Neurobiology and Neurosciences.,California Institute of Technology
+636,2615,Neurobiology and Neurosciences.,Simpson College
+637,2615,Neurobiology and Neurosciences.,University at Buffalo
+638,2615,Neurobiology and Neurosciences.,DePauw University
+639,2615,Neurobiology and Neurosciences.,University of North Carolina at Chapel Hill
+640,3019,Nutrition Sciences.,University of Washington-Seattle Campus
+641,3019,Nutrition Sciences.,San Diego State University
+642,3019,Nutrition Sciences.,Syracuse University
+643,3019,Nutrition Sciences.,Kansas State University
+644,3019,Nutrition Sciences.,The University of Texas at Austin
+645,3019,Nutrition Sciences.,The University of Tennessee-Knoxville
+646,3019,Nutrition Sciences.,Colorado State University-Fort Collins
+647,3019,Nutrition Sciences.,University of Wisconsin-Stevens Point
+648,3019,Nutrition Sciences.,Farmingdale State College
+649,3019,Nutrition Sciences.,North Carolina State University at Raleigh
+650,4008,Physics.,University of North Carolina at Charlotte
+651,4008,Physics.,New Mexico Institute of Mining and Technology
+652,4008,Physics.,Montclair State University
+653,4008,Physics.,University of Connecticut
+654,4008,Physics.,CUNY York College
+655,4008,Physics.,Westminster College
+656,4008,Physics.,University of Massachusetts-Dartmouth
+657,4008,Physics.,Seattle University
+658,4008,Physics.,University of California-Santa Cruz
+659,4008,Physics.,Smith College
+660,4509,International Relations and National Security Studies.,Mercer University
+661,4509,International Relations and National Security Studies.,Franklin College
+662,4509,International Relations and National Security Studies.,Mount St. Mary's University
+663,4509,International Relations and National Security Studies.,Spring Hill College
+664,4509,International Relations and National Security Studies.,Connecticut College
+665,4509,International Relations and National Security Studies.,Illinois Wesleyan University
+666,4509,International Relations and National Security Studies.,High Point University
+667,4509,International Relations and National Security Studies.,Miami University-Oxford
+668,4509,International Relations and National Security Studies.,Saint Leo University
+669,4509,International Relations and National Security Studies.,University of Missouri-St Louis
+670,5004,Design and Applied Arts.,Robert Morris University
+671,5004,Design and Applied Arts.,Graceland University-Lamoni
+672,5004,Design and Applied Arts.,Concordia University-Chicago
+673,5004,Design and Applied Arts.,University of Puerto Rico-Carolina
+674,5004,Design and Applied Arts.,Marist College
+675,5004,Design and Applied Arts.,Centenary University
+676,5004,Design and Applied Arts.,Troy University
+677,5004,Design and Applied Arts.,Bethel College-North Newton
+678,5004,Design and Applied Arts.,Viterbo University
+679,5004,Design and Applied Arts.,Ball State University
+680,5107,Health and Medical Administrative Services.,Idaho State University
+681,5107,Health and Medical Administrative Services.,Samford University
+682,5107,Health and Medical Administrative Services.,University of Connecticut-Avery Point
+683,5107,Health and Medical Administrative Services.,West Virginia University
+684,5107,Health and Medical Administrative Services.,Brenau University
+685,5107,Health and Medical Administrative Services.,California State University-San Bernardino
+686,5107,Health and Medical Administrative Services.,Pennsylvania State University-Main Campus
+687,5107,Health and Medical Administrative Services.,DeSales University
+688,5107,Health and Medical Administrative Services.,University of Pittsburgh-Greensburg
+689,5107,Health and Medical Administrative Services.,Universidad Ana G. Mendez-Cupey Campus
+690,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",University of South Carolina-Upstate
+691,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Middle Georgia State University
+692,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Presentation College
+693,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",California State University-Los Angeles
+694,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",California State University-San Bernardino
+695,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Morgan State University
+696,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",CUNY Lehman College
+697,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",East Tennessee State University
+698,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Upstate Medical University
+699,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Baylor University
+700,5209,Hospitality Administration/Management.,Purdue University Fort Wayne
+701,5209,Hospitality Administration/Management.,Thomas College
+702,5209,Hospitality Administration/Management.,SUNY College of Technology at Delhi
+703,5209,Hospitality Administration/Management.,University of North Carolina at Greensboro
+704,5209,Hospitality Administration/Management.,University of Houston
+705,5209,Hospitality Administration/Management.,Johnson & Wales University-Providence
+706,5209,Hospitality Administration/Management.,Fairleigh Dickinson University-Florham Campus
+707,5209,Hospitality Administration/Management.,Arizona State University-Downtown Phoenix
+708,5209,Hospitality Administration/Management.,Northern Michigan University
+709,5209,Hospitality Administration/Management.,Temple University
+710,5206,Business/Managerial Economics.,Stetson University
+711,5206,Business/Managerial Economics.,Saint Louis University
+712,5206,Business/Managerial Economics.,Auburn University
+713,5206,Business/Managerial Economics.,Troy University
+714,5206,Business/Managerial Economics.,Ottawa University-Kansas City
+715,5206,Business/Managerial Economics.,Ohio University-Zanesville Campus
+716,5206,Business/Managerial Economics.,Wright State University-Main Campus
+717,5206,Business/Managerial Economics.,Ohio University-Eastern Campus
+718,5206,Business/Managerial Economics.,University of Nebraska-Lincoln
+719,5206,Business/Managerial Economics.,Houston Baptist University
+720,5207,Entrepreneurial and Small Business Operations.,Clarkson University
+721,5207,Entrepreneurial and Small Business Operations.,Shenandoah University
+722,5207,Entrepreneurial and Small Business Operations.,West Virginia University
+723,5207,Entrepreneurial and Small Business Operations.,University of Scranton
+724,5207,Entrepreneurial and Small Business Operations.,Gardner-Webb University
+725,5207,Entrepreneurial and Small Business Operations.,Loyola University Chicago
+726,5207,Entrepreneurial and Small Business Operations.,Franklin University
+727,5207,Entrepreneurial and Small Business Operations.,Western Kentucky University
+728,5207,Entrepreneurial and Small Business Operations.,San Jose State University
+729,5207,Entrepreneurial and Small Business Operations.,Thomas College
+730,5220,Construction Management.,West Virginia University Institute of Technology
+731,5220,Construction Management.,Kent State University at Kent
+732,5220,Construction Management.,Colorado State University Pueblo
+733,5220,Construction Management.,Northern Arizona University
+734,5220,Construction Management.,University of Alaska Anchorage
+735,5220,Construction Management.,University of Denver
+736,5220,Construction Management.,University of Wisconsin-Stout
+737,5220,Construction Management.,Lawrence Technological University
+738,5220,Construction Management.,Norwich University
+739,5220,Construction Management.,Mississippi State University
+740,302,Natural Resources Management and Policy.,Delaware State University
+741,302,Natural Resources Management and Policy.,Montana State University
+742,302,Natural Resources Management and Policy.,Loyola University Chicago
+743,302,Natural Resources Management and Policy.,Western Carolina University
+744,302,Natural Resources Management and Policy.,Roanoke College
+745,302,Natural Resources Management and Policy.,Florida Gulf Coast University
+746,302,Natural Resources Management and Policy.,University of Hawaii at Manoa
+747,302,Natural Resources Management and Policy.,Washington State University
+748,302,Natural Resources Management and Policy.,Alderson Broaddus University
+749,302,Natural Resources Management and Policy.,University of New Haven
+750,1105,Computer Systems Analysis.,Washburn University
+751,1105,Computer Systems Analysis.,Keiser University-Ft Lauderdale
+752,1105,Computer Systems Analysis.,West Virginia University Institute of Technology
+753,1105,Computer Systems Analysis.,Lindenwood University
+754,1105,Computer Systems Analysis.,University of Puerto Rico-Mayaguez
+755,1105,Computer Systems Analysis.,Dunwoody College of Technology
+756,1105,Computer Systems Analysis.,Saint Ambrose University
+757,1105,Computer Systems Analysis.,California State University-San Marcos
+758,1105,Computer Systems Analysis.,Castleton University
+759,1105,Computer Systems Analysis.,Carroll College
+760,1407,Chemical Engineering.,University of Puerto Rico-Mayaguez
+761,1407,Chemical Engineering.,Louisiana Tech University
+762,1407,Chemical Engineering.,Texas Tech University
+763,1407,Chemical Engineering.,University of Missouri-Columbia
+764,1407,Chemical Engineering.,Cooper Union for the Advancement of Science and Art
+765,1407,Chemical Engineering.,University of Wyoming
+766,1407,Chemical Engineering.,California Baptist University
+767,1407,Chemical Engineering.,New York University
+768,1407,Chemical Engineering.,New Mexico State University-Main Campus
+769,1407,Chemical Engineering.,University of Chicago
+770,1418,Materials Engineering,University of Pennsylvania
+771,1418,Materials Engineering,University of Connecticut
+772,1418,Materials Engineering,University of Wisconsin-Madison
+773,1418,Materials Engineering,New Mexico Institute of Mining and Technology
+774,1418,Materials Engineering,Purdue University-Main Campus
+775,1418,Materials Engineering,University of Florida
+776,1418,Materials Engineering,Michigan State University
+777,1418,Materials Engineering,Boise State University
+778,1418,Materials Engineering,California Institute of Technology
+779,1418,Materials Engineering,University of Connecticut-Waterbury Campus
+780,1905,"Foods, Nutrition, and Related Services.",Ohio University-Lancaster Campus
+781,1905,"Foods, Nutrition, and Related Services.",University of Alaska Anchorage
+782,1905,"Foods, Nutrition, and Related Services.",Central Michigan University
+783,1905,"Foods, Nutrition, and Related Services.",North Carolina A & T State University
+784,1905,"Foods, Nutrition, and Related Services.",University of Minnesota-Twin Cities
+785,1905,"Foods, Nutrition, and Related Services.",University of New Mexico-Main Campus
+786,1905,"Foods, Nutrition, and Related Services.",Ohio University-Southern Campus
+787,1905,"Foods, Nutrition, and Related Services.",Bluffton University
+788,1905,"Foods, Nutrition, and Related Services.",University of Central Arkansas
+789,1905,"Foods, Nutrition, and Related Services.",East Stroudsburg University of Pennsylvania
+790,1909,Apparel and Textiles.,Northwest Missouri State University
+791,1909,Apparel and Textiles.,Miami University-Oxford
+792,1909,Apparel and Textiles.,Northern Illinois University
+793,1909,Apparel and Textiles.,Ohio University-Eastern Campus
+794,1909,Apparel and Textiles.,University of Maryland-College Park
+795,1909,Apparel and Textiles.,University of Hawaii at Manoa
+796,1909,Apparel and Textiles.,Washington State University
+797,1909,Apparel and Textiles.,Seattle Pacific University
+798,1909,Apparel and Textiles.,Savannah College of Art and Design
+799,1909,Apparel and Textiles.,Middle Tennessee State University
+800,2200,Non-Professional General Legal Studies (Undergraduate).,Bob Jones University
+801,2200,Non-Professional General Legal Studies (Undergraduate).,Wilmington University
+802,2200,Non-Professional General Legal Studies (Undergraduate).,Hodges University
+803,2200,Non-Professional General Legal Studies (Undergraduate).,Morehead State University
+804,2200,Non-Professional General Legal Studies (Undergraduate).,The University of Texas at San Antonio
+805,2200,Non-Professional General Legal Studies (Undergraduate).,The College of New Rochelle
+806,2200,Non-Professional General Legal Studies (Undergraduate).,The University of Texas Rio Grande Valley
+807,2200,Non-Professional General Legal Studies (Undergraduate).,Saint Louis University
+808,2200,Non-Professional General Legal Studies (Undergraduate).,William Peace University
+809,2200,Non-Professional General Legal Studies (Undergraduate).,Denison University
+810,3025,Cognitive Science.,University of Massachusetts-Boston
+811,3025,Cognitive Science.,Occidental College
+812,3025,Cognitive Science.,The University of Texas at Dallas
+813,3025,Cognitive Science.,Loyola University New Orleans
+814,3025,Cognitive Science.,California State University-Fresno
+815,3025,Cognitive Science.,Stanford University
+816,3025,Cognitive Science.,University of California-Merced
+817,3025,Cognitive Science.,Rutgers University-New Brunswick
+818,3025,Cognitive Science.,Swarthmore College
+819,3025,Cognitive Science.,Beloit College
+820,3103,"Parks, Recreation and Leisure Facilities Management.",Johnson & Wales University-North Miami
+821,3103,"Parks, Recreation and Leisure Facilities Management.",Lock Haven University
+822,3103,"Parks, Recreation and Leisure Facilities Management.",Belmont Abbey College
+823,3103,"Parks, Recreation and Leisure Facilities Management.",University of Minnesota-Twin Cities
+824,3103,"Parks, Recreation and Leisure Facilities Management.",Webber International University
+825,3103,"Parks, Recreation and Leisure Facilities Management.",University of St Francis
+826,3103,"Parks, Recreation and Leisure Facilities Management.",Winona State University
+827,3103,"Parks, Recreation and Leisure Facilities Management.",The University of Montana
+828,3103,"Parks, Recreation and Leisure Facilities Management.",Johnson & Wales University-Charlotte
+829,3103,"Parks, Recreation and Leisure Facilities Management.",University of Maine
+830,3801,Philosophy.,Emmanuel College
+831,3801,Philosophy.,The College of Saint Rose
+832,3801,Philosophy.,Iowa State University
+833,3801,Philosophy.,California State University-Sacramento
+834,3801,Philosophy.,Assumption University
+835,3801,Philosophy.,Millikin University
+836,3801,Philosophy.,Ohio Dominican University
+837,3801,Philosophy.,Holy Names University
+838,3801,Philosophy.,American University
+839,3801,Philosophy.,University of Northern Iowa
+840,3802,Religion/Religious Studies.,Bryn Athyn College of the New Church
+841,3802,Religion/Religious Studies.,Beloit College
+842,3802,Religion/Religious Studies.,Huntington University
+843,3802,Religion/Religious Studies.,University of Tulsa
+844,3802,Religion/Religious Studies.,Molloy College
+845,3802,Religion/Religious Studies.,Dickinson College
+846,3802,Religion/Religious Studies.,Southwestern University
+847,3802,Religion/Religious Studies.,Drake University
+848,3802,Religion/Religious Studies.,Harvey Mudd College
+849,3802,Religion/Religious Studies.,Saint Edward's University
+850,4006,Geological and Earth Sciences/Geosciences.,West Chester University of Pennsylvania
+851,4006,Geological and Earth Sciences/Geosciences.,University of Southern Maine
+852,4006,Geological and Earth Sciences/Geosciences.,William & Mary
+853,4006,Geological and Earth Sciences/Geosciences.,West Virginia University
+854,4006,Geological and Earth Sciences/Geosciences.,Indiana University of Pennsylvania-Main Campus
+855,4006,Geological and Earth Sciences/Geosciences.,Skidmore College
+856,4006,Geological and Earth Sciences/Geosciences.,University of Arizona
+857,4006,Geological and Earth Sciences/Geosciences.,Alaska Pacific University
+858,4006,Geological and Earth Sciences/Geosciences.,Vanderbilt University
+859,4006,Geological and Earth Sciences/Geosciences.,Elmira College
+860,4228,"Clinical, Counseling and Applied Psychology.",Saint Joseph's University
+861,4228,"Clinical, Counseling and Applied Psychology.",Purdue University Global-Mason City
+862,4228,"Clinical, Counseling and Applied Psychology.",Oakland City University
+863,4228,"Clinical, Counseling and Applied Psychology.",Greenville University
+864,4228,"Clinical, Counseling and Applied Psychology.",Azusa Pacific University
+865,4228,"Clinical, Counseling and Applied Psychology.",Hobe Sound Bible College
+866,4228,"Clinical, Counseling and Applied Psychology.",Cornerstone University
+867,4228,"Clinical, Counseling and Applied Psychology.",Coker University
+868,4228,"Clinical, Counseling and Applied Psychology.",St. Joseph's College-Long Island
+869,4228,"Clinical, Counseling and Applied Psychology.",Grace College and Theological Seminary
+870,4407,Social Work.,Barton College
+871,4407,Social Work.,Inter American University of Puerto Rico-Barranquitas
+872,4407,Social Work.,SUNY Polytechnic Institute
+873,4407,Social Work.,Valparaiso University
+874,4407,Social Work.,Northeastern State University
+875,4407,Social Work.,Weber State University
+876,4407,Social Work.,College of the Ozarks
+877,4407,Social Work.,Pontifical Catholic University of Puerto Rico-Mayaguez
+878,4407,Social Work.,Spalding University
+879,4407,Social Work.,California State University-Sacramento
+880,4501,"Social Sciences, General.",New England College
+881,4501,"Social Sciences, General.",California State University-Sacramento
+882,4501,"Social Sciences, General.",Excelsior College
+883,4501,"Social Sciences, General.",The University of Texas at Tyler
+884,4501,"Social Sciences, General.",Wilmington College
+885,4501,"Social Sciences, General.",Daemen University
+886,4501,"Social Sciences, General.",University of Utah
+887,4501,"Social Sciences, General.",Viterbo University
+888,4501,"Social Sciences, General.",William Carey University
+889,4501,"Social Sciences, General.",Texas A & M International University
+890,4502,Anthropology.,Northeastern Illinois University
+891,4502,Anthropology.,Washington University in St Louis
+892,4502,Anthropology.,University of Delaware
+893,4502,Anthropology.,Central Michigan University
+894,4502,Anthropology.,Appalachian State University
+895,4502,Anthropology.,The University of Texas Rio Grande Valley
+896,4502,Anthropology.,Texas Tech University
+897,4502,Anthropology.,Middlebury College
+898,4502,Anthropology.,Texas State University
+899,4502,Anthropology.,William & Mary
+900,5005,Drama/Theatre Arts and Stagecraft.,Dillard University
+901,5005,Drama/Theatre Arts and Stagecraft.,Occidental College
+902,5005,Drama/Theatre Arts and Stagecraft.,Kutztown University of Pennsylvania
+903,5005,Drama/Theatre Arts and Stagecraft.,Charleston Southern University
+904,5005,Drama/Theatre Arts and Stagecraft.,College of the Ozarks
+905,5005,Drama/Theatre Arts and Stagecraft.,McDaniel College
+906,5005,Drama/Theatre Arts and Stagecraft.,Guilford College
+907,5005,Drama/Theatre Arts and Stagecraft.,Westminster College
+908,5005,Drama/Theatre Arts and Stagecraft.,Bowdoin College
+909,5005,Drama/Theatre Arts and Stagecraft.,Concordia University-Chicago
+910,5006,Film/Video and Photographic Arts.,Art Academy of Cincinnati
+911,5006,Film/Video and Photographic Arts.,Moore College of Art and Design
+912,5006,Film/Video and Photographic Arts.,Memphis College of Art
+913,5006,Film/Video and Photographic Arts.,Bethany College
+914,5006,Film/Video and Photographic Arts.,University of Michigan-Ann Arbor
+915,5006,Film/Video and Photographic Arts.,Ohio Wesleyan University
+916,5006,Film/Video and Photographic Arts.,Institute of American Indian and Alaska Native Culture and Arts Development
+917,5006,Film/Video and Photographic Arts.,Castleton University
+918,5006,Film/Video and Photographic Arts.,University of Iowa
+919,5006,Film/Video and Photographic Arts.,Saint Edward's University
+920,5007,Fine and Studio Arts.,Ursinus College
+921,5007,Fine and Studio Arts.,Maryville University of Saint Louis
+922,5007,Fine and Studio Arts.,Goucher College
+923,5007,Fine and Studio Arts.,School of the Art Institute of Chicago
+924,5007,Fine and Studio Arts.,Marian University
+925,5007,Fine and Studio Arts.,Southern Illinois University-Carbondale
+926,5007,Fine and Studio Arts.,Ferrum College
+927,5007,Fine and Studio Arts.,Earlham College
+928,5007,Fine and Studio Arts.,Landmark College
+929,5007,Fine and Studio Arts.,Virginia Commonwealth University
+930,5009,Music.,Murray State University
+931,5009,Music.,Georgia Southwestern State University
+932,5009,Music.,University of South Carolina-Columbia
+933,5009,Music.,California Jazz Conservatory
+934,5009,Music.,Chadron State College
+935,5009,Music.,Sam Houston State University
+936,5009,Music.,Illinois College
+937,5009,Music.,Averett University
+938,5009,Music.,University of Northwestern-St Paul
+939,5009,Music.,Lindenwood University
+940,5102,Communication Disorders Sciences and Services.,Illinois State University
+941,5102,Communication Disorders Sciences and Services.,Eastern Washington University
+942,5102,Communication Disorders Sciences and Services.,CUNY Hunter College
+943,5102,Communication Disorders Sciences and Services.,University of South Dakota
+944,5102,Communication Disorders Sciences and Services.,Central Michigan University
+945,5102,Communication Disorders Sciences and Services.,Indiana University of Pennsylvania-Main Campus
+946,5102,Communication Disorders Sciences and Services.,The University of Tennessee Health Science Center
+947,5102,Communication Disorders Sciences and Services.,Iona College
+948,5102,Communication Disorders Sciences and Services.,La Salle University
+949,5102,Communication Disorders Sciences and Services.,University of West Georgia
+950,5111,Health/Medical Preparatory Programs.,Iowa Wesleyan University
+951,5111,Health/Medical Preparatory Programs.,University of Saint Mary
+952,5111,Health/Medical Preparatory Programs.,Ohio State University-Main Campus
+953,5111,Health/Medical Preparatory Programs.,Maharishi International University
+954,5111,Health/Medical Preparatory Programs.,Judson College
+955,5111,Health/Medical Preparatory Programs.,Medaille College
+956,5111,Health/Medical Preparatory Programs.,College of Saint Benedict
+957,5111,Health/Medical Preparatory Programs.,Fresno Pacific University
+958,5111,Health/Medical Preparatory Programs.,Cleveland State University
+959,5111,Health/Medical Preparatory Programs.,The University of Findlay
+960,5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",University of Oklahoma-Norman Campus
+961,5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",Western New England University
+962,5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",Cleveland State University
+963,5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",University of Utah
+964,5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",Rutgers University-New Brunswick
+965,5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",University of South Carolina-Columbia
+966,5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",Northeastern University
+967,5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",University of Cincinnati-Main Campus
+968,5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",Emory & Henry College
+969,5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",Belmont University
+970,5201,"Business/Commerce, General.",Trinity Baptist College
+971,5201,"Business/Commerce, General.",Belmont University
+972,5201,"Business/Commerce, General.",Rosemont College
+973,5201,"Business/Commerce, General.",Virginia Commonwealth University
+974,5201,"Business/Commerce, General.",Temple University
+975,5201,"Business/Commerce, General.",University of Arizona-Sierra Vista
+976,5201,"Business/Commerce, General.",Regis University
+977,5201,"Business/Commerce, General.",Bluefield University
+978,5201,"Business/Commerce, General.",Wright State University-Main Campus
+979,5201,"Business/Commerce, General.",Christian Brothers University
+980,5219,"Specialized Sales, Merchandising and  Marketing Operations.",Ursuline College
+981,5219,"Specialized Sales, Merchandising and  Marketing Operations.",Ferris State University
+982,5219,"Specialized Sales, Merchandising and  Marketing Operations.",Davis & Elkins College
+983,5219,"Specialized Sales, Merchandising and  Marketing Operations.",Adrian College
+984,5219,"Specialized Sales, Merchandising and  Marketing Operations.",Grace College and Theological Seminary
+985,5219,"Specialized Sales, Merchandising and  Marketing Operations.",Saint Ambrose University
+986,5219,"Specialized Sales, Merchandising and  Marketing Operations.",Olivet Nazarene University
+987,5219,"Specialized Sales, Merchandising and  Marketing Operations.",Concord University
+988,5219,"Specialized Sales, Merchandising and  Marketing Operations.",SUNY College of Technology at Delhi
+989,5219,"Specialized Sales, Merchandising and  Marketing Operations.",Fashion Institute of Technology
+990,5205,Business/Corporate Communications.,Aquinas College
+991,5205,Business/Corporate Communications.,Point Loma Nazarene University
+992,5205,Business/Corporate Communications.,Concordia University-Nebraska
+993,5205,Business/Corporate Communications.,Nichols College
+994,5205,Business/Corporate Communications.,Morningside University
+995,5205,Business/Corporate Communications.,Christian Brothers University
+996,5205,Business/Corporate Communications.,Pennsylvania State University-Penn State Scranton
+997,5205,Business/Corporate Communications.,Rockhurst University
+998,5205,Business/Corporate Communications.,Fort Hays State University
+999,5205,Business/Corporate Communications.,Saint Leo University
+1000,110,Food Science and Technology.,Mount Mary University
+1001,110,Food Science and Technology.,California State Polytechnic University-Pomona
+1002,110,Food Science and Technology.,University of Wisconsin-River Falls
+1003,110,Food Science and Technology.,Pennsylvania State University-Main Campus
+1004,110,Food Science and Technology.,University of Nebraska-Lincoln
+1005,110,Food Science and Technology.,Bay Path University
+1006,110,Food Science and Technology.,Appalachian State University
+1007,110,Food Science and Technology.,University of Massachusetts-Amherst
+1008,110,Food Science and Technology.,New Mexico State University-Main Campus
+1009,110,Food Science and Technology.,South Dakota State University
+1010,1907,"Human Development, Family Studies, and Related Services.",Northwest Missouri State University
+1011,1907,"Human Development, Family Studies, and Related Services.",George Mason University
+1012,1907,"Human Development, Family Studies, and Related Services.",Pennsylvania State University-Main Campus
+1013,1907,"Human Development, Family Studies, and Related Services.",Anderson University
+1014,1907,"Human Development, Family Studies, and Related Services.",Lesley University
+1015,1907,"Human Development, Family Studies, and Related Services.",Ohio University-Southern Campus
+1016,1907,"Human Development, Family Studies, and Related Services.",Whittier College
+1017,1907,"Human Development, Family Studies, and Related Services.",University of Alaska Fairbanks
+1018,1907,"Human Development, Family Studies, and Related Services.",University of Idaho
+1019,1907,"Human Development, Family Studies, and Related Services.",Bacone College
+1020,5215,Real Estate.,Virginia Commonwealth University
+1021,5215,Real Estate.,Temple University
+1022,5215,Real Estate.,California State University-Northridge
+1023,5215,Real Estate.,University of Wisconsin-Stout
+1024,5215,Real Estate.,University of Northern Iowa
+1025,5215,Real Estate.,University of Connecticut
+1026,5215,Real Estate.,DePaul University
+1027,5215,Real Estate.,University of South Carolina-Columbia
+1028,5215,Real Estate.,Saint Cloud State University
+1029,5215,Real Estate.,Portland State University
+1030,109,Animal Sciences.,University of Wisconsin-Madison
+1031,109,Animal Sciences.,Berry College
+1032,109,Animal Sciences.,University of Vermont
+1033,109,Animal Sciences.,University of California-Davis
+1034,109,Animal Sciences.,Wilson College
+1035,109,Animal Sciences.,Iowa State University
+1036,109,Animal Sciences.,Cornell University
+1037,109,Animal Sciences.,University of Nebraska-Lincoln
+1038,109,Animal Sciences.,University of Arkansas
+1039,109,Animal Sciences.,University of Delaware
+1040,111,Plant Sciences.,North Carolina State University at Raleigh
+1041,111,Plant Sciences.,Delaware Valley University
+1042,111,Plant Sciences.,Cornell University
+1043,111,Plant Sciences.,Missouri State University-Springfield
+1044,111,Plant Sciences.,The University of Tennessee-Knoxville
+1045,111,Plant Sciences.,California State Polytechnic University-Humboldt
+1046,111,Plant Sciences.,University of Massachusetts-Amherst
+1047,111,Plant Sciences.,University of Wisconsin-River Falls
+1048,111,Plant Sciences.,Andrews University
+1049,111,Plant Sciences.,Texas A & M University-Kingsville
+1050,501,Area Studies.,Syracuse University
+1051,501,Area Studies.,Mount Saint Mary's University
+1052,501,Area Studies.,University of North Dakota
+1053,501,Area Studies.,Azusa Pacific University
+1054,501,Area Studies.,Tulane University of Louisiana
+1055,501,Area Studies.,Hofstra University
+1056,501,Area Studies.,Ave Maria University
+1057,501,Area Studies.,California State University-Long Beach
+1058,501,Area Studies.,University of Connecticut-Hartford Campus
+1059,501,Area Studies.,Georgetown University
+1060,904,Journalism.,Pennsylvania State University-Penn State Brandywine
+1061,904,Journalism.,West Texas A & M University
+1062,904,Journalism.,Florida Agricultural and Mechanical University
+1063,904,Journalism.,Valparaiso University
+1064,904,Journalism.,Oklahoma Baptist University
+1065,904,Journalism.,University of Northwestern-St Paul
+1066,904,Journalism.,Keene State College
+1067,904,Journalism.,University of Mississippi
+1068,904,Journalism.,Loras College
+1069,904,Journalism.,University of Iowa
+1070,907,"Radio, Television, and Digital Communication.",Carnegie Mellon University
+1071,907,"Radio, Television, and Digital Communication.",Bowling Green State University-Main Campus
+1072,907,"Radio, Television, and Digital Communication.",Marywood University
+1073,907,"Radio, Television, and Digital Communication.",Purdue University Global-Milwaukee
+1074,907,"Radio, Television, and Digital Communication.",Eastern Kentucky University
+1075,907,"Radio, Television, and Digital Communication.",University of North Texas at Dallas
+1076,907,"Radio, Television, and Digital Communication.",Loyola University Chicago
+1077,907,"Radio, Television, and Digital Communication.",Middle Tennessee State University
+1078,907,"Radio, Television, and Digital Communication.",Ithaca College
+1079,907,"Radio, Television, and Digital Communication.",The College of New Rochelle
+1080,1102,Computer Programming.,Youngstown State University
+1081,1102,Computer Programming.,Siena College
+1082,1102,Computer Programming.,University of Missouri-St Louis
+1083,1102,Computer Programming.,California College San Diego
+1084,1102,Computer Programming.,Holy Family University
+1085,1102,Computer Programming.,Limestone University
+1086,1102,Computer Programming.,CollegeAmerica-Flagstaff
+1087,1102,Computer Programming.,Herzing University-Orlando
+1088,1102,Computer Programming.,Ferrum College
+1089,1102,Computer Programming.,Herzing University-Toledo
+1090,1104,Information Science/Studies.,Texas A & M University-Commerce
+1091,1104,Information Science/Studies.,Thiel College
+1092,1104,Information Science/Studies.,The University of Texas Rio Grande Valley
+1093,1104,Information Science/Studies.,Averett University
+1094,1104,Information Science/Studies.,California State University-Stanislaus
+1095,1104,Information Science/Studies.,Charleston Southern University
+1096,1104,Information Science/Studies.,University of Michigan-Ann Arbor
+1097,1104,Information Science/Studies.,Bowling Green State University-Main Campus
+1098,1104,Information Science/Studies.,Bellevue University
+1099,1104,Information Science/Studies.,Boise State University
+1100,1510,Construction Engineering Technologies.,Purdue University Northwest
+1101,1510,Construction Engineering Technologies.,Lawrence Technological University
+1102,1510,Construction Engineering Technologies.,Rockford University
+1103,1510,Construction Engineering Technologies.,University of North Florida
+1104,1510,Construction Engineering Technologies.,Thomas Jefferson University
+1105,1510,Construction Engineering Technologies.,Texas A & M University-College Station
+1106,1510,Construction Engineering Technologies.,Colorado State University-Fort Collins
+1107,1510,Construction Engineering Technologies.,Montana State University
+1108,1510,Construction Engineering Technologies.,California State Polytechnic University-Pomona
+1109,1510,Construction Engineering Technologies.,Michigan State University
