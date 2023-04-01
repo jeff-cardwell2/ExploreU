@@ -1,3 +1,4 @@
 .DS_STORE
 cache/
 __pycache__/
+.env
