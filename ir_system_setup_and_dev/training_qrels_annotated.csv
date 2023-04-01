@@ -1,0 +1,2676 @@
+query,cip_code,cip_name,assigned_score
+public speaking,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",3
+public speaking,13.01,"Education, General.",2
+public speaking,26.01,"Biology, General.",1
+public speaking,14.07,Chemical Engineering.,1
+public speaking,54.01,History.,2
+public speaking,14.14,Environmental/Environmental Health Engineering.,1
+public speaking,40.08,Physics.,1
+public speaking,13.1,Special Education and Teaching.,2
+public speaking,30.18,Natural Sciences.,1
+public speaking,26.12,Biotechnology.,1
+public speaking,52.08,Finance and Financial Management Services.,1
+public speaking,27.03,Applied Mathematics.,1
+public speaking,45.06,Economics.,1
+public speaking,23.13,Rhetoric and Composition/Writing Studies.,5
+public speaking,16.03,"East Asian Languages, Literatures, and Linguistics.",3
+public speaking,30.25,Cognitive Science.,2
+public speaking,16.05,"Germanic Languages, Literatures, and Linguistics.",3
+public speaking,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",3
+public speaking,38.01,Philosophy.,1
+public speaking,14.37,Operations Research.,1
+public speaking,30.7,Data Science.,1
+public speaking,14.02,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",1
+public speaking,40.05,Chemistry.,1
+public speaking,45.07,Geography and Cartography.,1
+public speaking,42.01,"Psychology, General.",1
+economics,14.19,Mechanical Engineering.,1
+economics,42.01,"Psychology, General.",1
+economics,50.05,Drama/Theatre Arts and Stagecraft.,1
+economics,40.05,Chemistry.,1
+economics,52.15,Real Estate.,2
+economics,26.11,"Biomathematics, Bioinformatics, and Computational Biology.",1
+economics,40.08,Physics.,1
+economics,14.03,Agricultural Engineering.,1
+economics,42.27,Research and Experimental Psychology.,1
+economics,26.13,"Ecology, Evolution, Systematics, and Population Biology.",1
+economics,30.08,Mathematics and Computer Science.,2
+economics,14.18,Materials Engineering.,1
+economics,52.1,Human Resources Management and Services.,1
+economics,51,"Health Services/Allied Health/Health Sciences, General.",1
+economics,26.15,Neurobiology and Neurosciences.,1
+economics,40.02,Astronomy and Astrophysics.,1
+economics,23.01,"English Language and Literature, General.",1
+economics,50.07,Fine and Studio Arts.,1
+economics,14.33,Construction Engineering.,1
+economics,14.02,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",1
+economics,16.05,"Germanic Languages, Literatures, and Linguistics.",1
+economics,19.07,"Human Development, Family Studies, and Related Services.",1
+economics,50.06,Film/Video and Photographic Arts.,1
+economics,14.43,Biochemical Engineering.,1
+economics,11.01,"Computer and Information Sciences, General.",1
+writing,45.12,Urban Studies/Affairs.,1
+writing,52.13,Management Sciences and Quantitative Methods.,1
+writing,45.09,International Relations and National Security Studies.,1
+writing,30.17,Behavioral Sciences.,1
+writing,26.08,Genetics.,1
+writing,26.05,Microbiological Sciences and Immunology.,1
+writing,1,"Agriculture, General.",1
+writing,30.25,Cognitive Science.,1
+writing,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+writing,26.99,"Biological and Biomedical Sciences, Other.",1
+writing,15.03,Electrical/Electronic Engineering Technologies/Technicians.,1
+writing,15.12,Computer Engineering Technologies/Technicians.,1
+writing,31.03,"Parks, Recreation, and Leisure Facilities Management.",1
+writing,11.05,Computer Systems Analysis.,1
+writing,4.04,Environmental Design.,1
+writing,45.07,Geography and Cartography.,1
+writing,44.05,Public Policy Analysis.,3
+writing,30.18,Natural Sciences.,1
+writing,13.06,"Educational Assessment, Evaluation, and Research.",3
+writing,52.2,Construction Management.,1
+writing,26.15,Neurobiology and Neurosciences.,1
+writing,45.01,"Social Sciences, General.",1
+writing,15.15,Engineering-Related Fields.,1
+writing,30.7,Data Science.,1
+writing,52.07,Entrepreneurial and Small Business Operations.,1
+poetry,23.01,"English Language and Literature, General.",4
+poetry,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",4
+poetry,5.01,Area Studies.,1
+poetry,30.22,Classical and Ancient Studies.,3
+poetry,13.01,"Education, General.",2
+poetry,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",5
+poetry,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",5
+poetry,38.02,Religion/Religious Studies.,1
+poetry,16.05,"Germanic Languages, Literatures, and Linguistics.",4
+poetry,51.99,"Health Professions and Related Clinical Sciences, Other.",1
+poetry,16.03,"East Asian Languages, Literatures, and Linguistics.",4
+poetry,16.09,"Romance Languages, Literatures, and Linguistics.",4
+poetry,14.27,Systems Engineering.,1
+poetry,50.06,Film/Video and Photographic Arts.,1
+poetry,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",4
+poetry,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+poetry,9.09,"Public Relations, Advertising, and Applied Communication.",1
+poetry,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+poetry,43.01,Criminal Justice and Corrections.,1
+poetry,45.12,Urban Studies/Affairs.,1
+poetry,19.02,Family and Consumer Sciences/Human Sciences Business Services.,1
+poetry,19.01,"Family and Consumer Sciences/Human Sciences, General.",1
+poetry,45.02,Anthropology.,1
+poetry,10.03,Graphic Communications.,1
+poetry,52.15,Real Estate.,1
+ecology,50.04,Design and Applied Arts.,1
+ecology,11.01,"Computer and Information Sciences, General.",1
+ecology,50.07,Fine and Studio Arts.,1
+ecology,14.18,Materials Engineering.,1
+ecology,26.12,Biotechnology.,2
+ecology,40.08,Physics.,1
+ecology,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+ecology,40.05,Chemistry.,2
+ecology,11.04,Information Science/Studies.,1
+ecology,23.01,"English Language and Literature, General.",1
+ecology,42.01,"Psychology, General.",1
+ecology,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",1
+ecology,13.01,"Education, General.",1
+ecology,51.07,Health and Medical Administrative Services.,1
+ecology,14.05,Biomedical/Medical Engineering.,2
+ecology,38.02,Religion/Religious Studies.,1
+ecology,14.14,Environmental/Environmental Health Engineering.,4
+ecology,52.02,"Business Administration, Management and Operations.",1
+ecology,14.09,Computer Engineering.,1
+ecology,27.01,Mathematics.,1
+ecology,45.11,Sociology.,2
+ecology,26.07,Zoology/Animal Biology.,3
+ecology,3.02,Environmental/Natural Resources Management and Policy.,5
+ecology,3.03,Fishing and Fisheries Sciences and Management.,5
+ecology,3.01,Natural Resources Conservation and Research.,5
+printmaking,9.01,Communication and Media Studies.,3
+printmaking,50.07,Fine and Studio Arts.,5
+printmaking,30.5,Mathematics and Atmospheric/Oceanic Science.,1
+printmaking,14.14,Environmental/Environmental Health Engineering.,1
+printmaking,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",1
+printmaking,50.04,Design and Applied Arts.,5
+entrepreneurship,52.07,Entrepreneurial and Small Business Operations.,5
+entrepreneurship,10.03,Graphic Communications.,1
+entrepreneurship,52.01,"Business/Commerce, General.",5
+entrepreneurship,52.02,"Business Administration, Management and Operations.",5
+entrepreneurship,14.11,Engineering Mechanics.,1
+entrepreneurship,50.05,Drama/Theatre Arts and Stagecraft.,1
+entrepreneurship,30.71,Data Analytics.,1
+entrepreneurship,52.11,International Business.,4
+entrepreneurship,52.05,Business/Corporate Communications.,4
+entrepreneurship,9.04,Journalism.,1
+entrepreneurship,52.18,"General Sales, Merchandising and Related Marketing Operations.",3
+entrepreneurship,51.22,Public Health.,1
+entrepreneurship,1.11,Plant Sciences.,1
+entrepreneurship,29.02,"Intelligence, Command Control and Information Operations.",1
+entrepreneurship,5.01,Area Studies.,1
+entrepreneurship,38.02,Religion/Religious Studies.,1
+entrepreneurship,27.03,Applied Mathematics.,1
+entrepreneurship,14.08,Civil Engineering.,1
+entrepreneurship,9.01,Communication and Media Studies.,1
+entrepreneurship,27.01,Mathematics.,1
+entrepreneurship,50.09,Music.,1
+plant science,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",1
+plant science,45.99,"Social Sciences, Other.",1
+plant science,11.09,Computer Systems Networking and Telecommunications.,1
+plant science,13.04,Educational Administration and Supervision.,1
+plant science,27.01,Mathematics.,1
+plant science,50.05,Drama/Theatre Arts and Stagecraft.,1
+plant science,15.12,Computer Engineering Technologies/Technicians.,1
+plant science,11.1,Computer/Information Technology Administration and Management.,1
+plant science,31.03,"Parks, Recreation, and Leisure Facilities Management.",3
+plant science,54.01,History.,1
+plant science,14.14,Environmental/Environmental Health Engineering.,4
+plant science,4.05,Interior Architecture.,1
+plant science,50.09,Music.,1
+plant science,45.12,Urban Studies/Affairs.,1
+plant science,23.01,"English Language and Literature, General.",1
+plant science,30.1,Biopsychology.,2
+plant science,15,"Engineering Technologies/Technicians, General.",1
+plant science,5.01,Area Studies.,1
+plant science,52.12,Management Information Systems and Services.,1
+plant science,15.03,Electrical/Electronic Engineering Technologies/Technicians.,1
+plant science,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+plant science,52.07,Entrepreneurial and Small Business Operations.,1
+plant science,15.05,Environmental Control Technologies/Technicians.,2
+plant science,3.05,Forestry.,5
+plant science,30.5,Mathematics and Atmospheric/Oceanic Science.,2
+computer science,52.07,Entrepreneurial and Small Business Operations.,1
+computer science,51,"Health Services/Allied Health/Health Sciences, General.",1
+computer science,50.06,Film/Video and Photographic Arts.,1
+computer science,1.03,Agricultural Production Operations.,1
+computer science,30.5,Mathematics and Atmospheric/Oceanic Science.,1
+computer science,29.02,"Intelligence, Command Control and Information Operations.",2
+computer science,52.12,Management Information Systems and Services.,3
+computer science,1.11,Plant Sciences.,1
+computer science,50.01,"Visual and Performing Arts, General.",1
+computer science,15.05,Environmental Control Technologies/Technicians.,1
+computer science,15.03,Electrical/Electronic Engineering Technologies/Technicians.,1
+computer science,49.01,Air Transportation.,1
+computer science,11.09,Computer Systems Networking and Telecommunications.,4
+computer science,45.12,Urban Studies/Affairs.,1
+computer science,14.12,Engineering Physics.,1
+computer science,14.14,Environmental/Environmental Health Engineering.,1
+computer science,3.05,Forestry.,1
+computer science,13.04,Educational Administration and Supervision.,1
+computer science,1,"Agriculture, General.",1
+computer science,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+computer science,26.05,Microbiological Sciences and Immunology.,1
+computer science,15.12,Computer Engineering Technologies/Technicians.,4
+computer science,30.1,Biopsychology.,1
+computer science,30.19,Nutrition Sciences.,1
+computer science,36.01,Leisure and Recreational Activities.,1
+sociolinguistics,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",5
+sociolinguistics,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",5
+sociolinguistics,45.02,Anthropology.,3
+sociolinguistics,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",5
+sociolinguistics,5.01,Area Studies.,3
+sociolinguistics,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",3
+sociolinguistics,16.09,"Romance Languages, Literatures, and Linguistics.",5
+sociolinguistics,23.01,"English Language and Literature, General.",5
+beauty,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",1
+beauty,51.99,"Health Professions and Related Clinical Sciences, Other.",3
+beauty,26.04,Cell/Cellular Biology and Anatomical Sciences.,2
+beauty,51.22,Public Health.,1
+beauty,50.07,Fine and Studio Arts.,2
+beauty,10.02,Audiovisual Communications Technologies/Technicians.,1
+beauty,14.07,Chemical Engineering.,1
+beauty,40.08,Physics.,1
+beauty,45.06,Economics.,1
+beauty,40.06,Geological and Earth Sciences/Geosciences.,1
+machine learning,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+machine learning,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",1
+machine learning,30.22,Classical and Ancient Studies.,1
+machine learning,26.09,"Physiology, Pathology and Related Sciences.",1
+machine learning,3.05,Forestry.,1
+machine learning,45.04,Criminology.,2
+machine learning,30.18,Natural Sciences.,1
+machine learning,38.02,Religion/Religious Studies.,1
+machine learning,52.16,Taxation.,1
+machine learning,54.01,History.,1
+machine learning,4.02,Architecture.,1
+machine learning,27.05,Statistics.,4
+machine learning,31.03,"Parks, Recreation, and Leisure Facilities Management.",1
+machine learning,52.02,"Business Administration, Management and Operations.",2
+machine learning,52.15,Real Estate.,1
+machine learning,44.07,Social Work.,1
+machine learning,30.12,Historic Preservation and Conservation.,1
+machine learning,14.02,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",1
+machine learning,16.05,"Germanic Languages, Literatures, and Linguistics.",1
+machine learning,26.05,Microbiological Sciences and Immunology.,1
+machine learning,43.01,Criminal Justice and Corrections.,1
+machine learning,13.11,Student Counseling and Personnel Services.,1
+machine learning,15.03,Electrical/Electronic Engineering Technologies/Technicians.,1
+machine learning,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+machine learning,15,"Engineering Technologies/Technicians, General.",1
+acting,50.05,Drama/Theatre Arts and Stagecraft.,5
+acting,45.04,Criminology.,1
+acting,50.06,Film/Video and Photographic Arts.,2
+acting,50.01,"Visual and Performing Arts, General.",5
+acting,52.01,"Business/Commerce, General.",1
+acting,4.02,Architecture.,1
+acting,19.04,Family and Consumer Economics and Related Studies.,1
+acting,10.02,Audiovisual Communications Technologies/Technicians.,2
+acting,23.01,"English Language and Literature, General.",2
+acting,50.09,Music.,2
+acting,1.06,Applied Horticulture and Horticultural Business Services.,1
+acting,43.01,Criminal Justice and Corrections.,1
+acting,51.31,Dietetics and Clinical Nutrition Services.,1
+acting,30.18,Natural Sciences.,1
+acting,9.04,Journalism.,1
+acting,44.07,Social Work.,1
+acting,40.05,Chemistry.,1
+acting,11.01,"Computer and Information Sciences, General.",1
+acting,11.04,Information Science/Studies.,1
+acting,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+acting,40.06,Geological and Earth Sciences/Geosciences.,1
+acting,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+acting,14.33,Construction Engineering.,1
+acting,14.02,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",1
+acting,40.08,Physics.,1
+pediatric nursing,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5
+pediatric nursing,9.01,Communication and Media Studies.,1
+pediatric nursing,44.05,Public Policy Analysis.,1
+pediatric nursing,51.02,Communication Disorders Sciences and Services.,2
+pediatric nursing,50.09,Music.,1
+pediatric nursing,51.22,Public Health.,3
+pediatric nursing,51.99,"Health Professions and Related Clinical Sciences, Other.",4
+pediatric nursing,45.07,Geography and Cartography.,1
+pediatric nursing,51.07,Health and Medical Administrative Services.,3
+pediatric nursing,26.04,Cell/Cellular Biology and Anatomical Sciences.,2
+pediatric nursing,1.1,Food Science and Technology.,2
+pediatric nursing,27.05,Statistics.,1
+pediatric nursing,1.11,Plant Sciences.,1
+pediatric nursing,26.12,Biotechnology.,2
+pediatric nursing,40.05,Chemistry.,1
+pediatric nursing,1.01,Agricultural Business and Management.,1
+pediatric nursing,16.09,"Romance Languages, Literatures, and Linguistics.",1
+pediatric nursing,11.01,"Computer and Information Sciences, General.",1
+travel,49.01,Air Transportation.,4
+travel,9.04,Journalism.,3
+travel,50.06,Film/Video and Photographic Arts.,1
+travel,52.18,"General Sales, Merchandising and Related Marketing Operations.",1
+travel,45.12,Urban Studies/Affairs.,1
+travel,30.27,Human Biology.,1
+travel,9.01,Communication and Media Studies.,1
+travel,5.01,Area Studies.,1
+travel,29.02,"Intelligence, Command Control and Information Operations.",1
+travel,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",1
+travel,36.01,Leisure and Recreational Activities.,3
+travel,45.07,Geography and Cartography.,4
+travel,26.12,Biotechnology.,1
+travel,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+travel,38.02,Religion/Religious Studies.,1
+travel,16.09,"Romance Languages, Literatures, and Linguistics.",1
+travel,15.15,Engineering-Related Fields.,1
+travel,19.02,Family and Consumer Sciences/Human Sciences Business Services.,1
+travel,19.01,"Family and Consumer Sciences/Human Sciences, General.",1
+travel,14.35,Industrial Engineering.,1
+travel,45.02,Anthropology.,2
+travel,11.01,"Computer and Information Sciences, General.",1
+travel,50.09,Music.,1
+travel,40.02,Astronomy and Astrophysics.,1
+travel,45.11,Sociology.,2
+politics,45.1,Political Science and Government.,5
+politics,14.18,Materials Engineering.,1
+politics,14.27,Systems Engineering.,1
+politics,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+politics,1.06,Applied Horticulture and Horticultural Business Services.,1
+politics,30.18,Natural Sciences.,1
+politics,27.03,Applied Mathematics.,1
+politics,26.02,"Biochemistry, Biophysics and Molecular Biology.",1
+politics,14.07,Chemical Engineering.,1
+politics,30.27,Human Biology.,1
+politics,26.13,"Ecology, Evolution, Systematics, and Population Biology.",1
+politics,30.7,Data Science.,1
+politics,52.13,Management Sciences and Quantitative Methods.,1
+politics,40.06,Geological and Earth Sciences/Geosciences.,1
+politics,23.13,Rhetoric and Composition/Writing Studies.,2
+politics,42.01,"Psychology, General.",1
+politics,51.99,"Health Professions and Related Clinical Sciences, Other.",1
+politics,1.09,Animal Sciences.,1
+politics,40.05,Chemistry.,1
+politics,52.15,Real Estate.,1
+politics,1,"Agriculture, General.",1
+politics,50.04,Design and Applied Arts.,1
+politics,52.07,Entrepreneurial and Small Business Operations.,1
+politics,51.07,Health and Medical Administrative Services.,1
+politics,29.02,"Intelligence, Command Control and Information Operations.",3
+museum management,14.05,Biomedical/Medical Engineering.,1
+museum management,50.03,Dance.,1
+museum management,42.01,"Psychology, General.",1
+museum management,26.09,"Physiology, Pathology and Related Sciences.",1
+museum management,14.19,Mechanical Engineering.,1
+museum management,13.06,"Educational Assessment, Evaluation, and Research.",2
+museum management,51.09,"Allied Health Diagnostic, Intervention, and Treatment Professions.",1
+museum management,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+museum management,15.03,Electrical/Electronic Engineering Technologies/Technicians.,1
+museum management,45.11,Sociology.,3
+museum management,30.12,Historic Preservation and Conservation.,4
+museum management,13.11,Student Counseling and Personnel Services.,1
+museum management,51.27,Medical Illustration and Informatics.,1
+museum management,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",2
+museum management,38.02,Religion/Religious Studies.,2
+museum management,36.01,Leisure and Recreational Activities.,2
+museum management,45.02,Anthropology.,4
+museum management,29.02,"Intelligence, Command Control and Information Operations.",1
+museum management,50.06,Film/Video and Photographic Arts.,2
+museum management,30.5,Mathematics and Atmospheric/Oceanic Science.,1
+museum management,30.27,Human Biology.,2
+museum management,54.01,History.,3
+museum management,3.05,Forestry.,1
+museum management,50.07,Fine and Studio Arts.,2
+museum management,16.09,"Romance Languages, Literatures, and Linguistics.",1
+sports medicine,51.09,"Allied Health Diagnostic, Intervention, and Treatment Professions.",4
+sports medicine,9.09,"Public Relations, Advertising, and Applied Communication.",1
+sports medicine,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",5
+sports medicine,51,"Health Services/Allied Health/Health Sciences, General.",4
+sports medicine,9.01,Communication and Media Studies.,1
+sports medicine,51.31,Dietetics and Clinical Nutrition Services.,4
+sports medicine,22.02,Legal Research and Advanced Professional Studies.,1
+sports medicine,9.07,"Radio, Television, and Digital Communication.",1
+sports medicine,52.03,Accounting and Related Services.,1
+sports medicine,3.03,Fishing and Fisheries Sciences and Management.,1
+sports medicine,30.25,Cognitive Science.,2
+sports medicine,9.04,Journalism.,1
+sports medicine,26.09,"Physiology, Pathology and Related Sciences.",4
+sports medicine,50.99,"Visual and Performing Arts, Other.",1
+sports medicine,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",1
+sports medicine,19.01,"Family and Consumer Sciences/Human Sciences, General.",1
+sports medicine,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+sports medicine,45.02,Anthropology.,1
+sports medicine,26.12,Biotechnology.,2
+sports medicine,54.01,History.,1
+sports medicine,23.13,Rhetoric and Composition/Writing Studies.,1
+sports medicine,40.08,Physics.,1
+sports medicine,1.01,Agricultural Business and Management.,1
+sports medicine,40.99,"Physical Sciences, Other.",2
+sports medicine,26.13,"Ecology, Evolution, Systematics, and Population Biology.",1
+molecular biology,13.01,"Education, General.",1
+molecular biology,50.05,Drama/Theatre Arts and Stagecraft.,1
+molecular biology,52.13,Management Sciences and Quantitative Methods.,1
+molecular biology,52.02,"Business Administration, Management and Operations.",1
+molecular biology,14.02,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",1
+molecular biology,50.07,Fine and Studio Arts.,1
+molecular biology,14.1,"Electrical, Electronics, and Communications Engineering.",1
+molecular biology,27.05,Statistics.,1
+molecular biology,23.01,"English Language and Literature, General.",1
+molecular biology,14.01,"Engineering, General.",1
+molecular biology,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",1
+molecular biology,45.11,Sociology.,1
+molecular biology,14.14,Environmental/Environmental Health Engineering.,1
+molecular biology,45.02,Anthropology.,1
+molecular biology,52.15,Real Estate.,1
+molecular biology,42.01,"Psychology, General.",1
+molecular biology,27.03,Applied Mathematics.,1
+molecular biology,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",2
+molecular biology,40.04,Atmospheric Sciences and Meteorology.,2
+molecular biology,23.13,Rhetoric and Composition/Writing Studies.,1
+molecular biology,10.02,Audiovisual Communications Technologies/Technicians.,1
+molecular biology,26.12,Biotechnology.,5
+molecular biology,13.1,Special Education and Teaching.,1
+molecular biology,52.18,"General Sales, Merchandising and Related Marketing Operations.",1
+molecular biology,30.5,Mathematics and Atmospheric/Oceanic Science.,1
+european studies,45.04,Criminology.,1
+european studies,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+european studies,30.44,Geography and Environmental Studies.,2
+european studies,11.05,Computer Systems Analysis.,1
+european studies,30.12,Historic Preservation and Conservation.,2
+european studies,4.05,Interior Architecture.,2
+european studies,30.1,Biopsychology.,1
+european studies,13.99,"Education, Other.",1
+european studies,30.01,Biological and Physical Sciences.,1
+european studies,40.04,Atmospheric Sciences and Meteorology.,1
+european studies,30.33,Sustainability Studies.,1
+european studies,15.17,Energy Systems Technologies/Technicians.,1
+european studies,26.99,"Biological and Biomedical Sciences, Other.",1
+european studies,14.01,"Engineering, General.",1
+european studies,30.2,International/Globalization Studies.,3
+european studies,52.01,"Business/Commerce, General.",1
+european studies,3.02,Environmental/Natural Resources Management and Policy.,1
+european studies,50.1,"Arts, Entertainment, and Media Management.",1
+european studies,14.25,Petroleum Engineering.,1
+european studies,15.05,Environmental Control Technologies/Technicians.,1
+european studies,24.01,"Liberal Arts and Sciences, General Studies and Humanities.",2
+european studies,30.7,Data Science.,1
+european studies,30.17,Behavioral Sciences.,1
+european studies,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",4
+european studies,16.05,"Germanic Languages, Literatures, and Linguistics.",4
+medicine,40.99,"Physical Sciences, Other.",2
+medicine,26.13,"Ecology, Evolution, Systematics, and Population Biology.",1
+medicine,51.99,"Health Professions and Related Clinical Sciences, Other.",5
+medicine,14.11,Engineering Mechanics.,1
+medicine,51,"Health Services/Allied Health/Health Sciences, General.",5
+medicine,1.09,Animal Sciences.,3
+medicine,40.06,Geological and Earth Sciences/Geosciences.,1
+medicine,14.13,Engineering Science.,1
+medicine,51.31,Dietetics and Clinical Nutrition Services.,4
+medicine,1.01,Agricultural Business and Management.,1
+medicine,26.04,Cell/Cellular Biology and Anatomical Sciences.,4
+medicine,51.22,Public Health.,4
+medicine,45.11,Sociology.,2
+medicine,30.19,Nutrition Sciences.,3
+medicine,51.07,Health and Medical Administrative Services.,3
+medicine,27.01,Mathematics.,1
+medicine,44.05,Public Policy Analysis.,1
+medicine,1.11,Plant Sciences.,1
+medicine,26.02,"Biochemistry, Biophysics and Molecular Biology.",3
+medicine,51.09,"Allied Health Diagnostic, Intervention, and Treatment Professions.",4
+medicine,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",1
+medicine,45.06,Economics.,1
+medicine,1.1,Food Science and Technology.,2
+medicine,30.22,Classical and Ancient Studies.,1
+medicine,50.07,Fine and Studio Arts.,1
+cognitive science,50.06,Film/Video and Photographic Arts.,1
+cognitive science,50.01,"Visual and Performing Arts, General.",1
+cognitive science,14.12,Engineering Physics.,1
+cognitive science,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",1
+cognitive science,11.09,Computer Systems Networking and Telecommunications.,1
+cognitive science,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+cognitive science,15.05,Environmental Control Technologies/Technicians.,1
+cognitive science,15.03,Electrical/Electronic Engineering Technologies/Technicians.,1
+cognitive science,15.12,Computer Engineering Technologies/Technicians.,1
+cognitive science,11.1,Computer/Information Technology Administration and Management.,1
+cognitive science,31.03,"Parks, Recreation, and Leisure Facilities Management.",1
+cognitive science,4.05,Interior Architecture.,1
+cognitive science,45.12,Urban Studies/Affairs.,1
+cognitive science,3.05,Forestry.,1
+cognitive science,38.02,Religion/Religious Studies.,1
+cognitive science,44.05,Public Policy Analysis.,1
+cognitive science,30.14,Museology/Museum Studies.,1
+cognitive science,52.1,Human Resources Management and Services.,2
+cognitive science,16.16,American Sign Language.,1
+cognitive science,51.15,Mental and Social Health Services and Allied Professions.,4
+cognitive science,45.99,"Social Sciences, Other.",1
+cognitive science,5.01,Area Studies.,1
+cognitive science,52.15,Real Estate.,1
+cognitive science,14.14,Environmental/Environmental Health Engineering.,1
+cognitive science,13.04,Educational Administration and Supervision.,1
+music,27.01,Mathematics.,1
+music,26.02,"Biochemistry, Biophysics and Molecular Biology.",1
+music,40.05,Chemistry.,1
+music,27.03,Applied Mathematics.,1
+music,40.06,Geological and Earth Sciences/Geosciences.,1
+music,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",1
+music,52.02,"Business Administration, Management and Operations.",1
+music,13.1,Special Education and Teaching.,1
+music,40.08,Physics.,1
+music,9.04,Journalism.,1
+music,30.5,Mathematics and Atmospheric/Oceanic Science.,1
+music,50.07,Fine and Studio Arts.,4
+music,50.04,Design and Applied Arts.,3
+music,50.01,"Visual and Performing Arts, General.",4
+music,50.09,Music.,5
+music,3.05,Forestry.,1
+music,38.01,Philosophy.,1
+music,50.99,"Visual and Performing Arts, Other.",4
+music,1.08,Agricultural Public Services.,1
+music,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",1
+music,36.01,Leisure and Recreational Activities.,1
+music,45.12,Urban Studies/Affairs.,1
+music,16.09,"Romance Languages, Literatures, and Linguistics.",1
+music,30.25,Cognitive Science.,1
+music,5.01,Area Studies.,1
+fitness,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",5
+fitness,44.07,Social Work.,2
+fitness,52.02,"Business Administration, Management and Operations.",1
+fitness,11.99,"Computer and Information Sciences and Support Services, Other.",1
+fitness,50.04,Design and Applied Arts.,1
+fitness,50.05,Drama/Theatre Arts and Stagecraft.,1
+fitness,26.11,"Biomathematics, Bioinformatics, and Computational Biology.",1
+fitness,51.09,"Allied Health Diagnostic, Intervention, and Treatment Professions.",3
+fitness,43.01,Criminal Justice and Corrections.,1
+fitness,10.02,Audiovisual Communications Technologies/Technicians.,1
+fitness,54.01,History.,1
+fitness,50.07,Fine and Studio Arts.,1
+fitness,45.11,Sociology.,1
+fitness,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+fitness,27.01,Mathematics.,1
+fitness,50.1,"Arts, Entertainment, and Media Management.",1
+fitness,19.07,"Human Development, Family Studies, and Related Services.",1
+fitness,51.31,Dietetics and Clinical Nutrition Services.,4
+fitness,26.01,"Biology, General.",2
+fitness,40.05,Chemistry.,1
+fitness,40.02,Astronomy and Astrophysics.,1
+fitness,23.01,"English Language and Literature, General.",1
+fitness,11.07,Computer Science.,1
+fitness,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",1
+fitness,51.99,"Health Professions and Related Clinical Sciences, Other.",3
+horticulture,1.06,Applied Horticulture and Horticultural Business Services.,5
+horticulture,1.11,Plant Sciences.,5
+horticulture,1,"Agriculture, General.",4
+horticulture,1.03,Agricultural Production Operations.,3
+horticulture,1.01,Agricultural Business and Management.,3
+horticulture,4.06,Landscape Architecture.,3
+horticulture,1.08,Agricultural Public Services.,3
+horticulture,45.11,Sociology.,1
+horticulture,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",1
+religious studies,45.04,Criminology.,1
+religious studies,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+religious studies,30.44,Geography and Environmental Studies.,1
+religious studies,11.05,Computer Systems Analysis.,1
+religious studies,30.12,Historic Preservation and Conservation.,2
+religious studies,4.05,Interior Architecture.,1
+religious studies,30.1,Biopsychology.,1
+religious studies,13.99,"Education, Other.",1
+religious studies,30.01,Biological and Physical Sciences.,1
+religious studies,30.17,Behavioral Sciences.,1
+religious studies,40.04,Atmospheric Sciences and Meteorology.,1
+religious studies,30.33,Sustainability Studies.,1
+religious studies,15.17,Energy Systems Technologies/Technicians.,1
+religious studies,26.99,"Biological and Biomedical Sciences, Other.",1
+religious studies,14.01,"Engineering, General.",1
+religious studies,30.2,International/Globalization Studies.,1
+religious studies,45.03,Archeology.,2
+religious studies,52.01,"Business/Commerce, General.",1
+religious studies,3.02,Environmental/Natural Resources Management and Policy.,1
+religious studies,50.1,"Arts, Entertainment, and Media Management.",1
+religious studies,14.25,Petroleum Engineering.,1
+religious studies,15.05,Environmental Control Technologies/Technicians.,1
+religious studies,24.01,"Liberal Arts and Sciences, General Studies and Humanities.",2
+religious studies,30.7,Data Science.,1
+religious studies,38.02,Religion/Religious Studies.,5
+quantum physics,52.12,Management Information Systems and Services.,1
+quantum physics,13.01,"Education, General.",1
+quantum physics,9.04,Journalism.,1
+quantum physics,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",1
+quantum physics,4.06,Landscape Architecture.,1
+quantum physics,26.12,Biotechnology.,2
+quantum physics,52.08,Finance and Financial Management Services.,1
+quantum physics,27.03,Applied Mathematics.,3
+quantum physics,38.02,Religion/Religious Studies.,1
+quantum physics,27.05,Statistics.,2
+quantum physics,50.03,Dance.,1
+quantum physics,30.14,Museology/Museum Studies.,1
+quantum physics,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+quantum physics,40.08,Physics.,5
+quantum physics,40.05,Chemistry.,2
+quantum physics,14.43,Biochemical Engineering.,2
+quantum physics,45.99,"Social Sciences, Other.",1
+quantum physics,14.18,Materials Engineering.,2
+quantum physics,30.27,Human Biology.,1
+quantum physics,14.13,Engineering Science.,3
+quantum physics,26.02,"Biochemistry, Biophysics and Molecular Biology.",2
+quantum physics,14.09,Computer Engineering.,2
+quantum physics,11.07,Computer Science.,2
+quantum physics,14.12,Engineering Physics.,4
+quantum physics,14.01,"Engineering, General.",2
+religion,38.02,Religion/Religious Studies.,5
+religion,45.11,Sociology.,3
+religion,45.12,Urban Studies/Affairs.,2
+religion,45.02,Anthropology.,3
+religion,22.02,Legal Research and Advanced Professional Studies.,1
+religion,30.22,Classical and Ancient Studies.,1
+religion,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",2
+religion,16.03,"East Asian Languages, Literatures, and Linguistics.",2
+religion,5.01,Area Studies.,2
+religion,42.28,"Clinical, Counseling and Applied Psychology.",1
+religion,3.05,Forestry.,1
+religion,54.01,History.,3
+religion,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",2
+religion,13.11,Student Counseling and Personnel Services.,1
+religion,43.01,Criminal Justice and Corrections.,1
+religion,13.06,"Educational Assessment, Evaluation, and Research.",1
+religion,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",2
+religion,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",2
+religion,45.1,Political Science and Government.,1
+religion,45.09,International Relations and National Security Studies.,1
+religion,19.02,Family and Consumer Sciences/Human Sciences Business Services.,1
+religion,19.01,"Family and Consumer Sciences/Human Sciences, General.",1
+religion,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",1
+religion,51.15,Mental and Social Health Services and Allied Professions.,1
+religion,51.99,"Health Professions and Related Clinical Sciences, Other.",1
+cultural studies,14.07,Chemical Engineering.,1
+cultural studies,1.09,Animal Sciences.,1
+cultural studies,45.04,Criminology.,1
+cultural studies,1.03,Agricultural Production Operations.,1
+cultural studies,40.02,Astronomy and Astrophysics.,1
+cultural studies,3.01,Natural Resources Conservation and Research.,1
+cultural studies,52.08,Finance and Financial Management Services.,1
+cultural studies,11.07,Computer Science.,1
+cultural studies,30.01,Biological and Physical Sciences.,1
+cultural studies,14.27,Systems Engineering.,1
+cultural studies,30.7,Data Science.,1
+cultural studies,30.44,Geography and Environmental Studies.,1
+cultural studies,4.05,Interior Architecture.,1
+cultural studies,52.12,Management Information Systems and Services.,1
+cultural studies,15.17,Energy Systems Technologies/Technicians.,1
+cultural studies,44.05,Public Policy Analysis.,3
+cultural studies,40.08,Physics.,1
+cultural studies,29.04,Military Systems and Maintenance Technology.,1
+cultural studies,1.12,Soil Sciences.,1
+cultural studies,14.18,Materials Engineering.,1
+cultural studies,52.1,Human Resources Management and Services.,2
+cultural studies,14.35,Industrial Engineering.,1
+cultural studies,14.1,"Electrical, Electronics, and Communications Engineering.",1
+cultural studies,1.1,Food Science and Technology.,1
+cultural studies,31.03,"Parks, Recreation, and Leisure Facilities Management.",1
+chemistry,54.01,History.,1
+chemistry,26.12,Biotechnology.,3
+chemistry,23.01,"English Language and Literature, General.",1
+chemistry,50.09,Music.,1
+chemistry,38.02,Religion/Religious Studies.,1
+chemistry,45.1,Political Science and Government.,1
+chemistry,3.05,Forestry.,1
+chemistry,30.5,Mathematics and Atmospheric/Oceanic Science.,2
+chemistry,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",1
+chemistry,11.04,Information Science/Studies.,1
+chemistry,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+chemistry,19.01,"Family and Consumer Sciences/Human Sciences, General.",1
+chemistry,45.09,International Relations and National Security Studies.,1
+chemistry,52.13,Management Sciences and Quantitative Methods.,1
+chemistry,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+chemistry,14.42,"Mechatronics, Robotics, and Automation Engineering.",1
+chemistry,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+chemistry,15.04,Electromechanical Technologies/Technicians.,1
+chemistry,16.05,"Germanic Languages, Literatures, and Linguistics.",1
+chemistry,52.02,"Business Administration, Management and Operations.",1
+chemistry,27.01,Mathematics.,1
+chemistry,14.11,Engineering Mechanics.,1
+chemistry,40.05,Chemistry.,5
+chemistry,30.19,Nutrition Sciences.,2
+chemistry,1.1,Food Science and Technology.,3
+evolutionary biology,50.05,Drama/Theatre Arts and Stagecraft.,1
+evolutionary biology,50.07,Fine and Studio Arts.,1
+evolutionary biology,13.01,"Education, General.",1
+evolutionary biology,52.13,Management Sciences and Quantitative Methods.,1
+evolutionary biology,45.11,Sociology.,2
+evolutionary biology,52.15,Real Estate.,1
+evolutionary biology,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+evolutionary biology,14.1,"Electrical, Electronics, and Communications Engineering.",1
+evolutionary biology,14.02,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",1
+evolutionary biology,26.12,Biotechnology.,4
+evolutionary biology,27.03,Applied Mathematics.,1
+evolutionary biology,13.1,Special Education and Teaching.,1
+evolutionary biology,54.01,History.,1
+evolutionary biology,14.01,"Engineering, General.",1
+evolutionary biology,40.04,Atmospheric Sciences and Meteorology.,1
+evolutionary biology,52.18,"General Sales, Merchandising and Related Marketing Operations.",1
+evolutionary biology,30.5,Mathematics and Atmospheric/Oceanic Science.,2
+evolutionary biology,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",1
+evolutionary biology,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+evolutionary biology,27.05,Statistics.,1
+evolutionary biology,9.04,Journalism.,1
+evolutionary biology,26.13,"Ecology, Evolution, Systematics, and Population Biology.",4
+evolutionary biology,3.03,Fishing and Fisheries Sciences and Management.,2
+evolutionary biology,26.99,"Biological and Biomedical Sciences, Other.",4
+evolutionary biology,26.01,"Biology, General.",5
+investing,52.08,Finance and Financial Management Services.,5
+investing,14.14,Environmental/Environmental Health Engineering.,1
+investing,30.1,Biopsychology.,1
+investing,26.12,Biotechnology.,1
+investing,52.13,Management Sciences and Quantitative Methods.,3
+investing,52.03,Accounting and Related Services.,4
+investing,27.03,Applied Mathematics.,2
+investing,45.03,Archeology.,1
+investing,30.7,Data Science.,2
+investing,30.17,Behavioral Sciences.,2
+investing,26.02,"Biochemistry, Biophysics and Molecular Biology.",1
+investing,27.01,Mathematics.,2
+investing,26.11,"Biomathematics, Bioinformatics, and Computational Biology.",1
+investing,51.22,Public Health.,1
+investing,19.04,Family and Consumer Economics and Related Studies.,3
+investing,13.04,Educational Administration and Supervision.,1
+investing,45.06,Economics.,4
+investing,14.07,Chemical Engineering.,1
+investing,52.07,Entrepreneurial and Small Business Operations.,3
+investing,30.18,Natural Sciences.,1
+investing,50.09,Music.,1
+investing,26.01,"Biology, General.",1
+investing,52.14,Marketing.,2
+investing,52.01,"Business/Commerce, General.",5
+investing,52.02,"Business Administration, Management and Operations.",5
+medieval studies,30.12,Historic Preservation and Conservation.,4
+medieval studies,4.05,Interior Architecture.,2
+medieval studies,30.1,Biopsychology.,1
+medieval studies,13.99,"Education, Other.",1
+medieval studies,30.01,Biological and Physical Sciences.,1
+medieval studies,30.17,Behavioral Sciences.,1
+medieval studies,40.04,Atmospheric Sciences and Meteorology.,1
+medieval studies,30.33,Sustainability Studies.,1
+medieval studies,15.17,Energy Systems Technologies/Technicians.,1
+medieval studies,26.99,"Biological and Biomedical Sciences, Other.",1
+medieval studies,14.01,"Engineering, General.",1
+medieval studies,30.2,International/Globalization Studies.,2
+medieval studies,45.03,Archeology.,4
+medieval studies,52.01,"Business/Commerce, General.",1
+medieval studies,3.02,Environmental/Natural Resources Management and Policy.,1
+medieval studies,50.1,"Arts, Entertainment, and Media Management.",1
+medieval studies,14.25,Petroleum Engineering.,1
+medieval studies,51.99,"Health Professions and Related Clinical Sciences, Other.",1
+medieval studies,16.05,"Germanic Languages, Literatures, and Linguistics.",3
+medieval studies,50.07,Fine and Studio Arts.,1
+medieval studies,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",2
+medieval studies,38.02,Religion/Religious Studies.,2
+medieval studies,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",2
+medieval studies,54.01,History.,5
+medieval studies,26.13,"Ecology, Evolution, Systematics, and Population Biology.",1
+artificial intelligence,52.15,Real Estate.,1
+artificial intelligence,14.08,Civil Engineering.,1
+artificial intelligence,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+artificial intelligence,30.18,Natural Sciences.,2
+artificial intelligence,30.1,Biopsychology.,1
+artificial intelligence,11.01,"Computer and Information Sciences, General.",5
+artificial intelligence,14.18,Materials Engineering.,1
+artificial intelligence,11.07,Computer Science.,5
+artificial intelligence,26.11,"Biomathematics, Bioinformatics, and Computational Biology.",5
+artificial intelligence,14.07,Chemical Engineering.,1
+artificial intelligence,14.27,Systems Engineering.,2
+artificial intelligence,38.01,Philosophy.,1
+artificial intelligence,51.07,Health and Medical Administrative Services.,1
+artificial intelligence,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",1
+artificial intelligence,50.09,Music.,1
+artificial intelligence,40.08,Physics.,1
+artificial intelligence,27.03,Applied Mathematics.,3
+artificial intelligence,52.08,Finance and Financial Management Services.,2
+artificial intelligence,42.27,Research and Experimental Psychology.,2
+artificial intelligence,14.14,Environmental/Environmental Health Engineering.,1
+artificial intelligence,14.25,Petroleum Engineering.,1
+artificial intelligence,14.05,Biomedical/Medical Engineering.,1
+artificial intelligence,16.05,"Germanic Languages, Literatures, and Linguistics.",1
+artificial intelligence,42.01,"Psychology, General.",1
+artificial intelligence,51.22,Public Health.,1
+polymer science,11.09,Computer Systems Networking and Telecommunications.,1
+polymer science,15.05,Environmental Control Technologies/Technicians.,2
+polymer science,13.04,Educational Administration and Supervision.,1
+polymer science,15.03,Electrical/Electronic Engineering Technologies/Technicians.,2
+polymer science,15.12,Computer Engineering Technologies/Technicians.,1
+polymer science,13.99,"Education, Other.",1
+polymer science,11.1,Computer/Information Technology Administration and Management.,1
+polymer science,31.03,"Parks, Recreation, and Leisure Facilities Management.",1
+polymer science,14.14,Environmental/Environmental Health Engineering.,1
+polymer science,4.05,Interior Architecture.,1
+polymer science,45.12,Urban Studies/Affairs.,1
+polymer science,30.1,Biopsychology.,1
+polymer science,3.05,Forestry.,1
+polymer science,44.05,Public Policy Analysis.,1
+polymer science,52.15,Real Estate.,1
+polymer science,30.14,Museology/Museum Studies.,1
+polymer science,30.22,Classical and Ancient Studies.,1
+polymer science,14.43,Biochemical Engineering.,3
+polymer science,51.07,Health and Medical Administrative Services.,1
+polymer science,15.08,Mechanical Engineering Related Technologies/Technicians.,3
+polymer science,16.09,"Romance Languages, Literatures, and Linguistics.",1
+polymer science,40.06,Geological and Earth Sciences/Geosciences.,2
+polymer science,14.07,Chemical Engineering.,4
+polymer science,43.01,Criminal Justice and Corrections.,1
+polymer science,40.05,Chemistry.,3
+psychobiology,42.01,"Psychology, General.",4
+social activism,29.04,Military Systems and Maintenance Technology.,1
+social activism,45.01,"Social Sciences, General.",4
+social activism,36.01,Leisure and Recreational Activities.,1
+social activism,14.35,Industrial Engineering.,1
+social activism,14.33,Construction Engineering.,1
+social activism,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+social activism,30.27,Human Biology.,2
+social activism,14.19,Mechanical Engineering.,1
+social activism,14.05,Biomedical/Medical Engineering.,1
+social activism,14.1,"Electrical, Electronics, and Communications Engineering.",1
+social activism,42.28,"Clinical, Counseling and Applied Psychology.",3
+social activism,49.01,Air Transportation.,1
+social activism,27.03,Applied Mathematics.,1
+social activism,15.1,Construction Engineering Technology/Technician.,1
+social activism,14.01,"Engineering, General.",1
+social activism,14.25,Petroleum Engineering.,1
+social activism,15.04,Electromechanical Technologies/Technicians.,1
+social activism,26.15,Neurobiology and Neurosciences.,2
+social activism,52.12,Management Information Systems and Services.,1
+social activism,11.09,Computer Systems Networking and Telecommunications.,1
+social activism,31.03,"Parks, Recreation, and Leisure Facilities Management.",1
+social activism,11.07,Computer Science.,1
+social activism,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",1
+social activism,23.13,Rhetoric and Composition/Writing Studies.,2
+social activism,52.2,Construction Management.,1
+lgbtq+ rights,26.12,Biotechnology.,1
+lgbtq+ rights,45.02,Anthropology.,3
+lgbtq+ rights,50.09,Music.,1
+lgbtq+ rights,9.01,Communication and Media Studies.,3
+lgbtq+ rights,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",4
+lgbtq+ rights,54.01,History.,2
+lgbtq+ rights,52.02,"Business Administration, Management and Operations.",1
+lgbtq+ rights,45.1,Political Science and Government.,2
+lgbtq+ rights,3.05,Forestry.,1
+lgbtq+ rights,38.01,Philosophy.,1
+lgbtq+ rights,45.09,International Relations and National Security Studies.,1
+lgbtq+ rights,30.2,International/Globalization Studies.,1
+lgbtq+ rights,22.02,Legal Research and Advanced Professional Studies.,1
+lgbtq+ rights,45.12,Urban Studies/Affairs.,2
+lgbtq+ rights,52.01,"Business/Commerce, General.",1
+lgbtq+ rights,50.04,Design and Applied Arts.,1
+lgbtq+ rights,40.06,Geological and Earth Sciences/Geosciences.,1
+lgbtq+ rights,50.07,Fine and Studio Arts.,1
+lgbtq+ rights,14.18,Materials Engineering.,1
+lgbtq+ rights,16.09,"Romance Languages, Literatures, and Linguistics.",1
+lgbtq+ rights,40.08,Physics.,1
+lgbtq+ rights,14.07,Chemical Engineering.,1
+lgbtq+ rights,1.09,Animal Sciences.,1
+lgbtq+ rights,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",2
+lgbtq+ rights,40.05,Chemistry.,1
+immigration policy,40.05,Chemistry.,1
+immigration policy,14.02,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",1
+immigration policy,38.02,Religion/Religious Studies.,2
+immigration policy,14.11,Engineering Mechanics.,1
+immigration policy,40.08,Physics.,1
+immigration policy,5.01,Area Studies.,3
+immigration policy,26.15,Neurobiology and Neurosciences.,1
+immigration policy,52.15,Real Estate.,1
+immigration policy,45.01,"Social Sciences, General.",4
+immigration policy,45.12,Urban Studies/Affairs.,3
+immigration policy,1,"Agriculture, General.",1
+immigration policy,23.01,"English Language and Literature, General.",2
+immigration policy,45.11,Sociology.,4
+immigration policy,14.35,Industrial Engineering.,1
+immigration policy,14.33,Construction Engineering.,1
+immigration policy,30.17,Behavioral Sciences.,1
+immigration policy,45.02,Anthropology.,2
+immigration policy,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",2
+immigration policy,3.05,Forestry.,1
+immigration policy,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",4
+immigration policy,19.02,Family and Consumer Sciences/Human Sciences Business Services.,2
+immigration policy,43.01,Criminal Justice and Corrections.,3
+immigration policy,54.01,History.,1
+immigration policy,19.01,"Family and Consumer Sciences/Human Sciences, General.",2
+immigration policy,16.09,"Romance Languages, Literatures, and Linguistics.",2
+linguistics,45.02,Anthropology.,3
+linguistics,13.01,"Education, General.",1
+linguistics,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",4
+linguistics,16.16,American Sign Language.,5
+linguistics,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",5
+linguistics,51.02,Communication Disorders Sciences and Services.,3
+linguistics,23.01,"English Language and Literature, General.",5
+linguistics,50.06,Film/Video and Photographic Arts.,1
+linguistics,5.01,Area Studies.,2
+linguistics,19.02,Family and Consumer Sciences/Human Sciences Business Services.,1
+linguistics,38.01,Philosophy.,1
+linguistics,30.18,Natural Sciences.,1
+linguistics,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+linguistics,54.01,History.,2
+linguistics,45.12,Urban Studies/Affairs.,1
+linguistics,30.14,Museology/Museum Studies.,2
+linguistics,50.01,"Visual and Performing Arts, General.",1
+linguistics,16.09,"Romance Languages, Literatures, and Linguistics.",5
+linguistics,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",5
+linguistics,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",5
+linguistics,13.04,Educational Administration and Supervision.,1
+linguistics,11.01,"Computer and Information Sciences, General.",1
+linguistics,19.01,"Family and Consumer Sciences/Human Sciences, General.",1
+linguistics,16.05,"Germanic Languages, Literatures, and Linguistics.",5
+linguistics,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",1
+robotics,15.04,Electromechanical Technologies/Technicians.,5
+robotics,52.15,Real Estate.,1
+robotics,14.27,Systems Engineering.,3
+robotics,14.02,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",4
+robotics,16.09,"Romance Languages, Literatures, and Linguistics.",1
+robotics,40.08,Physics.,2
+robotics,40.06,Geological and Earth Sciences/Geosciences.,1
+robotics,30.18,Natural Sciences.,2
+robotics,14.08,Civil Engineering.,3
+robotics,14.18,Materials Engineering.,3
+robotics,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+robotics,11.07,Computer Science.,2
+robotics,14.42,"Mechatronics, Robotics, and Automation Engineering.",5
+robotics,50.09,Music.,1
+robotics,15.08,Mechanical Engineering Related Technologies/Technicians.,4
+robotics,15,"Engineering Technologies/Technicians, General.",4
+robotics,27.01,Mathematics.,2
+robotics,14.09,Computer Engineering.,3
+robotics,11.01,"Computer and Information Sciences, General.",2
+robotics,14.05,Biomedical/Medical Engineering.,3
+robotics,51.22,Public Health.,1
+robotics,26.01,"Biology, General.",1
+robotics,19.04,Family and Consumer Economics and Related Studies.,1
+robotics,14.35,Industrial Engineering.,2
+robotics,14.1,"Electrical, Electronics, and Communications Engineering.",4
+mechanical engineering,23.01,"English Language and Literature, General.",1
+mechanical engineering,11.04,Information Science/Studies.,1
+mechanical engineering,52.02,"Business Administration, Management and Operations.",1
+mechanical engineering,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",1
+mechanical engineering,3.01,Natural Resources Conservation and Research.,1
+mechanical engineering,44.05,Public Policy Analysis.,1
+mechanical engineering,50.05,Drama/Theatre Arts and Stagecraft.,1
+mechanical engineering,44.04,Public Administration.,1
+mechanical engineering,1.11,Plant Sciences.,1
+mechanical engineering,36.01,Leisure and Recreational Activities.,1
+mechanical engineering,11.99,"Computer and Information Sciences and Support Services, Other.",1
+mechanical engineering,1.03,Agricultural Production Operations.,1
+mechanical engineering,38.01,Philosophy.,1
+mechanical engineering,50.07,Fine and Studio Arts.,1
+mechanical engineering,30.19,Nutrition Sciences.,1
+mechanical engineering,14.12,Engineering Physics.,3
+mechanical engineering,30.01,Biological and Physical Sciences.,2
+mechanical engineering,30.18,Natural Sciences.,2
+mechanical engineering,15,"Engineering Technologies/Technicians, General.",4
+mechanical engineering,1.06,Applied Horticulture and Horticultural Business Services.,1
+mechanical engineering,38.02,Religion/Religious Studies.,1
+mechanical engineering,52.14,Marketing.,1
+mechanical engineering,52.03,Accounting and Related Services.,1
+mechanical engineering,45.02,Anthropology.,1
+mechanical engineering,29.02,"Intelligence, Command Control and Information Operations.",1
+mental health,1.06,Applied Horticulture and Horticultural Business Services.,1
+mental health,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",1
+mental health,52.03,Accounting and Related Services.,1
+mental health,29.02,"Intelligence, Command Control and Information Operations.",1
+mental health,14.33,Construction Engineering.,1
+mental health,42.27,Research and Experimental Psychology.,4
+mental health,30.7,Data Science.,1
+mental health,14.08,Civil Engineering.,1
+mental health,52.01,"Business/Commerce, General.",1
+mental health,26.15,Neurobiology and Neurosciences.,4
+mental health,50.01,"Visual and Performing Arts, General.",1
+mental health,26.05,Microbiological Sciences and Immunology.,1
+mental health,51.02,Communication Disorders Sciences and Services.,4
+mental health,14.35,Industrial Engineering.,1
+mental health,23.01,"English Language and Literature, General.",1
+mental health,19.04,Family and Consumer Economics and Related Studies.,1
+mental health,30.18,Natural Sciences.,1
+mental health,14.13,Engineering Science.,1
+mental health,52.15,Real Estate.,1
+mental health,3.03,Fishing and Fisheries Sciences and Management.,1
+mental health,45.04,Criminology.,2
+mental health,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+mental health,38.02,Religion/Religious Studies.,1
+mental health,15.17,Energy Systems Technologies/Technicians.,1
+mental health,1.11,Plant Sciences.,1
+international studies,30.1,Biopsychology.,1
+international studies,13.99,"Education, Other.",1
+international studies,30.17,Behavioral Sciences.,1
+international studies,30.33,Sustainability Studies.,1
+international studies,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+international studies,30.5,Mathematics and Atmospheric/Oceanic Science.,1
+international studies,51,"Health Services/Allied Health/Health Sciences, General.",1
+international studies,14.35,Industrial Engineering.,1
+international studies,52.15,Real Estate.,1
+international studies,1.06,Applied Horticulture and Horticultural Business Services.,1
+international studies,30.2,International/Globalization Studies.,5
+international studies,14.03,Agricultural Engineering.,1
+international studies,50.1,"Arts, Entertainment, and Media Management.",1
+international studies,45.03,Archeology.,2
+international studies,14.09,Computer Engineering.,1
+international studies,40.05,Chemistry.,1
+international studies,42.27,Research and Experimental Psychology.,1
+international studies,52.01,"Business/Commerce, General.",1
+international studies,30.08,Mathematics and Computer Science.,1
+international studies,45.04,Criminology.,1
+international studies,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+international studies,30.44,Geography and Environmental Studies.,2
+international studies,11.05,Computer Systems Analysis.,1
+international studies,30.12,Historic Preservation and Conservation.,2
+international studies,4.05,Interior Architecture.,1
+geology,40.06,Geological and Earth Sciences/Geosciences.,5
+geology,3.01,Natural Resources Conservation and Research.,5
+geology,40.02,Astronomy and Astrophysics.,2
+geology,14.25,Petroleum Engineering.,3
+geology,45.07,Geography and Cartography.,5
+geology,1.12,Soil Sciences.,5
+geology,1.03,Agricultural Production Operations.,3
+geology,3.03,Fishing and Fisheries Sciences and Management.,3
+geology,45.06,Economics.,1
+geology,45.02,Anthropology.,3
+geology,52.02,"Business Administration, Management and Operations.",1
+geology,26.07,Zoology/Animal Biology.,2
+geology,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+geology,26.15,Neurobiology and Neurosciences.,1
+geology,14.27,Systems Engineering.,1
+geology,1.11,Plant Sciences.,2
+geology,23.13,Rhetoric and Composition/Writing Studies.,1
+geology,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+geology,10.02,Audiovisual Communications Technologies/Technicians.,1
+geology,26.01,"Biology, General.",2
+geology,43.01,Criminal Justice and Corrections.,1
+geology,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",1
+geology,23.01,"English Language and Literature, General.",1
+geology,14.07,Chemical Engineering.,1
+geology,54.01,History.,2
+oceanography,52.02,"Business Administration, Management and Operations.",1
+oceanography,10.02,Audiovisual Communications Technologies/Technicians.,1
+oceanography,40.06,Geological and Earth Sciences/Geosciences.,5
+oceanography,40.02,Astronomy and Astrophysics.,2
+oceanography,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+oceanography,11.99,"Computer and Information Sciences and Support Services, Other.",1
+oceanography,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+oceanography,3.01,Natural Resources Conservation and Research.,5
+oceanography,26.02,"Biochemistry, Biophysics and Molecular Biology.",3
+oceanography,54.01,History.,1
+oceanography,23.01,"English Language and Literature, General.",1
+oceanography,14.07,Chemical Engineering.,1
+oceanography,45.06,Economics.,1
+medical sociology,45.11,Sociology.,5
+medical sociology,45.02,Anthropology.,4
+medical sociology,45.12,Urban Studies/Affairs.,2
+medical sociology,22.02,Legal Research and Advanced Professional Studies.,2
+medical sociology,51,"Health Services/Allied Health/Health Sciences, General.",4
+medical sociology,43.01,Criminal Justice and Corrections.,1
+medical sociology,5.01,Area Studies.,1
+medical sociology,44.05,Public Policy Analysis.,4
+medical sociology,13.04,Educational Administration and Supervision.,2
+medical sociology,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+medical sociology,51.99,"Health Professions and Related Clinical Sciences, Other.",4
+medical sociology,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+medical sociology,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",4
+medical sociology,38.02,Religion/Religious Studies.,1
+medical sociology,13.01,"Education, General.",1
+medical sociology,9.04,Journalism.,1
+medical sociology,26.02,"Biochemistry, Biophysics and Molecular Biology.",1
+medical sociology,9.01,Communication and Media Studies.,1
+medical sociology,50.09,Music.,1
+medical sociology,42.01,"Psychology, General.",3
+medical sociology,52.02,"Business Administration, Management and Operations.",2
+medical sociology,1.01,Agricultural Business and Management.,1
+medical sociology,27.01,Mathematics.,1
+medical sociology,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",1
+medical sociology,14.14,Environmental/Environmental Health Engineering.,2
+biochemistry,14.11,Engineering Mechanics.,2
+biochemistry,51.31,Dietetics and Clinical Nutrition Services.,4
+biochemistry,1.06,Applied Horticulture and Horticultural Business Services.,1
+biochemistry,1.11,Plant Sciences.,4
+biochemistry,1.12,Soil Sciences.,4
+biochemistry,3.01,Natural Resources Conservation and Research.,3
+biochemistry,30.19,Nutrition Sciences.,4
+biochemistry,26.02,"Biochemistry, Biophysics and Molecular Biology.",5
+biochemistry,51,"Health Services/Allied Health/Health Sciences, General.",4
+biochemistry,50.1,"Arts, Entertainment, and Media Management.",1
+biochemistry,26.08,Genetics.,5
+biochemistry,1.09,Animal Sciences.,3
+biochemistry,1.1,Food Science and Technology.,5
+biochemistry,51.23,Rehabilitation and Therapeutic Professions.,4
+biochemistry,1.03,Agricultural Production Operations.,4
+biochemistry,51.22,Public Health.,4
+biochemistry,11.01,"Computer and Information Sciences, General.",1
+biochemistry,26.05,Microbiological Sciences and Immunology.,5
+biochemistry,52.08,Finance and Financial Management Services.,1
+biochemistry,52.01,"Business/Commerce, General.",1
+biochemistry,40.05,Chemistry.,5
+biochemistry,26.07,Zoology/Animal Biology.,3
+biochemistry,26.01,"Biology, General.",5
+biochemistry,26.04,Cell/Cellular Biology and Anatomical Sciences.,5
+biochemistry,3.03,Fishing and Fisheries Sciences and Management.,2
+environmental engineering,11.04,Information Science/Studies.,1
+environmental engineering,50.06,Film/Video and Photographic Arts.,1
+environmental engineering,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+environmental engineering,38.02,Religion/Religious Studies.,1
+environmental engineering,52.14,Marketing.,1
+environmental engineering,29.02,"Intelligence, Command Control and Information Operations.",1
+environmental engineering,1.06,Applied Horticulture and Horticultural Business Services.,4
+environmental engineering,54.01,History.,1
+environmental engineering,52.03,Accounting and Related Services.,1
+environmental engineering,50.07,Fine and Studio Arts.,1
+environmental engineering,9.01,Communication and Media Studies.,1
+environmental engineering,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",1
+environmental engineering,52.12,Management Information Systems and Services.,1
+environmental engineering,1.03,Agricultural Production Operations.,4
+environmental engineering,1.11,Plant Sciences.,3
+environmental engineering,10.02,Audiovisual Communications Technologies/Technicians.,1
+environmental engineering,44.04,Public Administration.,2
+environmental engineering,51.99,"Health Professions and Related Clinical Sciences, Other.",2
+environmental engineering,44.05,Public Policy Analysis.,3
+environmental engineering,14.09,Computer Engineering.,1
+environmental engineering,3.01,Natural Resources Conservation and Research.,5
+environmental engineering,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+environmental engineering,30.18,Natural Sciences.,3
+environmental engineering,52.07,Entrepreneurial and Small Business Operations.,1
+environmental engineering,36.01,Leisure and Recreational Activities.,1
+counseling,42.28,"Clinical, Counseling and Applied Psychology.",5
+counseling,51.15,Mental and Social Health Services and Allied Professions.,5
+counseling,13.11,Student Counseling and Personnel Services.,5
+counseling,13.04,Educational Administration and Supervision.,4
+counseling,13.01,"Education, General.",4
+counseling,51.31,Dietetics and Clinical Nutrition Services.,3
+counseling,19.04,Family and Consumer Economics and Related Studies.,4
+counseling,52.1,Human Resources Management and Services.,5
+counseling,9.01,Communication and Media Studies.,1
+counseling,42.01,"Psychology, General.",5
+counseling,11.1,Computer/Information Technology Administration and Management.,1
+counseling,30.19,Nutrition Sciences.,2
+counseling,19.07,"Human Development, Family Studies, and Related Services.",5
+counseling,26.08,Genetics.,1
+counseling,51,"Health Services/Allied Health/Health Sciences, General.",4
+counseling,52.02,"Business Administration, Management and Operations.",2
+counseling,27.05,Statistics.,1
+counseling,43.01,Criminal Justice and Corrections.,4
+counseling,51.07,Health and Medical Administrative Services.,3
+counseling,26.01,"Biology, General.",1
+counseling,10.02,Audiovisual Communications Technologies/Technicians.,1
+counseling,11.04,Information Science/Studies.,1
+counseling,11.01,"Computer and Information Sciences, General.",1
+counseling,40.08,Physics.,1
+counseling,50.09,Music.,2
+food,27.01,Mathematics.,1
+food,23.01,"English Language and Literature, General.",1
+food,14.18,Materials Engineering.,1
+food,14.08,Civil Engineering.,1
+food,45.1,Political Science and Government.,1
+food,27.03,Applied Mathematics.,1
+food,13.1,Special Education and Teaching.,1
+food,52.13,Management Sciences and Quantitative Methods.,1
+food,14.05,Biomedical/Medical Engineering.,2
+food,38.02,Religion/Religious Studies.,1
+food,9.04,Journalism.,1
+food,14.09,Computer Engineering.,1
+food,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",1
+food,26.01,"Biology, General.",3
+food,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",4
+food,14.27,Systems Engineering.,1
+food,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",1
+food,19.04,Family and Consumer Economics and Related Studies.,2
+food,26.02,"Biochemistry, Biophysics and Molecular Biology.",3
+food,9.09,"Public Relations, Advertising, and Applied Communication.",1
+food,38.01,Philosophy.,1
+food,23.13,Rhetoric and Composition/Writing Studies.,1
+food,14.07,Chemical Engineering.,2
+food,1.1,Food Science and Technology.,5
+food,1.01,Agricultural Business and Management.,5
+sustainable agriculture,52.02,"Business Administration, Management and Operations.",1
+sustainable agriculture,50.04,Design and Applied Arts.,1
+sustainable agriculture,16.09,"Romance Languages, Literatures, and Linguistics.",1
+sustainable agriculture,26.01,"Biology, General.",4
+sustainable agriculture,14.18,Materials Engineering.,2
+sustainable agriculture,9.01,Communication and Media Studies.,1
+sustainable agriculture,45.1,Political Science and Government.,1
+sustainable agriculture,9.04,Journalism.,1
+sustainable agriculture,40.02,Astronomy and Astrophysics.,1
+sustainable agriculture,52.08,Finance and Financial Management Services.,1
+sustainable agriculture,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+sustainable agriculture,52.03,Accounting and Related Services.,1
+sustainable agriculture,40.08,Physics.,1
+sustainable agriculture,50.05,Drama/Theatre Arts and Stagecraft.,1
+sustainable agriculture,19.04,Family and Consumer Economics and Related Studies.,2
+sustainable agriculture,14.09,Computer Engineering.,1
+sustainable agriculture,14.1,"Electrical, Electronics, and Communications Engineering.",1
+sustainable agriculture,14.33,Construction Engineering.,1
+sustainable agriculture,9.09,"Public Relations, Advertising, and Applied Communication.",1
+sustainable agriculture,14.07,Chemical Engineering.,2
+sustainable agriculture,45.09,International Relations and National Security Studies.,1
+sustainable agriculture,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",1
+sustainable agriculture,1.01,Agricultural Business and Management.,5
+sustainable agriculture,45.11,Sociology.,1
+sustainable agriculture,4.09,Architectural Sciences and Technology.,1
+software engineering,23.01,"English Language and Literature, General.",1
+software engineering,11.04,Information Science/Studies.,5
+software engineering,54.01,History.,1
+software engineering,50.06,Film/Video and Photographic Arts.,2
+software engineering,52.14,Marketing.,1
+software engineering,29.02,"Intelligence, Command Control and Information Operations.",4
+software engineering,52.03,Accounting and Related Services.,1
+software engineering,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",1
+software engineering,1.11,Plant Sciences.,1
+software engineering,9.01,Communication and Media Studies.,2
+software engineering,1.03,Agricultural Production Operations.,1
+software engineering,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+software engineering,44.04,Public Administration.,1
+software engineering,43.01,Criminal Justice and Corrections.,1
+software engineering,50.05,Drama/Theatre Arts and Stagecraft.,1
+software engineering,11.99,"Computer and Information Sciences and Support Services, Other.",5
+software engineering,11.08,Computer Software and Media Applications.,5
+software engineering,44.05,Public Policy Analysis.,1
+software engineering,52.12,Management Information Systems and Services.,5
+software engineering,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+software engineering,36.01,Leisure and Recreational Activities.,1
+software engineering,4.02,Architecture.,1
+software engineering,50.07,Fine and Studio Arts.,1
+software engineering,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",1
+software engineering,3.01,Natural Resources Conservation and Research.,1
+ethnic studies,45.04,Criminology.,3
+ethnic studies,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+ethnic studies,30.44,Geography and Environmental Studies.,4
+ethnic studies,11.05,Computer Systems Analysis.,1
+ethnic studies,30.12,Historic Preservation and Conservation.,2
+ethnic studies,4.05,Interior Architecture.,1
+ethnic studies,30.1,Biopsychology.,1
+ethnic studies,13.99,"Education, Other.",3
+ethnic studies,30.01,Biological and Physical Sciences.,1
+ethnic studies,30.17,Behavioral Sciences.,2
+ethnic studies,40.04,Atmospheric Sciences and Meteorology.,1
+ethnic studies,30.33,Sustainability Studies.,1
+ethnic studies,15.17,Energy Systems Technologies/Technicians.,1
+ethnic studies,26.99,"Biological and Biomedical Sciences, Other.",1
+ethnic studies,14.01,"Engineering, General.",1
+ethnic studies,30.2,International/Globalization Studies.,5
+ethnic studies,45.03,Archeology.,1
+ethnic studies,52.01,"Business/Commerce, General.",2
+ethnic studies,3.02,Environmental/Natural Resources Management and Policy.,1
+ethnic studies,50.1,"Arts, Entertainment, and Media Management.",2
+ethnic studies,14.25,Petroleum Engineering.,1
+ethnic studies,15.05,Environmental Control Technologies/Technicians.,1
+ethnic studies,13.06,"Educational Assessment, Evaluation, and Research.",2
+ethnic studies,45.1,Political Science and Government.,4
+ethnic studies,45.12,Urban Studies/Affairs.,5
+zoology,26.01,"Biology, General.",5
+zoology,45.07,Geography and Cartography.,2
+zoology,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",1
+zoology,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+physics,15.04,Electromechanical Technologies/Technicians.,4
+physics,9.01,Communication and Media Studies.,1
+physics,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+physics,5.01,Area Studies.,1
+physics,23.01,"English Language and Literature, General.",1
+physics,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",1
+physics,52.14,Marketing.,1
+physics,19.07,"Human Development, Family Studies, and Related Services.",1
+physics,45.12,Urban Studies/Affairs.,1
+physics,26.13,"Ecology, Evolution, Systematics, and Population Biology.",2
+physics,13.01,"Education, General.",1
+physics,52.12,Management Information Systems and Services.,3
+physics,9.04,Journalism.,1
+physics,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",1
+physics,4.06,Landscape Architecture.,1
+physics,26.12,Biotechnology.,2
+physics,52.08,Finance and Financial Management Services.,1
+physics,27.03,Applied Mathematics.,4
+physics,38.02,Religion/Religious Studies.,1
+physics,50.03,Dance.,1
+physics,30.14,Museology/Museum Studies.,1
+physics,14.43,Biochemical Engineering.,3
+physics,45.99,"Social Sciences, Other.",1
+physics,27.05,Statistics.,3
+physics,38.01,Philosophy.,1
+criminology,45.04,Criminology.,5
+criminology,43.01,Criminal Justice and Corrections.,5
+criminology,22.02,Legal Research and Advanced Professional Studies.,5
+criminology,45.11,Sociology.,4
+forestry,3.03,Fishing and Fisheries Sciences and Management.,4
+forestry,26.07,Zoology/Animal Biology.,4
+forestry,3.05,Forestry.,5
+forestry,3.01,Natural Resources Conservation and Research.,5
+forestry,45.06,Economics.,2
+forestry,26.13,"Ecology, Evolution, Systematics, and Population Biology.",5
+forestry,1.03,Agricultural Production Operations.,4
+forestry,1.01,Agricultural Business and Management.,4
+forestry,1.06,Applied Horticulture and Horticultural Business Services.,4
+sports,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",5
+sports,51.09,"Allied Health Diagnostic, Intervention, and Treatment Professions.",2
+sports,9.09,"Public Relations, Advertising, and Applied Communication.",1
+sports,9.01,Communication and Media Studies.,1
+sports,22.02,Legal Research and Advanced Professional Studies.,1
+sports,9.07,"Radio, Television, and Digital Communication.",1
+sports,52.03,Accounting and Related Services.,1
+sports,3.03,Fishing and Fisheries Sciences and Management.,1
+sports,30.25,Cognitive Science.,1
+sports,9.04,Journalism.,1
+sports,26.09,"Physiology, Pathology and Related Sciences.",1
+sports,50.99,"Visual and Performing Arts, Other.",4
+sports,51,"Health Services/Allied Health/Health Sciences, General.",2
+sports,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",1
+sports,51.31,Dietetics and Clinical Nutrition Services.,4
+sports,19.01,"Family and Consumer Sciences/Human Sciences, General.",2
+sports,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+sports,23.13,Rhetoric and Composition/Writing Studies.,1
+sports,45.02,Anthropology.,1
+sports,40.08,Physics.,1
+sports,26.12,Biotechnology.,1
+sports,54.01,History.,1
+sports,52.02,"Business Administration, Management and Operations.",1
+sports,1.01,Agricultural Business and Management.,1
+conservation,50.09,Music.,1
+conservation,26.12,Biotechnology.,3
+conservation,3.03,Fishing and Fisheries Sciences and Management.,5
+conservation,45.06,Economics.,2
+conservation,9.01,Communication and Media Studies.,1
+conservation,3.01,Natural Resources Conservation and Research.,5
+conservation,26.01,"Biology, General.",3
+conservation,1.03,Agricultural Production Operations.,4
+conservation,26.07,Zoology/Animal Biology.,4
+conservation,14.03,Agricultural Engineering.,4
+conservation,14.43,Biochemical Engineering.,3
+conservation,27.01,Mathematics.,1
+conservation,1.12,Soil Sciences.,5
+conservation,15.05,Environmental Control Technologies/Technicians.,5
+conservation,45.07,Geography and Cartography.,3
+conservation,14.02,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",1
+conservation,14.33,Construction Engineering.,1
+conservation,3.02,Environmental/Natural Resources Management and Policy.,5
+conservation,1.11,Plant Sciences.,5
+conservation,14.12,Engineering Physics.,1
+conservation,26.13,"Ecology, Evolution, Systematics, and Population Biology.",5
+conservation,51,"Health Services/Allied Health/Health Sciences, General.",1
+conservation,30.27,Human Biology.,3
+conservation,14.07,Chemical Engineering.,2
+conservation,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+blogging,9.01,Communication and Media Studies.,5
+blogging,29.02,"Intelligence, Command Control and Information Operations.",1
+blogging,9.04,Journalism.,5
+blogging,13.01,"Education, General.",2
+blogging,50.04,Design and Applied Arts.,2
+blogging,45.06,Economics.,1
+blogging,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+blogging,45.02,Anthropology.,3
+blogging,45.1,Political Science and Government.,2
+blogging,10.02,Audiovisual Communications Technologies/Technicians.,1
+blogging,52.08,Finance and Financial Management Services.,1
+blogging,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",4
+blogging,50.09,Music.,2
+blogging,14.18,Materials Engineering.,1
+blogging,50.07,Fine and Studio Arts.,2
+blogging,51.22,Public Health.,1
+blogging,11.01,"Computer and Information Sciences, General.",2
+human resources,1.09,Animal Sciences.,1
+human resources,29.02,"Intelligence, Command Control and Information Operations.",1
+human resources,52.01,"Business/Commerce, General.",4
+human resources,27.05,Statistics.,1
+human resources,10.02,Audiovisual Communications Technologies/Technicians.,1
+human resources,5.01,Area Studies.,2
+human resources,14.09,Computer Engineering.,1
+human resources,27.03,Applied Mathematics.,1
+human resources,14.02,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",1
+human resources,30.17,Behavioral Sciences.,5
+human resources,9.01,Communication and Media Studies.,3
+human resources,52.11,International Business.,4
+human resources,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+human resources,16.05,"Germanic Languages, Literatures, and Linguistics.",1
+human resources,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",1
+human resources,11.09,Computer Systems Networking and Telecommunications.,1
+human resources,30.71,Data Analytics.,2
+human resources,11.04,Information Science/Studies.,2
+human resources,26.11,"Biomathematics, Bioinformatics, and Computational Biology.",1
+human resources,14.35,Industrial Engineering.,1
+human resources,9.09,"Public Relations, Advertising, and Applied Communication.",3
+human resources,50.1,"Arts, Entertainment, and Media Management.",1
+human resources,40.02,Astronomy and Astrophysics.,1
+human resources,40.05,Chemistry.,1
+human resources,14.42,"Mechatronics, Robotics, and Automation Engineering.",1
+veterinary science,1.09,Animal Sciences.,5
+veterinary science,52.15,Real Estate.,1
+veterinary science,30.22,Classical and Ancient Studies.,1
+veterinary science,38.02,Religion/Religious Studies.,1
+veterinary science,26.02,"Biochemistry, Biophysics and Molecular Biology.",3
+veterinary science,1.03,Agricultural Production Operations.,1
+veterinary science,5.01,Area Studies.,1
+veterinary science,52.07,Entrepreneurial and Small Business Operations.,1
+veterinary science,40.06,Geological and Earth Sciences/Geosciences.,1
+veterinary science,30.5,Mathematics and Atmospheric/Oceanic Science.,1
+veterinary science,52.12,Management Information Systems and Services.,1
+veterinary science,50.06,Film/Video and Photographic Arts.,1
+veterinary science,50.01,"Visual and Performing Arts, General.",1
+veterinary science,51.15,Mental and Social Health Services and Allied Professions.,2
+veterinary science,14.12,Engineering Physics.,1
+veterinary science,45.99,"Social Sciences, Other.",1
+veterinary science,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",1
+veterinary science,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+veterinary science,11.09,Computer Systems Networking and Telecommunications.,1
+veterinary science,15.03,Electrical/Electronic Engineering Technologies/Technicians.,1
+veterinary science,15.12,Computer Engineering Technologies/Technicians.,1
+veterinary science,11.1,Computer/Information Technology Administration and Management.,1
+veterinary science,31.03,"Parks, Recreation, and Leisure Facilities Management.",1
+veterinary science,4.05,Interior Architecture.,1
+veterinary science,15.05,Environmental Control Technologies/Technicians.,1
+banking,30.17,Behavioral Sciences.,2
+banking,45.03,Archeology.,1
+banking,52.12,Management Information Systems and Services.,1
+banking,52.2,Construction Management.,1
+banking,52.03,Accounting and Related Services.,5
+banking,52.07,Entrepreneurial and Small Business Operations.,3
+banking,19.06,Housing and Human Environments.,1
+banking,1.01,Agricultural Business and Management.,1
+banking,44.05,Public Policy Analysis.,3
+banking,51.31,Dietetics and Clinical Nutrition Services.,1
+banking,26.02,"Biochemistry, Biophysics and Molecular Biology.",1
+banking,52.08,Finance and Financial Management Services.,5
+banking,52.18,"General Sales, Merchandising and Related Marketing Operations.",3
+banking,45.06,Economics.,5
+banking,27.01,Mathematics.,3
+banking,30.19,Nutrition Sciences.,1
+banking,52.13,Management Sciences and Quantitative Methods.,4
+banking,30.18,Natural Sciences.,1
+banking,14.14,Environmental/Environmental Health Engineering.,1
+banking,51.07,Health and Medical Administrative Services.,1
+banking,22.02,Legal Research and Advanced Professional Studies.,1
+banking,11.09,Computer Systems Networking and Telecommunications.,1
+banking,45.09,International Relations and National Security Studies.,1
+banking,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",1
+banking,1.1,Food Science and Technology.,1
+organizational psychology,14.18,Materials Engineering.,1
+organizational psychology,16.09,"Romance Languages, Literatures, and Linguistics.",1
+organizational psychology,26.01,"Biology, General.",2
+organizational psychology,14.08,Civil Engineering.,1
+organizational psychology,14.27,Systems Engineering.,1
+organizational psychology,52.08,Finance and Financial Management Services.,2
+organizational psychology,10.02,Audiovisual Communications Technologies/Technicians.,1
+organizational psychology,50.07,Fine and Studio Arts.,1
+organizational psychology,3.01,Natural Resources Conservation and Research.,1
+organizational psychology,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",1
+organizational psychology,50.04,Design and Applied Arts.,1
+organizational psychology,52.15,Real Estate.,1
+organizational psychology,9.09,"Public Relations, Advertising, and Applied Communication.",3
+organizational psychology,16.05,"Germanic Languages, Literatures, and Linguistics.",1
+organizational psychology,11.01,"Computer and Information Sciences, General.",1
+organizational psychology,27.01,Mathematics.,1
+organizational psychology,15.15,Engineering-Related Fields.,1
+organizational psychology,13.1,Special Education and Teaching.,2
+organizational psychology,1.09,Animal Sciences.,1
+organizational psychology,26.11,"Biomathematics, Bioinformatics, and Computational Biology.",1
+organizational psychology,4.02,Architecture.,1
+organizational psychology,42.28,"Clinical, Counseling and Applied Psychology.",5
+organizational psychology,42.27,Research and Experimental Psychology.,5
+organizational psychology,51,"Health Services/Allied Health/Health Sciences, General.",4
+organizational psychology,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+game development,30.44,Geography and Environmental Studies.,1
+game development,14.25,Petroleum Engineering.,1
+game development,30.99,"Multi/Interdisciplinary Studies, Other.",2
+game development,4.09,Architectural Sciences and Technology.,1
+game development,14.12,Engineering Physics.,2
+game development,30.08,Mathematics and Computer Science.,5
+game development,14.43,Biochemical Engineering.,1
+game development,50.1,"Arts, Entertainment, and Media Management.",2
+game development,26.08,Genetics.,1
+game development,40.04,Atmospheric Sciences and Meteorology.,1
+game development,15,"Engineering Technologies/Technicians, General.",2
+game development,50.99,"Visual and Performing Arts, Other.",1
+game development,3.02,Environmental/Natural Resources Management and Policy.,1
+game development,4.04,Environmental Design.,1
+game development,16.16,American Sign Language.,1
+game development,45.04,Criminology.,1
+game development,24.01,"Liberal Arts and Sciences, General Studies and Humanities.",1
+game development,30.01,Biological and Physical Sciences.,1
+game development,9.07,"Radio, Television, and Digital Communication.",2
+game development,14.37,Operations Research.,1
+game development,26.05,Microbiological Sciences and Immunology.,1
+game development,9.04,Journalism.,1
+game development,52.15,Real Estate.,1
+game development,30.17,Behavioral Sciences.,1
+game development,45.03,Archeology.,1
+law,22.02,Legal Research and Advanced Professional Studies.,5
+law,43.01,Criminal Justice and Corrections.,5
+law,52.16,Taxation.,5
+law,45.1,Political Science and Government.,5
+law,52.03,Accounting and Related Services.,3
+law,38.01,Philosophy.,3
+law,45.99,"Social Sciences, Other.",3
+law,50.05,Drama/Theatre Arts and Stagecraft.,1
+law,42.01,"Psychology, General.",3
+law,1.11,Plant Sciences.,1
+law,50.04,Design and Applied Arts.,1
+law,30.18,Natural Sciences.,1
+law,3.01,Natural Resources Conservation and Research.,1
+law,26.01,"Biology, General.",1
+law,23.01,"English Language and Literature, General.",1
+law,29.02,"Intelligence, Command Control and Information Operations.",2
+law,19.07,"Human Development, Family Studies, and Related Services.",2
+law,19.02,Family and Consumer Sciences/Human Sciences Business Services.,2
+law,15.15,Engineering-Related Fields.,1
+law,14.01,"Engineering, General.",1
+law,45.07,Geography and Cartography.,1
+law,4.02,Architecture.,1
+law,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+law,50.1,"Arts, Entertainment, and Media Management.",1
+law,26.15,Neurobiology and Neurosciences.,1
+philosophy,26.02,"Biochemistry, Biophysics and Molecular Biology.",1
+philosophy,40.06,Geological and Earth Sciences/Geosciences.,1
+philosophy,45.06,Economics.,3
+philosophy,26.12,Biotechnology.,1
+philosophy,40.08,Physics.,1
+philosophy,40.05,Chemistry.,1
+philosophy,50.09,Music.,1
+philosophy,10.02,Audiovisual Communications Technologies/Technicians.,1
+philosophy,14.27,Systems Engineering.,1
+philosophy,52.02,"Business Administration, Management and Operations.",3
+philosophy,26.01,"Biology, General.",1
+philosophy,14.18,Materials Engineering.,1
+philosophy,14.05,Biomedical/Medical Engineering.,1
+philosophy,14.11,Engineering Mechanics.,1
+philosophy,30.18,Natural Sciences.,1
+philosophy,14.07,Chemical Engineering.,1
+philosophy,52.03,Accounting and Related Services.,1
+philosophy,40.02,Astronomy and Astrophysics.,1
+philosophy,50.07,Fine and Studio Arts.,2
+philosophy,52.08,Finance and Financial Management Services.,2
+philosophy,38.01,Philosophy.,5
+philosophy,30.14,Museology/Museum Studies.,3
+philosophy,38.02,Religion/Religious Studies.,3
+philosophy,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",3
+philosophy,30.22,Classical and Ancient Studies.,3
+anthropology,45.02,Anthropology.,5
+anthropology,45.11,Sociology.,5
+anthropology,45.12,Urban Studies/Affairs.,3
+anthropology,13.01,"Education, General.",3
+anthropology,30.22,Classical and Ancient Studies.,2
+anthropology,38.02,Religion/Religious Studies.,2
+anthropology,43.01,Criminal Justice and Corrections.,4
+anthropology,13.06,"Educational Assessment, Evaluation, and Research.",3
+anthropology,3.05,Forestry.,1
+anthropology,22.02,Legal Research and Advanced Professional Studies.,3
+anthropology,40.99,"Physical Sciences, Other.",1
+anthropology,5.01,Area Studies.,2
+anthropology,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",4
+anthropology,9.01,Communication and Media Studies.,2
+anthropology,11.01,"Computer and Information Sciences, General.",1
+anthropology,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",3
+anthropology,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",2
+anthropology,40.02,Astronomy and Astrophysics.,1
+anthropology,52.14,Marketing.,2
+anthropology,9.04,Journalism.,2
+anthropology,50.09,Music.,1
+anthropology,23.01,"English Language and Literature, General.",2
+anthropology,14.14,Environmental/Environmental Health Engineering.,1
+anthropology,51.07,Health and Medical Administrative Services.,1
+anthropology,45.06,Economics.,2
+sociology,45.11,Sociology.,5
+sociology,45.12,Urban Studies/Affairs.,5
+sociology,22.02,Legal Research and Advanced Professional Studies.,4
+sociology,45.04,Criminology.,4
+sociology,45.02,Anthropology.,4
+sociology,30.5,Mathematics and Atmospheric/Oceanic Science.,1
+sociology,44.07,Social Work.,5
+sociology,14.42,"Mechatronics, Robotics, and Automation Engineering.",1
+sociology,19.07,"Human Development, Family Studies, and Related Services.",5
+sociology,1.01,Agricultural Business and Management.,1
+sociology,16.16,American Sign Language.,1
+sociology,42.28,"Clinical, Counseling and Applied Psychology.",4
+sociology,51,"Health Services/Allied Health/Health Sciences, General.",4
+sociology,45.99,"Social Sciences, Other.",4
+sociology,44.05,Public Policy Analysis.,4
+sociology,13.04,Educational Administration and Supervision.,3
+sociology,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",4
+sociology,30.01,Biological and Physical Sciences.,1
+sociology,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+sociology,13.11,Student Counseling and Personnel Services.,4
+sociology,45.09,International Relations and National Security Studies.,3
+sociology,5.01,Area Studies.,3
+sociology,43.01,Criminal Justice and Corrections.,4
+sociology,42.01,"Psychology, General.",4
+sociology,52.14,Marketing.,3
+mathematics,27.01,Mathematics.,5
+mathematics,14.07,Chemical Engineering.,2
+mathematics,9.01,Communication and Media Studies.,1
+mathematics,1.06,Applied Horticulture and Horticultural Business Services.,1
+mathematics,10.03,Graphic Communications.,1
+mathematics,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",1
+mathematics,40.04,Atmospheric Sciences and Meteorology.,2
+mathematics,45.03,Archeology.,1
+mathematics,14.11,Engineering Mechanics.,4
+mathematics,44.05,Public Policy Analysis.,1
+mathematics,52.12,Management Information Systems and Services.,4
+mathematics,30.17,Behavioral Sciences.,1
+mathematics,13.06,"Educational Assessment, Evaluation, and Research.",1
+mathematics,52.2,Construction Management.,2
+mathematics,45.11,Sociology.,1
+mathematics,3.01,Natural Resources Conservation and Research.,1
+mathematics,13.01,"Education, General.",1
+mathematics,16.05,"Germanic Languages, Literatures, and Linguistics.",1
+mathematics,19.07,"Human Development, Family Studies, and Related Services.",1
+mathematics,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",1
+mathematics,19.01,"Family and Consumer Sciences/Human Sciences, General.",1
+mathematics,15.03,Electrical/Electronic Engineering Technologies/Technicians.,4
+mathematics,26.12,Biotechnology.,2
+mathematics,15.12,Computer Engineering Technologies/Technicians.,4
+mathematics,1.03,Agricultural Production Operations.,1
+materials engineering,23.01,"English Language and Literature, General.",1
+materials engineering,50.06,Film/Video and Photographic Arts.,1
+materials engineering,1.06,Applied Horticulture and Horticultural Business Services.,1
+materials engineering,38.02,Religion/Religious Studies.,1
+materials engineering,54.01,History.,1
+materials engineering,52.14,Marketing.,1
+materials engineering,52.12,Management Information Systems and Services.,1
+materials engineering,44.04,Public Administration.,1
+materials engineering,29.02,"Intelligence, Command Control and Information Operations.",1
+materials engineering,1.11,Plant Sciences.,1
+materials engineering,9.01,Communication and Media Studies.,1
+materials engineering,11.99,"Computer and Information Sciences and Support Services, Other.",2
+materials engineering,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+materials engineering,50.05,Drama/Theatre Arts and Stagecraft.,1
+materials engineering,43.01,Criminal Justice and Corrections.,1
+materials engineering,52.07,Entrepreneurial and Small Business Operations.,1
+materials engineering,51.99,"Health Professions and Related Clinical Sciences, Other.",1
+materials engineering,30.01,Biological and Physical Sciences.,3
+materials engineering,36.01,Leisure and Recreational Activities.,1
+materials engineering,3.01,Natural Resources Conservation and Research.,1
+materials engineering,11.09,Computer Systems Networking and Telecommunications.,2
+materials engineering,38.01,Philosophy.,1
+materials engineering,30.7,Data Science.,2
+materials engineering,11.04,Information Science/Studies.,2
+materials engineering,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",1
+coding,52.02,"Business Administration, Management and Operations.",2
+coding,54.01,History.,1
+coding,45.11,Sociology.,1
+coding,10.02,Audiovisual Communications Technologies/Technicians.,2
+coding,14.27,Systems Engineering.,3
+coding,45.02,Anthropology.,1
+coding,1.01,Agricultural Business and Management.,1
+coding,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+coding,14.14,Environmental/Environmental Health Engineering.,2
+coding,14.11,Engineering Mechanics.,3
+coding,50.04,Design and Applied Arts.,1
+coding,13.01,"Education, General.",1
+coding,11.04,Information Science/Studies.,5
+coding,11.08,Computer Software and Media Applications.,5
+coding,16.05,"Germanic Languages, Literatures, and Linguistics.",1
+coding,50.09,Music.,1
+coding,45.09,International Relations and National Security Studies.,1
+coding,9.01,Communication and Media Studies.,1
+coding,14.18,Materials Engineering.,2
+coding,40.08,Physics.,2
+coding,11.07,Computer Science.,5
+coding,11.01,"Computer and Information Sciences, General.",5
+coding,4.02,Architecture.,1
+coding,14.07,Chemical Engineering.,2
+coding,11.99,"Computer and Information Sciences and Support Services, Other.",5
+climate activism,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",1
+climate activism,52.2,Construction Management.,2
+climate activism,45.02,Anthropology.,1
+climate activism,11.07,Computer Science.,1
+climate activism,26.01,"Biology, General.",4
+climate activism,50.05,Drama/Theatre Arts and Stagecraft.,1
+climate activism,54.01,History.,1
+climate activism,52.02,"Business Administration, Management and Operations.",1
+climate activism,19.04,Family and Consumer Economics and Related Studies.,2
+climate activism,40.05,Chemistry.,2
+climate activism,40.04,Atmospheric Sciences and Meteorology.,5
+climate activism,50.09,Music.,1
+climate activism,51.09,"Allied Health Diagnostic, Intervention, and Treatment Professions.",1
+climate activism,30.7,Data Science.,1
+climate activism,22.02,Legal Research and Advanced Professional Studies.,1
+climate activism,27.01,Mathematics.,1
+climate activism,14.11,Engineering Mechanics.,2
+climate activism,30.44,Geography and Environmental Studies.,5
+climate activism,51.31,Dietetics and Clinical Nutrition Services.,1
+climate activism,15.17,Energy Systems Technologies/Technicians.,4
+climate activism,19.02,Family and Consumer Sciences/Human Sciences Business Services.,2
+climate activism,30.01,Biological and Physical Sciences.,4
+climate activism,3.01,Natural Resources Conservation and Research.,5
+climate activism,1.12,Soil Sciences.,5
+climate activism,19.01,"Family and Consumer Sciences/Human Sciences, General.",2
+street art,40.06,Geological and Earth Sciences/Geosciences.,1
+street art,1.06,Applied Horticulture and Horticultural Business Services.,1
+street art,3.01,Natural Resources Conservation and Research.,1
+street art,52.08,Finance and Financial Management Services.,1
+street art,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+street art,42.01,"Psychology, General.",1
+street art,1.11,Plant Sciences.,1
+street art,40.08,Physics.,1
+street art,40.05,Chemistry.,1
+street art,26.11,"Biomathematics, Bioinformatics, and Computational Biology.",1
+street art,26.01,"Biology, General.",1
+street art,11.08,Computer Software and Media Applications.,1
+street art,14.27,Systems Engineering.,1
+street art,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",1
+street art,26.13,"Ecology, Evolution, Systematics, and Population Biology.",1
+street art,14.37,Operations Research.,1
+street art,16.05,"Germanic Languages, Literatures, and Linguistics.",1
+street art,22.02,Legal Research and Advanced Professional Studies.,1
+street art,13.04,Educational Administration and Supervision.,2
+street art,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",2
+street art,14.14,Environmental/Environmental Health Engineering.,1
+street art,5.01,Area Studies.,1
+street art,43.01,Criminal Justice and Corrections.,2
+street art,45.02,Anthropology.,1
+street art,26.08,Genetics.,1
+data analytics,1.09,Animal Sciences.,1
+data analytics,1.11,Plant Sciences.,1
+data analytics,23.01,"English Language and Literature, General.",1
+data analytics,1.06,Applied Horticulture and Horticultural Business Services.,1
+data analytics,1.03,Agricultural Production Operations.,2
+data analytics,14.1,"Electrical, Electronics, and Communications Engineering.",3
+data analytics,19.07,"Human Development, Family Studies, and Related Services.",1
+data analytics,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",1
+data analytics,45.09,International Relations and National Security Studies.,1
+data analytics,38.01,Philosophy.,1
+data analytics,19.04,Family and Consumer Economics and Related Studies.,2
+data analytics,30.7,Data Science.,5
+data analytics,14.03,Agricultural Engineering.,1
+data analytics,42.01,"Psychology, General.",1
+data analytics,26.05,Microbiological Sciences and Immunology.,1
+data analytics,16.09,"Romance Languages, Literatures, and Linguistics.",1
+data analytics,3.05,Forestry.,1
+data analytics,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+data analytics,45.1,Political Science and Government.,1
+data analytics,52.11,International Business.,3
+data analytics,52.13,Management Sciences and Quantitative Methods.,5
+data analytics,5.01,Area Studies.,1
+data analytics,52.2,Construction Management.,1
+data analytics,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",1
+data analytics,52.18,"General Sales, Merchandising and Related Marketing Operations.",3
+marketing,44.04,Public Administration.,3
+marketing,52.14,Marketing.,5
+marketing,45.12,Urban Studies/Affairs.,2
+marketing,40.08,Physics.,1
+marketing,3.01,Natural Resources Conservation and Research.,1
+marketing,14.18,Materials Engineering.,1
+marketing,13.1,Special Education and Teaching.,1
+marketing,11.01,"Computer and Information Sciences, General.",1
+marketing,43.01,Criminal Justice and Corrections.,1
+marketing,50.05,Drama/Theatre Arts and Stagecraft.,1
+marketing,40.06,Geological and Earth Sciences/Geosciences.,1
+marketing,13.01,"Education, General.",1
+marketing,11.04,Information Science/Studies.,2
+marketing,19.04,Family and Consumer Economics and Related Studies.,4
+marketing,11.09,Computer Systems Networking and Telecommunications.,1
+marketing,22.02,Legal Research and Advanced Professional Studies.,1
+marketing,3.05,Forestry.,1
+marketing,14.27,Systems Engineering.,1
+marketing,51.99,"Health Professions and Related Clinical Sciences, Other.",1
+marketing,11.07,Computer Science.,1
+marketing,14.08,Civil Engineering.,1
+marketing,11.08,Computer Software and Media Applications.,1
+marketing,16.09,"Romance Languages, Literatures, and Linguistics.",1
+marketing,38.02,Religion/Religious Studies.,1
+marketing,50.03,Dance.,1
+communication disorders,30.18,Natural Sciences.,2
+communication disorders,40.02,Astronomy and Astrophysics.,1
+communication disorders,3.02,Environmental/Natural Resources Management and Policy.,1
+communication disorders,52.12,Management Information Systems and Services.,1
+communication disorders,11.05,Computer Systems Analysis.,1
+communication disorders,14.37,Operations Research.,1
+communication disorders,40.04,Atmospheric Sciences and Meteorology.,1
+communication disorders,45.03,Archeology.,1
+communication disorders,38.01,Philosophy.,1
+communication disorders,26.15,Neurobiology and Neurosciences.,4
+communication disorders,14.43,Biochemical Engineering.,1
+communication disorders,26.09,"Physiology, Pathology and Related Sciences.",2
+communication disorders,50.1,"Arts, Entertainment, and Media Management.",1
+communication disorders,14.25,Petroleum Engineering.,1
+communication disorders,30.33,Sustainability Studies.,1
+communication disorders,26.05,Microbiological Sciences and Immunology.,2
+communication disorders,15.17,Energy Systems Technologies/Technicians.,1
+communication disorders,26.11,"Biomathematics, Bioinformatics, and Computational Biology.",2
+communication disorders,51.02,Communication Disorders Sciences and Services.,5
+communication disorders,51.15,Mental and Social Health Services and Allied Professions.,2
+communication disorders,19.07,"Human Development, Family Studies, and Related Services.",1
+communication disorders,42.01,"Psychology, General.",3
+communication disorders,51.23,Rehabilitation and Therapeutic Professions.,4
+communication disorders,42.27,Research and Experimental Psychology.,3
+communication disorders,51,"Health Services/Allied Health/Health Sciences, General.",4
+music education,52.08,Finance and Financial Management Services.,1
+music education,26.02,"Biochemistry, Biophysics and Molecular Biology.",1
+music education,51.07,Health and Medical Administrative Services.,1
+music education,3.01,Natural Resources Conservation and Research.,1
+music education,11.07,Computer Science.,1
+music education,38.02,Religion/Religious Studies.,1
+music education,26.12,Biotechnology.,1
+music education,19.04,Family and Consumer Economics and Related Studies.,1
+music education,27.01,Mathematics.,1
+music education,15.15,Engineering-Related Fields.,1
+music education,52.13,Management Sciences and Quantitative Methods.,1
+music education,51.99,"Health Professions and Related Clinical Sciences, Other.",1
+music education,52.11,International Business.,1
+music education,40.05,Chemistry.,1
+music education,1.12,Soil Sciences.,1
+music education,30.71,Data Analytics.,1
+music education,14.27,Systems Engineering.,1
+music education,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",5
+music education,1.1,Food Science and Technology.,1
+music education,13.1,Special Education and Teaching.,3
+music education,9.04,Journalism.,2
+music education,52.02,"Business Administration, Management and Operations.",1
+music education,40.06,Geological and Earth Sciences/Geosciences.,1
+music education,50.99,"Visual and Performing Arts, Other.",5
+music education,30.25,Cognitive Science.,1
+dance,50.03,Dance.,5
+dance,50.05,Drama/Theatre Arts and Stagecraft.,5
+dance,45.12,Urban Studies/Affairs.,1
+dance,5.01,Area Studies.,1
+dance,50.07,Fine and Studio Arts.,3
+dance,45.02,Anthropology.,2
+dance,30.5,Mathematics and Atmospheric/Oceanic Science.,1
+dance,45.11,Sociology.,2
+dance,13.01,"Education, General.",1
+dance,50.01,"Visual and Performing Arts, General.",5
+dance,36.01,Leisure and Recreational Activities.,3
+dance,50.09,Music.,3
+dance,9.01,Communication and Media Studies.,2
+dance,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+dance,9.04,Journalism.,1
+dance,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+dance,38.02,Religion/Religious Studies.,1
+dance,13.1,Special Education and Teaching.,1
+dance,50.06,Film/Video and Photographic Arts.,2
+dance,51,"Health Services/Allied Health/Health Sciences, General.",1
+dance,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+science fiction,52.12,Management Information Systems and Services.,1
+science fiction,50.01,"Visual and Performing Arts, General.",2
+science fiction,51.15,Mental and Social Health Services and Allied Professions.,1
+science fiction,14.12,Engineering Physics.,2
+science fiction,45.99,"Social Sciences, Other.",1
+science fiction,11.09,Computer Systems Networking and Telecommunications.,1
+science fiction,15.08,Mechanical Engineering Related Technologies/Technicians.,2
+science fiction,15.05,Environmental Control Technologies/Technicians.,2
+science fiction,13.04,Educational Administration and Supervision.,1
+science fiction,15.03,Electrical/Electronic Engineering Technologies/Technicians.,2
+science fiction,15.12,Computer Engineering Technologies/Technicians.,1
+science fiction,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",3
+science fiction,11.1,Computer/Information Technology Administration and Management.,1
+science fiction,31.03,"Parks, Recreation, and Leisure Facilities Management.",1
+science fiction,14.14,Environmental/Environmental Health Engineering.,2
+science fiction,4.05,Interior Architecture.,1
+science fiction,45.12,Urban Studies/Affairs.,1
+science fiction,30.1,Biopsychology.,2
+science fiction,44.05,Public Policy Analysis.,1
+science fiction,52.15,Real Estate.,1
+science fiction,5.01,Area Studies.,1
+science fiction,50.06,Film/Video and Photographic Arts.,2
+science fiction,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",4
+science fiction,38.02,Religion/Religious Studies.,1
+science fiction,23.01,"English Language and Literature, General.",4
+political science,14.18,Materials Engineering.,1
+political science,30.5,Mathematics and Atmospheric/Oceanic Science.,1
+political science,14.27,Systems Engineering.,1
+political science,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+political science,50.06,Film/Video and Photographic Arts.,1
+political science,1.06,Applied Horticulture and Horticultural Business Services.,1
+political science,30.18,Natural Sciences.,1
+political science,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",2
+political science,45.99,"Social Sciences, Other.",4
+political science,52.15,Real Estate.,2
+political science,27.03,Applied Mathematics.,2
+political science,26.02,"Biochemistry, Biophysics and Molecular Biology.",1
+political science,26.13,"Ecology, Evolution, Systematics, and Population Biology.",1
+political science,13.04,Educational Administration and Supervision.,2
+political science,14.07,Chemical Engineering.,1
+political science,30.27,Human Biology.,1
+political science,52.13,Management Sciences and Quantitative Methods.,2
+political science,30.14,Museology/Museum Studies.,1
+political science,11.1,Computer/Information Technology Administration and Management.,1
+political science,30.7,Data Science.,2
+political science,15.1,Construction Engineering Technology/Technician.,1
+political science,4.09,Architectural Sciences and Technology.,1
+political science,52.11,International Business.,2
+political science,45.03,Archeology.,1
+political science,30.71,Data Analytics.,2
+management,40.02,Astronomy and Astrophysics.,1
+management,51,"Health Services/Allied Health/Health Sciences, General.",1
+management,16.09,"Romance Languages, Literatures, and Linguistics.",1
+management,40.05,Chemistry.,1
+management,38.01,Philosophy.,2
+management,40.04,Atmospheric Sciences and Meteorology.,1
+management,30.08,Mathematics and Computer Science.,2
+management,45.02,Anthropology.,3
+management,36.01,Leisure and Recreational Activities.,2
+management,50.01,"Visual and Performing Arts, General.",1
+management,51.99,"Health Professions and Related Clinical Sciences, Other.",1
+management,44.07,Social Work.,2
+management,51.02,Communication Disorders Sciences and Services.,1
+management,14.05,Biomedical/Medical Engineering.,1
+management,50.03,Dance.,1
+management,26.09,"Physiology, Pathology and Related Sciences.",1
+management,42.01,"Psychology, General.",4
+management,40.06,Geological and Earth Sciences/Geosciences.,1
+management,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+management,15.03,Electrical/Electronic Engineering Technologies/Technicians.,1
+management,14.19,Mechanical Engineering.,1
+management,54.01,History.,1
+management,30.12,Historic Preservation and Conservation.,1
+management,51.09,"Allied Health Diagnostic, Intervention, and Treatment Professions.",1
+management,51.27,Medical Illustration and Informatics.,1
+architecture,1.01,Agricultural Business and Management.,1
+architecture,27.01,Mathematics.,2
+architecture,54.01,History.,2
+architecture,14.07,Chemical Engineering.,1
+architecture,10.02,Audiovisual Communications Technologies/Technicians.,1
+architecture,45.02,Anthropology.,2
+architecture,26.01,"Biology, General.",1
+architecture,52.02,"Business Administration, Management and Operations.",1
+architecture,14.05,Biomedical/Medical Engineering.,1
+architecture,26.12,Biotechnology.,1
+architecture,9.04,Journalism.,1
+architecture,51.22,Public Health.,1
+architecture,26.02,"Biochemistry, Biophysics and Molecular Biology.",1
+architecture,26.11,"Biomathematics, Bioinformatics, and Computational Biology.",1
+architecture,14.35,Industrial Engineering.,3
+architecture,14.02,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",1
+architecture,14.03,Agricultural Engineering.,1
+architecture,42.01,"Psychology, General.",1
+architecture,13.01,"Education, General.",1
+architecture,23.01,"English Language and Literature, General.",1
+architecture,4.02,Architecture.,5
+architecture,4.06,Landscape Architecture.,5
+architecture,4.09,Architectural Sciences and Technology.,5
+architecture,11.09,Computer Systems Networking and Telecommunications.,1
+architecture,50.07,Fine and Studio Arts.,2
+wine studies,1.11,Plant Sciences.,4
+wine studies,1.1,Food Science and Technology.,5
+wine studies,52.11,International Business.,1
+wine studies,14.35,Industrial Engineering.,1
+wine studies,30.08,Mathematics and Computer Science.,1
+wine studies,45.04,Criminology.,1
+wine studies,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+wine studies,30.44,Geography and Environmental Studies.,3
+wine studies,11.05,Computer Systems Analysis.,1
+wine studies,30.12,Historic Preservation and Conservation.,1
+wine studies,4.05,Interior Architecture.,1
+wine studies,13.99,"Education, Other.",1
+wine studies,30.1,Biopsychology.,1
+wine studies,30.01,Biological and Physical Sciences.,2
+wine studies,30.33,Sustainability Studies.,2
+wine studies,15.17,Energy Systems Technologies/Technicians.,1
+wine studies,30.17,Behavioral Sciences.,1
+wine studies,26.99,"Biological and Biomedical Sciences, Other.",2
+wine studies,30.2,International/Globalization Studies.,1
+wine studies,40.04,Atmospheric Sciences and Meteorology.,2
+wine studies,14.01,"Engineering, General.",1
+wine studies,3.02,Environmental/Natural Resources Management and Policy.,2
+wine studies,45.03,Archeology.,1
+wine studies,24.01,"Liberal Arts and Sciences, General Studies and Humanities.",1
+wine studies,52.01,"Business/Commerce, General.",1
+philosophy of science,38.01,Philosophy.,5
+philosophy of science,30.1,Biopsychology.,2
+philosophy of science,3.05,Forestry.,1
+philosophy of science,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",3
+philosophy of science,26.12,Biotechnology.,1
+philosophy of science,42.28,"Clinical, Counseling and Applied Psychology.",3
+philosophy of science,13.11,Student Counseling and Personnel Services.,3
+philosophy of science,36.01,Leisure and Recreational Activities.,1
+philosophy of science,22.02,Legal Research and Advanced Professional Studies.,1
+philosophy of science,52.1,Human Resources Management and Services.,2
+philosophy of science,5.01,Area Studies.,1
+philosophy of science,52.07,Entrepreneurial and Small Business Operations.,1
+philosophy of science,30.5,Mathematics and Atmospheric/Oceanic Science.,1
+philosophy of science,52.12,Management Information Systems and Services.,1
+philosophy of science,50.06,Film/Video and Photographic Arts.,1
+philosophy of science,50.01,"Visual and Performing Arts, General.",1
+philosophy of science,51.15,Mental and Social Health Services and Allied Professions.,2
+philosophy of science,14.12,Engineering Physics.,1
+philosophy of science,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",3
+philosophy of science,45.99,"Social Sciences, Other.",4
+philosophy of science,31.03,"Parks, Recreation, and Leisure Facilities Management.",1
+philosophy of science,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+philosophy of science,11.09,Computer Systems Networking and Telecommunications.,1
+philosophy of science,15.03,Electrical/Electronic Engineering Technologies/Technicians.,1
+philosophy of science,13.04,Educational Administration and Supervision.,2
+fashion,50.04,Design and Applied Arts.,5
+fashion,52.15,Real Estate.,1
+fashion,45.01,"Social Sciences, General.",1
+fashion,50.07,Fine and Studio Arts.,5
+fashion,45.02,Anthropology.,1
+fashion,30.71,Data Analytics.,1
+fashion,4.02,Architecture.,2
+fashion,14.08,Civil Engineering.,1
+fashion,52.11,International Business.,1
+fashion,52.18,"General Sales, Merchandising and Related Marketing Operations.",4
+fashion,19.02,Family and Consumer Sciences/Human Sciences Business Services.,4
+fashion,19.01,"Family and Consumer Sciences/Human Sciences, General.",4
+fashion,16.05,"Germanic Languages, Literatures, and Linguistics.",1
+fashion,14.18,Materials Engineering.,1
+fashion,50.09,Music.,1
+fashion,9.01,Communication and Media Studies.,4
+fashion,14.07,Chemical Engineering.,1
+fashion,27.05,Statistics.,1
+fashion,26.12,Biotechnology.,1
+fashion,14.14,Environmental/Environmental Health Engineering.,1
+fashion,54.01,History.,1
+fashion,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+fashion,52.08,Finance and Financial Management Services.,1
+fashion,26.01,"Biology, General.",1
+fashion,45.06,Economics.,1
+structural engineering,11.04,Information Science/Studies.,1
+structural engineering,23.01,"English Language and Literature, General.",1
+structural engineering,1.06,Applied Horticulture and Horticultural Business Services.,1
+structural engineering,38.02,Religion/Religious Studies.,1
+structural engineering,54.01,History.,1
+structural engineering,52.14,Marketing.,1
+structural engineering,52.03,Accounting and Related Services.,1
+structural engineering,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+structural engineering,44.05,Public Policy Analysis.,1
+structural engineering,52.2,Construction Management.,4
+structural engineering,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",1
+structural engineering,1.11,Plant Sciences.,1
+structural engineering,9.01,Communication and Media Studies.,1
+structural engineering,44.04,Public Administration.,1
+structural engineering,1,"Agriculture, General.",1
+structural engineering,1.03,Agricultural Production Operations.,1
+structural engineering,50.05,Drama/Theatre Arts and Stagecraft.,1
+structural engineering,11.99,"Computer and Information Sciences and Support Services, Other.",1
+structural engineering,52.12,Management Information Systems and Services.,1
+structural engineering,14.13,Engineering Science.,5
+structural engineering,15,"Engineering Technologies/Technicians, General.",4
+structural engineering,51.99,"Health Professions and Related Clinical Sciences, Other.",1
+structural engineering,36.01,Leisure and Recreational Activities.,1
+structural engineering,50.01,"Visual and Performing Arts, General.",1
+structural engineering,15.03,Electrical/Electronic Engineering Technologies/Technicians.,3
+social media marketing,40.08,Physics.,1
+social media marketing,3.01,Natural Resources Conservation and Research.,1
+social media marketing,40.06,Geological and Earth Sciences/Geosciences.,1
+social media marketing,13.1,Special Education and Teaching.,1
+social media marketing,43.01,Criminal Justice and Corrections.,1
+social media marketing,11.01,"Computer and Information Sciences, General.",1
+social media marketing,14.33,Construction Engineering.,1
+social media marketing,50.05,Drama/Theatre Arts and Stagecraft.,1
+social media marketing,11.04,Information Science/Studies.,2
+social media marketing,45.01,"Social Sciences, General.",4
+social media marketing,13.01,"Education, General.",1
+social media marketing,11.09,Computer Systems Networking and Telecommunications.,1
+social media marketing,14.27,Systems Engineering.,1
+social media marketing,19.04,Family and Consumer Economics and Related Studies.,4
+social media marketing,22.02,Legal Research and Advanced Professional Studies.,1
+social media marketing,49.01,Air Transportation.,1
+social media marketing,15.1,Construction Engineering Technology/Technician.,1
+social media marketing,3.05,Forestry.,1
+social media marketing,23.13,Rhetoric and Composition/Writing Studies.,1
+social media marketing,14.37,Operations Research.,1
+social media marketing,30.19,Nutrition Sciences.,1
+social media marketing,27.03,Applied Mathematics.,2
+social media marketing,9.01,Communication and Media Studies.,3
+social media marketing,9.07,"Radio, Television, and Digital Communication.",4
+social media marketing,15.15,Engineering-Related Fields.,1
+neuroscience,26.15,Neurobiology and Neurosciences.,5
+neuroscience,42.27,Research and Experimental Psychology.,4
+neuroscience,42.01,"Psychology, General.",3
+neuroscience,27.01,Mathematics.,1
+neuroscience,14.09,Computer Engineering.,1
+neuroscience,14.18,Materials Engineering.,1
+neuroscience,40.06,Geological and Earth Sciences/Geosciences.,1
+neuroscience,13.04,Educational Administration and Supervision.,1
+neuroscience,26.01,"Biology, General.",4
+neuroscience,16.05,"Germanic Languages, Literatures, and Linguistics.",1
+neuroscience,14.05,Biomedical/Medical Engineering.,1
+neuroscience,45.1,Political Science and Government.,1
+neuroscience,40.05,Chemistry.,3
+neuroscience,16.09,"Romance Languages, Literatures, and Linguistics.",1
+neuroscience,51.22,Public Health.,1
+neuroscience,50.09,Music.,2
+neuroscience,52.02,"Business Administration, Management and Operations.",1
+graffiti,50.05,Drama/Theatre Arts and Stagecraft.,3
+graffiti,50.04,Design and Applied Arts.,4
+graffiti,50.07,Fine and Studio Arts.,5
+racial justice,45.11,Sociology.,4
+racial justice,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",5
+racial justice,3.05,Forestry.,1
+racial justice,45.1,Political Science and Government.,4
+racial justice,43.01,Criminal Justice and Corrections.,4
+racial justice,45.02,Anthropology.,3
+racial justice,40.99,"Physical Sciences, Other.",1
+racial justice,38.01,Philosophy.,3
+racial justice,45.04,Criminology.,4
+racial justice,9.04,Journalism.,1
+racial justice,9.01,Communication and Media Studies.,2
+racial justice,38.02,Religion/Religious Studies.,1
+racial justice,5.01,Area Studies.,2
+racial justice,54.01,History.,3
+racial justice,45.09,International Relations and National Security Studies.,1
+racial justice,30.33,Sustainability Studies.,1
+racial justice,51.22,Public Health.,1
+racial justice,19.02,Family and Consumer Sciences/Human Sciences Business Services.,1
+racial justice,22.02,Legal Research and Advanced Professional Studies.,3
+racial justice,19.01,"Family and Consumer Sciences/Human Sciences, General.",1
+racial justice,23.01,"English Language and Literature, General.",1
+racial justice,13.01,"Education, General.",1
+racial justice,50.06,Film/Video and Photographic Arts.,1
+racial justice,23.13,Rhetoric and Composition/Writing Studies.,1
+racial justice,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+information technology,19.07,"Human Development, Family Studies, and Related Services.",1
+information technology,30.19,Nutrition Sciences.,1
+information technology,38.02,Religion/Religious Studies.,1
+information technology,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+information technology,14.33,Construction Engineering.,1
+information technology,14.19,Mechanical Engineering.,1
+information technology,52.18,"General Sales, Merchandising and Related Marketing Operations.",1
+information technology,3.05,Forestry.,1
+information technology,5.01,Area Studies.,1
+information technology,45.03,Archeology.,1
+information technology,44.05,Public Policy Analysis.,1
+information technology,1.12,Soil Sciences.,1
+information technology,14.25,Petroleum Engineering.,1
+information technology,1.09,Animal Sciences.,1
+information technology,40.02,Astronomy and Astrophysics.,1
+information technology,51.02,Communication Disorders Sciences and Services.,1
+information technology,27.05,Statistics.,2
+information technology,45.04,Criminology.,1
+information technology,24.01,"Liberal Arts and Sciences, General Studies and Humanities.",1
+information technology,15.03,Electrical/Electronic Engineering Technologies/Technicians.,4
+information technology,3.03,Fishing and Fisheries Sciences and Management.,1
+information technology,30.44,Geography and Environmental Studies.,1
+information technology,51.23,Rehabilitation and Therapeutic Professions.,1
+information technology,30.7,Data Science.,2
+information technology,30.99,"Multi/Interdisciplinary Studies, Other.",1
+social psychology,14.18,Materials Engineering.,1
+social psychology,26.01,"Biology, General.",1
+social psychology,14.27,Systems Engineering.,1
+social psychology,42.01,"Psychology, General.",5
+social psychology,3.01,Natural Resources Conservation and Research.,1
+social psychology,16.09,"Romance Languages, Literatures, and Linguistics.",1
+social psychology,14.05,Biomedical/Medical Engineering.,1
+social psychology,49.01,Air Transportation.,1
+social psychology,52.08,Finance and Financial Management Services.,1
+social psychology,15.04,Electromechanical Technologies/Technicians.,1
+social psychology,52.12,Management Information Systems and Services.,1
+social psychology,15.15,Engineering-Related Fields.,1
+social psychology,52.15,Real Estate.,1
+social psychology,29.04,Military Systems and Maintenance Technology.,1
+social psychology,42.28,"Clinical, Counseling and Applied Psychology.",4
+social psychology,30.25,Cognitive Science.,3
+social psychology,36.01,Leisure and Recreational Activities.,1
+social psychology,26.15,Neurobiology and Neurosciences.,2
+social psychology,51.15,Mental and Social Health Services and Allied Professions.,3
+social psychology,45.01,"Social Sciences, General.",4
+social psychology,13.11,Student Counseling and Personnel Services.,3
+social psychology,51.02,Communication Disorders Sciences and Services.,2
+social psychology,14.35,Industrial Engineering.,1
+social psychology,30.19,Nutrition Sciences.,1
+social psychology,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+hospitality,45.01,"Social Sciences, General.",4
+hospitality,52.18,"General Sales, Merchandising and Related Marketing Operations.",1
+hospitality,27.05,Statistics.,1
+hospitality,51.07,Health and Medical Administrative Services.,1
+hospitality,51.23,Rehabilitation and Therapeutic Professions.,2
+hospitality,26.13,"Ecology, Evolution, Systematics, and Population Biology.",1
+hospitality,15.15,Engineering-Related Fields.,1
+hospitality,19.02,Family and Consumer Sciences/Human Sciences Business Services.,3
+hospitality,19.01,"Family and Consumer Sciences/Human Sciences, General.",2
+hospitality,51.31,Dietetics and Clinical Nutrition Services.,1
+hospitality,52.07,Entrepreneurial and Small Business Operations.,1
+hospitality,13.04,Educational Administration and Supervision.,1
+hospitality,14.14,Environmental/Environmental Health Engineering.,1
+hospitality,3.05,Forestry.,1
+hospitality,51.22,Public Health.,1
+hospitality,44.04,Public Administration.,1
+hospitality,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",1
+hospitality,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+hospitality,13.01,"Education, General.",1
+hospitality,52.03,Accounting and Related Services.,1
+hospitality,40.06,Geological and Earth Sciences/Geosciences.,1
+hospitality,30.18,Natural Sciences.,1
+hospitality,43.01,Criminal Justice and Corrections.,1
+hospitality,52.02,"Business Administration, Management and Operations.",2
+hospitality,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",1
+aerospace engineering,49.01,Air Transportation.,3
+aerospace engineering,29.04,Military Systems and Maintenance Technology.,2
+aerospace engineering,14.02,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",5
+aerospace engineering,14.01,"Engineering, General.",4
+aerospace engineering,42.27,Research and Experimental Psychology.,1
+aerospace engineering,23.13,Rhetoric and Composition/Writing Studies.,1
+aerospace engineering,40.02,Astronomy and Astrophysics.,3
+aerospace engineering,36.01,Leisure and Recreational Activities.,1
+aerospace engineering,50.01,"Visual and Performing Arts, General.",1
+aerospace engineering,51.99,"Health Professions and Related Clinical Sciences, Other.",1
+aerospace engineering,1,"Agriculture, General.",1
+aerospace engineering,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+aerospace engineering,3.01,Natural Resources Conservation and Research.,1
+aerospace engineering,43.01,Criminal Justice and Corrections.,1
+aerospace engineering,51.07,Health and Medical Administrative Services.,1
+aerospace engineering,40.08,Physics.,2
+aerospace engineering,16.09,"Romance Languages, Literatures, and Linguistics.",1
+aerospace engineering,40.06,Geological and Earth Sciences/Geosciences.,1
+aerospace engineering,11.04,Information Science/Studies.,1
+aerospace engineering,23.01,"English Language and Literature, General.",1
+aerospace engineering,50.06,Film/Video and Photographic Arts.,1
+aerospace engineering,1.06,Applied Horticulture and Horticultural Business Services.,1
+aerospace engineering,54.01,History.,1
+aerospace engineering,38.02,Religion/Religious Studies.,1
+aerospace engineering,52.14,Marketing.,1
+spirituality,38.02,Religion/Religious Studies.,5
+spirituality,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",1
+spirituality,52.05,Business/Corporate Communications.,1
+spirituality,42.28,"Clinical, Counseling and Applied Psychology.",1
+spirituality,13.11,Student Counseling and Personnel Services.,1
+spirituality,16.05,"Germanic Languages, Literatures, and Linguistics.",1
+spirituality,51.15,Mental and Social Health Services and Allied Professions.,1
+spirituality,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",1
+spirituality,45.02,Anthropology.,2
+spirituality,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+spirituality,51.22,Public Health.,1
+spirituality,9.01,Communication and Media Studies.,1
+spirituality,16.09,"Romance Languages, Literatures, and Linguistics.",1
+spirituality,50.09,Music.,1
+physical chemistry,54.01,History.,1
+physical chemistry,50.09,Music.,1
+physical chemistry,3.05,Forestry.,1
+physical chemistry,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",1
+physical chemistry,30.5,Mathematics and Atmospheric/Oceanic Science.,2
+physical chemistry,27.05,Statistics.,2
+physical chemistry,38.01,Philosophy.,1
+physical chemistry,26.99,"Biological and Biomedical Sciences, Other.",1
+physical chemistry,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+physical chemistry,45.1,Political Science and Government.,1
+physical chemistry,9.01,Communication and Media Studies.,1
+physical chemistry,23.01,"English Language and Literature, General.",1
+physical chemistry,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+physical chemistry,5.01,Area Studies.,1
+physical chemistry,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",1
+physical chemistry,52.14,Marketing.,1
+physical chemistry,19.07,"Human Development, Family Studies, and Related Services.",1
+physical chemistry,45.12,Urban Studies/Affairs.,1
+physical chemistry,26.13,"Ecology, Evolution, Systematics, and Population Biology.",1
+physical chemistry,13.01,"Education, General.",1
+physical chemistry,52.12,Management Information Systems and Services.,1
+physical chemistry,9.04,Journalism.,1
+physical chemistry,14.43,Biochemical Engineering.,2
+physical chemistry,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",1
+physical chemistry,26.12,Biotechnology.,1
+environmental science,13.04,Educational Administration and Supervision.,1
+environmental science,23.01,"English Language and Literature, General.",1
+environmental science,30.22,Classical and Ancient Studies.,1
+environmental science,45.1,Political Science and Government.,1
+environmental science,52.15,Real Estate.,1
+environmental science,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+environmental science,10.02,Audiovisual Communications Technologies/Technicians.,1
+environmental science,15.05,Environmental Control Technologies/Technicians.,4
+environmental science,50.07,Fine and Studio Arts.,1
+environmental science,11.1,Computer/Information Technology Administration and Management.,1
+environmental science,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+environmental science,30.1,Biopsychology.,1
+environmental science,29.02,"Intelligence, Command Control and Information Operations.",1
+environmental science,30.18,Natural Sciences.,3
+environmental science,44.07,Social Work.,1
+environmental science,40.02,Astronomy and Astrophysics.,1
+environmental science,22.02,Legal Research and Advanced Professional Studies.,1
+environmental science,30.71,Data Analytics.,1
+environmental science,36.01,Leisure and Recreational Activities.,1
+environmental science,45.03,Archeology.,2
+environmental science,30.17,Behavioral Sciences.,1
+environmental science,30.33,Sustainability Studies.,4
+environmental science,52.11,International Business.,1
+environmental science,4.09,Architectural Sciences and Technology.,1
+environmental science,5.01,Area Studies.,1
+sound engineering,9.01,Communication and Media Studies.,2
+sound engineering,1.11,Plant Sciences.,1
+sound engineering,50.01,"Visual and Performing Arts, General.",3
+sound engineering,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+sound engineering,1.03,Agricultural Production Operations.,1
+sound engineering,50.05,Drama/Theatre Arts and Stagecraft.,1
+sound engineering,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",1
+sound engineering,44.04,Public Administration.,1
+sound engineering,11.99,"Computer and Information Sciences and Support Services, Other.",1
+sound engineering,44.05,Public Policy Analysis.,1
+sound engineering,52.12,Management Information Systems and Services.,1
+sound engineering,43.01,Criminal Justice and Corrections.,1
+sound engineering,36.01,Leisure and Recreational Activities.,1
+sound engineering,51.99,"Health Professions and Related Clinical Sciences, Other.",1
+sound engineering,50.07,Fine and Studio Arts.,2
+sound engineering,14.12,Engineering Physics.,2
+sound engineering,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+sound engineering,1,"Agriculture, General.",1
+sound engineering,3.01,Natural Resources Conservation and Research.,1
+sound engineering,51.23,Rehabilitation and Therapeutic Professions.,1
+sound engineering,11.09,Computer Systems Networking and Telecommunications.,1
+sound engineering,13.01,"Education, General.",1
+sound engineering,5.01,Area Studies.,1
+sound engineering,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",1
+sound engineering,19.07,"Human Development, Family Studies, and Related Services.",1
+statistics,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",1
+statistics,16.05,"Germanic Languages, Literatures, and Linguistics.",1
+statistics,50.05,Drama/Theatre Arts and Stagecraft.,1
+statistics,38.01,Philosophy.,1
+statistics,1.08,Agricultural Public Services.,1
+statistics,45.12,Urban Studies/Affairs.,1
+statistics,14.01,"Engineering, General.",1
+statistics,30.5,Mathematics and Atmospheric/Oceanic Science.,2
+statistics,52.2,Construction Management.,1
+statistics,26.05,Microbiological Sciences and Immunology.,1
+statistics,11.07,Computer Science.,1
+statistics,13.01,"Education, General.",1
+statistics,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+statistics,30.01,Biological and Physical Sciences.,1
+statistics,23.01,"English Language and Literature, General.",1
+statistics,15,"Engineering Technologies/Technicians, General.",1
+statistics,14.03,Agricultural Engineering.,1
+statistics,54.01,History.,1
+statistics,9.04,Journalism.,1
+statistics,30.25,Cognitive Science.,1
+statistics,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+statistics,15.17,Energy Systems Technologies/Technicians.,1
+statistics,30.44,Geography and Environmental Studies.,1
+statistics,31.03,"Parks, Recreation, and Leisure Facilities Management.",1
+statistics,15.04,Electromechanical Technologies/Technicians.,1
+kinesiology,26.09,"Physiology, Pathology and Related Sciences.",3
+kinesiology,51.09,"Allied Health Diagnostic, Intervention, and Treatment Professions.",4
+kinesiology,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",5
+kinesiology,50.03,Dance.,1
+kinesiology,26.15,Neurobiology and Neurosciences.,1
+kinesiology,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+kinesiology,1.08,Agricultural Public Services.,1
+kinesiology,51,"Health Services/Allied Health/Health Sciences, General.",2
+kinesiology,40.05,Chemistry.,2
+kinesiology,40.08,Physics.,2
+kinesiology,40.06,Geological and Earth Sciences/Geosciences.,1
+kinesiology,27.01,Mathematics.,1
+art history,40.06,Geological and Earth Sciences/Geosciences.,1
+art history,27.01,Mathematics.,1
+art history,52.08,Finance and Financial Management Services.,1
+art history,1.11,Plant Sciences.,1
+art history,42.01,"Psychology, General.",1
+art history,40.08,Physics.,1
+art history,40.05,Chemistry.,1
+art history,26.11,"Biomathematics, Bioinformatics, and Computational Biology.",1
+art history,11.08,Computer Software and Media Applications.,1
+art history,26.01,"Biology, General.",1
+art history,26.12,Biotechnology.,1
+art history,52.07,Entrepreneurial and Small Business Operations.,1
+art history,50.99,"Visual and Performing Arts, Other.",3
+art history,11.09,Computer Systems Networking and Telecommunications.,1
+art history,15.15,Engineering-Related Fields.,1
+art history,14.37,Operations Research.,1
+art history,1.06,Applied Horticulture and Horticultural Business Services.,1
+art history,14.07,Chemical Engineering.,1
+art history,11.07,Computer Science.,1
+art history,27.03,Applied Mathematics.,1
+art history,52.13,Management Sciences and Quantitative Methods.,1
+art history,26.02,"Biochemistry, Biophysics and Molecular Biology.",1
+art history,30.7,Data Science.,1
+art history,52.11,International Business.,1
+art history,30.71,Data Analytics.,1
+peace and conflict studies,14.01,"Engineering, General.",1
+peace and conflict studies,15.05,Environmental Control Technologies/Technicians.,1
+peace and conflict studies,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",1
+peace and conflict studies,45.09,International Relations and National Security Studies.,4
+peace and conflict studies,22.02,Legal Research and Advanced Professional Studies.,2
+peace and conflict studies,11.04,Information Science/Studies.,1
+peace and conflict studies,45.1,Political Science and Government.,5
+peace and conflict studies,5.01,Area Studies.,1
+peace and conflict studies,38.02,Religion/Religious Studies.,1
+peace and conflict studies,54.01,History.,3
+peace and conflict studies,50.09,Music.,1
+peace and conflict studies,45.06,Economics.,1
+peace and conflict studies,30.08,Mathematics and Computer Science.,1
+peace and conflict studies,26.01,"Biology, General.",1
+peace and conflict studies,45.04,Criminology.,2
+peace and conflict studies,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+peace and conflict studies,30.44,Geography and Environmental Studies.,1
+peace and conflict studies,11.05,Computer Systems Analysis.,1
+peace and conflict studies,30.12,Historic Preservation and Conservation.,1
+peace and conflict studies,4.05,Interior Architecture.,1
+peace and conflict studies,13.99,"Education, Other.",1
+peace and conflict studies,30.1,Biopsychology.,1
+peace and conflict studies,30.17,Behavioral Sciences.,2
+peace and conflict studies,30.2,International/Globalization Studies.,2
+peace and conflict studies,30.01,Biological and Physical Sciences.,1
+social work,14.25,Petroleum Engineering.,1
+social work,30.7,Data Science.,1
+social work,3.03,Fishing and Fisheries Sciences and Management.,1
+social work,1.12,Soil Sciences.,1
+social work,36.01,Leisure and Recreational Activities.,1
+social work,15.1,Construction Engineering Technology/Technician.,1
+social work,44.05,Public Policy Analysis.,3
+social work,15.04,Electromechanical Technologies/Technicians.,1
+social work,52.12,Management Information Systems and Services.,1
+social work,45.01,"Social Sciences, General.",3
+social work,1.1,Food Science and Technology.,1
+social work,30.19,Nutrition Sciences.,1
+social work,14.35,Industrial Engineering.,1
+social work,9.07,"Radio, Television, and Digital Communication.",1
+social work,26.07,Zoology/Animal Biology.,1
+social work,14.43,Biochemical Engineering.,1
+social work,14.19,Mechanical Engineering.,1
+social work,4.06,Landscape Architecture.,1
+social work,14.33,Construction Engineering.,1
+social work,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+social work,52.05,Business/Corporate Communications.,1
+social work,30.27,Human Biology.,1
+social work,49.01,Air Transportation.,1
+social work,14.37,Operations Research.,1
+social work,14.1,"Electrical, Electronics, and Communications Engineering.",1
+marine biology,3.03,Fishing and Fisheries Sciences and Management.,4
+marine biology,3.01,Natural Resources Conservation and Research.,3
+marine biology,45.06,Economics.,1
+marine biology,26.15,Neurobiology and Neurosciences.,1
+marine biology,26.13,"Ecology, Evolution, Systematics, and Population Biology.",3
+marine biology,52.02,"Business Administration, Management and Operations.",1
+marine biology,40.06,Geological and Earth Sciences/Geosciences.,1
+marine biology,26.05,Microbiological Sciences and Immunology.,2
+marine biology,26.01,"Biology, General.",4
+marine biology,11.99,"Computer and Information Sciences and Support Services, Other.",1
+marine biology,45.12,Urban Studies/Affairs.,1
+marine biology,29.02,"Intelligence, Command Control and Information Operations.",1
+marine biology,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",1
+marine biology,10.02,Audiovisual Communications Technologies/Technicians.,1
+marine biology,40.02,Astronomy and Astrophysics.,1
+marine biology,43.01,Criminal Justice and Corrections.,1
+marine biology,40.04,Atmospheric Sciences and Meteorology.,1
+marine biology,52.18,"General Sales, Merchandising and Related Marketing Operations.",1
+marine biology,30.5,Mathematics and Atmospheric/Oceanic Science.,3
+marine biology,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",1
+marine biology,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+marine biology,14.14,Environmental/Environmental Health Engineering.,1
+marine biology,45.07,Geography and Cartography.,1
+marine biology,26.12,Biotechnology.,2
+marine biology,27.05,Statistics.,1
+global studies,30.44,Geography and Environmental Studies.,2
+global studies,11.05,Computer Systems Analysis.,1
+global studies,40.05,Chemistry.,1
+global studies,40.04,Atmospheric Sciences and Meteorology.,1
+global studies,52.11,International Business.,4
+global studies,45.03,Archeology.,1
+global studies,14.01,"Engineering, General.",1
+global studies,30.2,International/Globalization Studies.,5
+global studies,30.18,Natural Sciences.,1
+global studies,50.1,"Arts, Entertainment, and Media Management.",1
+global studies,14.1,"Electrical, Electronics, and Communications Engineering.",1
+global studies,13.04,Educational Administration and Supervision.,1
+global studies,1.1,Food Science and Technology.,1
+global studies,26.11,"Biomathematics, Bioinformatics, and Computational Biology.",1
+global studies,19.04,Family and Consumer Economics and Related Studies.,1
+global studies,14.18,Materials Engineering.,1
+global studies,42.27,Research and Experimental Psychology.,1
+global studies,3.02,Environmental/Natural Resources Management and Policy.,1
+global studies,15.1,Construction Engineering Technology/Technician.,1
+global studies,52.16,Taxation.,1
+global studies,31.03,"Parks, Recreation, and Leisure Facilities Management.",1
+global studies,45.04,Criminology.,1
+global studies,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+global studies,30.12,Historic Preservation and Conservation.,1
+global studies,4.05,Interior Architecture.,1
+biomedical engineering,50.06,Film/Video and Photographic Arts.,1
+biomedical engineering,1.06,Applied Horticulture and Horticultural Business Services.,1
+biomedical engineering,54.01,History.,1
+biomedical engineering,52.14,Marketing.,1
+biomedical engineering,52.03,Accounting and Related Services.,1
+biomedical engineering,29.02,"Intelligence, Command Control and Information Operations.",1
+biomedical engineering,1.11,Plant Sciences.,1
+biomedical engineering,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",2
+biomedical engineering,44.04,Public Administration.,1
+biomedical engineering,1.03,Agricultural Production Operations.,1
+biomedical engineering,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",1
+biomedical engineering,11.99,"Computer and Information Sciences and Support Services, Other.",1
+biomedical engineering,44.05,Public Policy Analysis.,1
+biomedical engineering,52.12,Management Information Systems and Services.,1
+biomedical engineering,50.05,Drama/Theatre Arts and Stagecraft.,1
+biomedical engineering,36.01,Leisure and Recreational Activities.,1
+biomedical engineering,50.01,"Visual and Performing Arts, General.",1
+biomedical engineering,1,"Agriculture, General.",1
+biomedical engineering,26.13,"Ecology, Evolution, Systematics, and Population Biology.",2
+biomedical engineering,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+biomedical engineering,3.01,Natural Resources Conservation and Research.,1
+biomedical engineering,14.12,Engineering Physics.,1
+biomedical engineering,30.14,Museology/Museum Studies.,1
+biomedical engineering,45.02,Anthropology.,1
+biomedical engineering,26.08,Genetics.,3
+science journalism,52.12,Management Information Systems and Services.,1
+science journalism,50.01,"Visual and Performing Arts, General.",1
+science journalism,51.15,Mental and Social Health Services and Allied Professions.,1
+science journalism,14.12,Engineering Physics.,1
+science journalism,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",2
+science journalism,45.99,"Social Sciences, Other.",2
+science journalism,11.09,Computer Systems Networking and Telecommunications.,1
+science journalism,15.08,Mechanical Engineering Related Technologies/Technicians.,1
+science journalism,15.05,Environmental Control Technologies/Technicians.,1
+science journalism,15.03,Electrical/Electronic Engineering Technologies/Technicians.,1
+science journalism,15.12,Computer Engineering Technologies/Technicians.,1
+science journalism,11.1,Computer/Information Technology Administration and Management.,1
+science journalism,31.03,"Parks, Recreation, and Leisure Facilities Management.",1
+science journalism,4.05,Interior Architecture.,1
+science journalism,45.12,Urban Studies/Affairs.,1
+science journalism,30.1,Biopsychology.,1
+science journalism,3.05,Forestry.,1
+science journalism,52.15,Real Estate.,1
+science journalism,30.14,Museology/Museum Studies.,1
+science journalism,30.22,Classical and Ancient Studies.,1
+science journalism,30.71,Data Analytics.,1
+science journalism,52.11,International Business.,1
+science journalism,5.01,Area Studies.,1
+science journalism,50.06,Film/Video and Photographic Arts.,1
+science journalism,9.01,Communication and Media Studies.,4
+non-profit organizations,42.28,"Clinical, Counseling and Applied Psychology.",1
+non-profit organizations,51.15,Mental and Social Health Services and Allied Professions.,2
+non-profit organizations,30.08,Mathematics and Computer Science.,1
+non-profit organizations,13.11,Student Counseling and Personnel Services.,2
+non-profit organizations,19.06,Housing and Human Environments.,2
+non-profit organizations,9.07,"Radio, Television, and Digital Communication.",1
+non-profit organizations,14.1,"Electrical, Electronics, and Communications Engineering.",1
+non-profit organizations,50.01,"Visual and Performing Arts, General.",1
+non-profit organizations,50.05,Drama/Theatre Arts and Stagecraft.,1
+non-profit organizations,16.09,"Romance Languages, Literatures, and Linguistics.",1
+non-profit organizations,40.06,Geological and Earth Sciences/Geosciences.,1
+non-profit organizations,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",1
+non-profit organizations,30.18,Natural Sciences.,1
+non-profit organizations,44.07,Social Work.,5
+non-profit organizations,40.08,Physics.,1
+non-profit organizations,38.02,Religion/Religious Studies.,1
+non-profit organizations,40.02,Astronomy and Astrophysics.,1
+non-profit organizations,52.15,Real Estate.,1
+non-profit organizations,51.02,Communication Disorders Sciences and Services.,1
+non-profit organizations,14.43,Biochemical Engineering.,1
+non-profit organizations,38.01,Philosophy.,1
+non-profit organizations,40.99,"Physical Sciences, Other.",1
+non-profit organizations,30.33,Sustainability Studies.,1
+non-profit organizations,52.16,Taxation.,1
+non-profit organizations,14.37,Operations Research.,1
+science writing,5.01,Area Studies.,1
+science writing,52.12,Management Information Systems and Services.,1
+science writing,30.5,Mathematics and Atmospheric/Oceanic Science.,2
+science writing,50.06,Film/Video and Photographic Arts.,1
+science writing,51.15,Mental and Social Health Services and Allied Professions.,1
+science writing,50.01,"Visual and Performing Arts, General.",1
+science writing,26.08,Genetics.,2
+science writing,31.03,"Parks, Recreation, and Leisure Facilities Management.",1
+science writing,26.05,Microbiological Sciences and Immunology.,2
+science writing,1,"Agriculture, General.",1
+science writing,44.05,Public Policy Analysis.,1
+science writing,13.04,Educational Administration and Supervision.,1
+science writing,30.25,Cognitive Science.,2
+science writing,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",3
+science writing,26.99,"Biological and Biomedical Sciences, Other.",2
+science writing,11.09,Computer Systems Networking and Telecommunications.,1
+science writing,11.1,Computer/Information Technology Administration and Management.,1
+science writing,45.12,Urban Studies/Affairs.,1
+science writing,3.05,Forestry.,1
+science writing,15.05,Environmental Control Technologies/Technicians.,1
+science writing,45.07,Geography and Cartography.,1
+science writing,14.12,Engineering Physics.,1
+science writing,45.99,"Social Sciences, Other.",2
+science writing,30.14,Museology/Museum Studies.,1
+science writing,19.06,Housing and Human Environments.,1
+language learning,45.06,Economics.,1
+language learning,4.06,Landscape Architecture.,1
+language learning,30.08,Mathematics and Computer Science.,1
+language learning,23.13,Rhetoric and Composition/Writing Studies.,2
+language learning,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",1
+language learning,14.33,Construction Engineering.,1
+language learning,4.02,Architecture.,1
+language learning,40.02,Astronomy and Astrophysics.,1
+language learning,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",2
+language learning,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+language learning,14.42,"Mechatronics, Robotics, and Automation Engineering.",1
+language learning,15.04,Electromechanical Technologies/Technicians.,1
+language learning,30.22,Classical and Ancient Studies.,1
+language learning,31.05,"Sports, Kinesiology, and Physical Education/Fitness.",1
+language learning,3.05,Forestry.,1
+language learning,1.08,Agricultural Public Services.,1
+language learning,15.15,Engineering-Related Fields.,1
+language learning,14.19,Mechanical Engineering.,1
+language learning,14.25,Petroleum Engineering.,1
+language learning,43.01,Criminal Justice and Corrections.,1
+language learning,40.04,Atmospheric Sciences and Meteorology.,1
+language learning,54.01,History.,1
+language learning,38.02,Religion/Religious Studies.,1
+language learning,1.03,Agricultural Production Operations.,1
+language learning,51.02,Communication Disorders Sciences and Services.,1
+radiation oncology,51,"Health Services/Allied Health/Health Sciences, General.",4
+radiation oncology,14.11,Engineering Mechanics.,1
+radiation oncology,14.12,Engineering Physics.,1
+radiation oncology,51.22,Public Health.,2
+radiation oncology,40.04,Atmospheric Sciences and Meteorology.,1
+radiation oncology,40.02,Astronomy and Astrophysics.,1
+radiation oncology,26.02,"Biochemistry, Biophysics and Molecular Biology.",1
+radiation oncology,23.13,Rhetoric and Composition/Writing Studies.,1
+radiation oncology,11.01,"Computer and Information Sciences, General.",1
+radiation oncology,26.13,"Ecology, Evolution, Systematics, and Population Biology.",1
+radiation oncology,14.19,Mechanical Engineering.,1
+radiation oncology,40.08,Physics.,1
+radiation oncology,52.08,Finance and Financial Management Services.,1
+radiation oncology,14.03,Agricultural Engineering.,1
+radiation oncology,14.35,Industrial Engineering.,1
+radiation oncology,15.05,Environmental Control Technologies/Technicians.,1
+radiation oncology,45.07,Geography and Cartography.,1
+radiation oncology,51.23,Rehabilitation and Therapeutic Professions.,1
+radiation oncology,3.02,Environmental/Natural Resources Management and Policy.,1
+radiation oncology,40.06,Geological and Earth Sciences/Geosciences.,1
+radiation oncology,40.05,Chemistry.,2
+radiation oncology,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",1
+radiation oncology,51.07,Health and Medical Administrative Services.,3
+radiation oncology,14.07,Chemical Engineering.,2
+radiation oncology,19.04,Family and Consumer Economics and Related Studies.,1
+blockchain technology,51.23,Rehabilitation and Therapeutic Professions.,1
+blockchain technology,30.7,Data Science.,1
+blockchain technology,43.01,Criminal Justice and Corrections.,1
+blockchain technology,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",1
+blockchain technology,27.03,Applied Mathematics.,1
+blockchain technology,14.35,Industrial Engineering.,1
+blockchain technology,14.14,Environmental/Environmental Health Engineering.,1
+blockchain technology,16.05,"Germanic Languages, Literatures, and Linguistics.",1
+blockchain technology,26.12,Biotechnology.,1
+blockchain technology,52.07,Entrepreneurial and Small Business Operations.,1
+blockchain technology,26.02,"Biochemistry, Biophysics and Molecular Biology.",1
+blockchain technology,52.02,"Business Administration, Management and Operations.",2
+blockchain technology,27.01,Mathematics.,1
+blockchain technology,26.04,Cell/Cellular Biology and Anatomical Sciences.,1
+blockchain technology,38.02,Religion/Religious Studies.,1
+blockchain technology,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+blockchain technology,40.08,Physics.,1
+blockchain technology,14.18,Materials Engineering.,1
+blockchain technology,14.33,Construction Engineering.,1
+blockchain technology,14.19,Mechanical Engineering.,1
+blockchain technology,52.18,"General Sales, Merchandising and Related Marketing Operations.",2
+blockchain technology,3.05,Forestry.,1
+blockchain technology,5.01,Area Studies.,1
+blockchain technology,45.03,Archeology.,1
+blockchain technology,44.05,Public Policy Analysis.,1
+nursing,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5
+nursing,44.05,Public Policy Analysis.,1
+nursing,50.09,Music.,1
+nursing,51.99,"Health Professions and Related Clinical Sciences, Other.",4
+nursing,45.07,Geography and Cartography.,1
+nursing,51.07,Health and Medical Administrative Services.,3
+nursing,26.04,Cell/Cellular Biology and Anatomical Sciences.,2
+nursing,1.1,Food Science and Technology.,1
+nursing,27.05,Statistics.,1
+nursing,1.11,Plant Sciences.,1
+nursing,40.05,Chemistry.,1
+nursing,1.01,Agricultural Business and Management.,1
+nursing,16.09,"Romance Languages, Literatures, and Linguistics.",1
+nursing,51.22,Public Health.,3
+supply chain management,51,"Health Services/Allied Health/Health Sciences, General.",1
+supply chain management,38.01,Philosophy.,1
+supply chain management,40.04,Atmospheric Sciences and Meteorology.,1
+supply chain management,45.02,Anthropology.,1
+supply chain management,36.01,Leisure and Recreational Activities.,1
+supply chain management,50.01,"Visual and Performing Arts, General.",1
+supply chain management,51.99,"Health Professions and Related Clinical Sciences, Other.",1
+supply chain management,44.07,Social Work.,1
+supply chain management,51.02,Communication Disorders Sciences and Services.,1
+supply chain management,50.03,Dance.,1
+supply chain management,42.01,"Psychology, General.",1
+supply chain management,26.09,"Physiology, Pathology and Related Sciences.",1
+supply chain management,14.19,Mechanical Engineering.,1
+supply chain management,15.03,Electrical/Electronic Engineering Technologies/Technicians.,2
+supply chain management,54.01,History.,1
+supply chain management,51.09,"Allied Health Diagnostic, Intervention, and Treatment Professions.",1
+supply chain management,15.08,Mechanical Engineering Related Technologies/Technicians.,2
+supply chain management,50.06,Film/Video and Photographic Arts.,1
+supply chain management,45.11,Sociology.,1
+supply chain management,40.08,Physics.,1
+supply chain management,30.12,Historic Preservation and Conservation.,1
+supply chain management,40.02,Astronomy and Astrophysics.,1
+supply chain management,26.08,Genetics.,1
+supply chain management,40.99,"Physical Sciences, Other.",1
+supply chain management,14.05,Biomedical/Medical Engineering.,1
+technology,19.07,"Human Development, Family Studies, and Related Services.",1
+technology,30.19,Nutrition Sciences.,1
+technology,38.02,Religion/Religious Studies.,1
+technology,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",1
+technology,14.33,Construction Engineering.,3
+technology,14.19,Mechanical Engineering.,4
+technology,52.18,"General Sales, Merchandising and Related Marketing Operations.",1
+technology,3.05,Forestry.,1
+technology,5.01,Area Studies.,1
+technology,45.03,Archeology.,1
+technology,44.05,Public Policy Analysis.,1
+technology,1.12,Soil Sciences.,1
+technology,14.25,Petroleum Engineering.,2
+technology,1.09,Animal Sciences.,1
+technology,40.02,Astronomy and Astrophysics.,1
+technology,51.02,Communication Disorders Sciences and Services.,1
+technology,27.05,Statistics.,1
+technology,45.04,Criminology.,1
+technology,24.01,"Liberal Arts and Sciences, General Studies and Humanities.",1
+technology,15.03,Electrical/Electronic Engineering Technologies/Technicians.,5
+technology,3.03,Fishing and Fisheries Sciences and Management.,1
+technology,30.44,Geography and Environmental Studies.,1
+technology,51.23,Rehabilitation and Therapeutic Professions.,1
+technology,30.7,Data Science.,1
+technology,30.99,"Multi/Interdisciplinary Studies, Other.",1
