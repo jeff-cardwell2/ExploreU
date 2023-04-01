@@ -13,6 +13,7 @@ app = Dash(
     external_stylesheets=[THEME, "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"],
     use_pages=True, 
     # background_callback_manager=bcm
+    # suppress_callback_exceptions=True
 )
 server = app.server
 app.title = 'ExploreU'
