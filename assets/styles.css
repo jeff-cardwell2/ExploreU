@@ -28,3 +28,26 @@ h1 {
     color: white;
     text-decoration: none;
 }
+
+.card-body div {
+    display: flex;
+    column-gap: 0.3rem;
+}
+
+.card-body span {
+    font-size: 0.6rem;
+    width: auto;
+    background-color: lightgray;
+    border-radius: 10rem;
+    padding: 0.2rem 0.5rem;
+}
+
+.col:has(#cip-results) {
+    overflow-y: scroll;
+    height: calc(100vh - 12rem);
+}
+
+#cip-count {
+    color: gray;
+    font-size: 0.8rem;
+}
