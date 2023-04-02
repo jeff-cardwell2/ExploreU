@@ -3,6 +3,7 @@ from dash import html, dcc, dash_table as dt
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
 import pandas as pd
+import os
 
 dash.register_page(__name__, path='/', title="ExploreU")
 
@@ -66,7 +67,8 @@ layout = dbc.Container([
 def update_results(click, topics):
     # retrieve results from model here
     cip_results = ["45.06", "30.70", "11.01", "13.06"]
-    cip_info = pd.read_csv("assets/data/cip_url_summary.csv", dtype={"CIPCode": str})
+    cip_path = os.getcwd() + dash.get_asset_url("data/cip_url_summary.csv")
+    cip_info = pd.read_csv(cip_path, dtype={"CIPCode": str})
 
     cips = list(cip_info['CIPCode'])
     results = [{
