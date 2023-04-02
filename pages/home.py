@@ -72,7 +72,7 @@ def update_results(click, topics):
     results = [{
         "cip": cip,
         "name": cip_info.loc[cip_info['CIPCode'] == cip, "CIPTitle"].item()[:-1],
-        "related": "Finance and Financial Management Services, Management Sciences and Quantitative Methods",
+        "related": cip_info.loc[cip_info['CIPCode'] == cip, "related"].item(),
         "description": cip_info.loc[cip_info['CIPCode'] == cip, "CIPDefinition_summary"].item(),
         "url": cip_info.loc[cip_info['CIPCode'] == cip, "url"].item()
     } for cip in cip_results if cip in cips]
@@ -94,7 +94,7 @@ def display_cards(data):
     return cards
 
 def generate_card(data):
-    related = data['related'].split(', ')
+    related = data['related'].split(',')
     card = dbc.Card(
         [
             dbc.CardHeader(html.A(f"CIP {data['cip']}", href=data['url'], target="_blank")),
@@ -102,12 +102,7 @@ def generate_card(data):
                 [
                     html.H4(data['name'], className="card-title"),
                     html.P(data['description'], className="card-text"),
-                    html.Div(
-                        [
-                            html.Span(related[0]),
-                            html.Span(related[1])
-                        ]
-                    )
+                    html.Div([html.Span(related[0]), html.Span(related[1]), html.Span(related[2])] if len(related) > 0 else [])
                 ]
             )
         ]
