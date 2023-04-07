@@ -23,3 +23,5 @@ cip_data/
 ir_system_setup_and_dev/
 .DS_Store
 .env
+Visualizations/
+model/
