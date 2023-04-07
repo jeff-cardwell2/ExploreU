@@ -29,6 +29,31 @@ h1 {
     text-decoration: none;
 }
 
+.tooltip {
+    position: relative;
+    display: inline-block;
+    opacity: 100;
+    color: #158cba;
+}
+
+.tooltip .info {
+    visibility: hidden;
+    background-color: #158cba;
+    color: white;
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+    white-space: pre-line;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 120%;
+}
+
+.tooltip:hover .info {
+    visibility: visible;
+}
+
 .card-body div {
     display: flex;
     column-gap: 0.3rem;
@@ -55,4 +80,9 @@ h1 {
 #cip-count {
     color: gray;
     font-size: 0.8rem;
+}
+
+.col:has(#viz-container) {
+    overflow-y: scroll;
+    height: calc(100vh - 12rem);
 }

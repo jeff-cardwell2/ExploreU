@@ -1,49 +1,18 @@
+import os
 import dash
 from dash import html, dcc, dash_table as dt
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
 import pandas as pd
-import os
+import plotly.express as px
 
 dash.register_page(__name__, path='/', title="ExploreU")
 
-topics = ['Biology', 'Chemistry', 'Physics', 'Mathematics', 'Computer Science', 'Engineering', 'Psychology', 'Sociology', 'Anthropology', 'Political Science',
-        'History', 'Philosophy', 'English', 'Education', 'Art', 'Music', 'Theater', 'Dance', 'Journalism', 'Business', 'Marketing', 'Economics', 'Finance',
-        'Accounting', 'Management', 'International Business', 'Entrepreneurship', 'Human Resources', 'Law', 'Criminal Justice', 'Forensic Science',
-        'Environmental Science', 'Geology', 'Geography', 'Agriculture', 'Nutrition', 'Public Health', 'Nursing', 'Medicine', 'Veterinary Science',
-        'Dentistry', 'Physical Therapy', 'Occupational Therapy', 'Speech Therapy', 'Social Work', 'Counseling', 'Library Science', 'Archival Studies',
-        'Information Technology', 'Data Science', 'Artificial Intelligence', 'Machine Learning', 'Cybersecurity', 'Cryptography', 'Web Development',
-        'Mobile Development', 'Game Development', 'Multimedia', 'Graphic Design', 'Interior Design', 'Fashion Design', 'Industrial Design', 'Urban Planning',
-        'Architecture', 'Real Estate', 'Aerospace Engineering', 'Mechanical Engineering', 'Electrical Engineering',
-        'Civil Engineering', 'Chemical Engineering', 'Materials Science', 'Nuclear Engineering', 'Marine Science', 'Oceanography', 'Meteorology', 'Astronomy',
-        'Zoology', 'Botany', 'Ecology', 'Conservation', 'Forestry', 'Horticulture', 'Sports Science', 'Kinesiology', 'Exercise Science',
-        'Sports Medicine', 'Coaching', 'Physical Education', 'Recreation', 'Tourism', 'Hospitality', 'Culinary Arts', 'Wine Studies', 'Performing Arts',
-        'Creative Writing', 'Agricultural Science', 'Astrophysics', 'Behavioral Science', 'Biochemistry', 'Biomedical Engineering', 'Biostatistics', 'Cognitive Science',
-        'Communication Disorders', 'Comparative Literature', 'Criminology', 'Cultural Studies', 'Data Analytics',
-        'Developmental Psychology', 'Early Childhood Education', 'East Asian Studies', 'Econometrics', 'Educational Psychology',
-        'Electronics Engineering', 'Engineering Physics', 'Entomology', 'Environmental Engineering', 'Ethnic Studies', 'European Studies',
-        'Evolutionary Biology', 'Film Studies', 'Food Science', 'Literature','Linguistics', 'Gender Studies', 'Genetics',
-        'Global Studies', 'Health Administration', 'Healthcare Management', 'Hispanic Studies',
-        'Industrial Psychology', 'Information Science', 'International Studies', 'Jewish Studies', 'Latin American Studies',
-        'Linguistic Anthropology', 'Marine Biology', 'Marketing', 'Materials Engineering', 'Medical Anthropology',
-        'Medical Sociology', 'Medieval Studies', 'Microbiology', 'Middle Eastern Studies', 'Molecular Biology', 'Museum Management', 'Music Education', 'Neuroscience',
-        'Nuclear Physics', 'Nursing', 'Organic Chemistry', 'Organizational Psychology', 'Paleontology', 'Peace and Conflict Studies',
-        'Pediatric Nursing', 'Philosophy of Science', 'Physical Chemistry', 'Plant Science', 'Polymer Science',
-        'Psychobiology', 'Public Administration', 'Public Policy', 'Quantum Physics', 'Radiation Oncology', 'Religious Studies',
-        'Robotics', 'Science Education', 'Science Journalism', 'Science Writing',
-        'Social Psychology', 'Social Statistics', 'Social Theory', 'Sociolinguistics', 'Software Engineering', 'Special Education',
-        'Sport Management', 'Statistics', 'Structural Engineering', 'Supply Chain Management', 'Systems Biology', 'Theoretical Physics', 'Sports', 'Social media',
-        'Video games', 'Fashion', 'TV shows', 'Movies', 'Politics', 'Climate change', 'Science fiction', 'Food', 'Travel', 'Fitness', 'Health',
-        'Literature', 'Poetry', 'Photography', 'Beauty', 'Computer science', 'Coding', 'Space exploration', 'Nature', 'Animals',
-        'Technology', 'Investing', 'Banking', 'Ethics', 'Human rights', 'Social justice', 'Teaching', 'Learning', 'Language learning', 'Writing', 'Blogging',
-        'Public speaking', 'Debate', 'Drama', 'Improv', 'Stand-up comedy', 'Acting', 'Gymnastics', 'Skateboarding', 'Surfing', 'Snowboarding', 'Skiing', 'Swimming',
-        'Gardening', 'Cooking', 'Baking', 'Non-Profit Organizations', 'Environmentalism', 'Religion', 'Spirituality',
-        'Dieting', 'Weightlifting','Street art', 'Graffiti', 'Social activism', 'Mental health',
-        'Virtual reality', 'Augmented reality', 'Social media marketing', 'Music production', 'Sound engineering', 'Sound design', 'Music theory',
-        'Art history', 'Art restoration', 'Ceramics', 'Sculpture', 'Printmaking', 'Calligraphy', 'Digital art',
-        'User interface design', 'Web design', 'Mobile app development', 'Blockchain technology',
-        'Feminism', 'LGBTQ+ rights', 'Racial justice','Immigration Policy', 'Climate activism', 'Renewable energy', 'Sustainable agriculture', 'Urban planning', 'Archaeology',
-        'Environmental science', 'Food science', 'Event planning']
+topics_path = os.getcwd() + dash.get_asset_url("data/query_terms.csv")
+pdf_path = os.getcwd() + dash.get_asset_url("data/full_bach_pdf.csv")
+
+topics = list(pd.read_csv(topics_path)['0'])
+pdf_data = pd.read_csv(pdf_path, dtype={"cip_code": str, "year": int})
 
 search = dbc.Row(
     [
@@ -51,11 +20,25 @@ search = dbc.Row(
             [
                 dbc.Row(
                     [
-                        dbc.Col(dcc.Dropdown(topics, value=[], persistence=True, placeholder="Topic #1", id="topics-1")),
-                        dbc.Col(dcc.Dropdown(topics, value=[], persistence=True, placeholder="Topic #2", id="topics-2")),
-                        dbc.Col(dcc.Dropdown(topics, value=[], persistence=True, placeholder="Topic #3", id="topics-3")),
-                        dbc.Col(dcc.Dropdown(topics, value=[], persistence=True, placeholder="Topic #4", id="topics-4")),
-                        dbc.Col(dcc.Dropdown(topics, value=[], persistence=True, placeholder="Topic #5", id="topics-5"))
+                        dbc.Col(
+                            html.Div(
+                                [
+                                    html.I(className="fa-solid fa-circle-info"),
+                                    html.P(
+                                        '''Pick topics of interest in order.''',
+                                        className='info',
+                                        style={'width': '13rem'}
+                                    )
+                                ],
+                                className="tooltip"
+                            ),
+                            width=1
+                        ),
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #1", id="topics-1")),
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #2", id="topics-2")),
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #3", id="topics-3")),
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #4", id="topics-4")),
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #5", id="topics-5"))
                     ],
                     className="g-1",
                 ),
@@ -85,7 +68,12 @@ results_container = dbc.Col(
 
 viz_container = dbc.Col(
     [
-        html.Div(id="viz-container")
+        html.Div(
+            [
+                dbc.Spinner(dcc.Graph(id="salary-viz"))
+            ],
+            id="viz-container"
+        ),
     ]
 )
 
@@ -117,7 +105,7 @@ layout = dbc.Container([
 )
 def update_results(click, topic1, topic2, topic3, topic4, topic5):
     # retrieve results from model here
-    cip_results = ["45.06", "30.70", "11.01", "13.06"]
+    cip_results = ["45.06", "30.70", "11.01", "13.06", "11.07"]
     cip_path = os.getcwd() + dash.get_asset_url("data/cip_url_summary.csv")
     cip_info = pd.read_csv(cip_path, dtype={"CIPCode": str})
 
@@ -182,3 +170,20 @@ def generate_labels(data):
         for cip in data:
             labels.append(html.Span(html.A(cip['cip'], href=cip['url'], title=cip['title'], target="_blank")))
     return labels
+
+
+@dash.callback(
+    Output('salary-viz', 'figure'),
+    Input('results-temp', 'data')
+)
+def plot_salary(data):
+    cip_list = [i['cip'] for i in data]
+    fig_data = pdf_data[pdf_data['cip_code'].isin(cip_list)]
+    fig = px.line(
+        fig_data, x='year', y='mean_starting_salary', color='cip_code',
+        labels={'year': '', 'mean_starting_salary': '', 'cip_code': "CIP"}, template="ggplot2"
+    )
+    fig.update_traces(mode="markers+lines", hovertemplate=None)
+    fig.update_layout(hovermode="x unified", title={'text': "Mean Starting Salary", 'y': 0.95}, height=400)
+    
+    return fig
