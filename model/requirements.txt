@@ -1,3 +1,7 @@
 fastapi
 tensorflow
+tensorflow_ranking
+tensorflow_recommenders
 pandas
+mangum
+uvicorn
