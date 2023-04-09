@@ -1,4 +1,5 @@
 import os
+import requests
 import dash
 from dash import html, dcc, dash_table as dt
 import dash_bootstrap_components as dbc
@@ -34,11 +35,11 @@ search = dbc.Row(
                             ),
                             width=1
                         ),
-                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #1", id="topics-1")),
-                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #2", id="topics-2")),
-                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #3", id="topics-3")),
-                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #4", id="topics-4")),
-                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #5", id="topics-5"))
+                        dbc.Col(dcc.Dropdown(topics, placeholder="Topic #1", id="topics-1")),
+                        dbc.Col(dcc.Dropdown(topics, placeholder="Topic #2", id="topics-2")),
+                        dbc.Col(dcc.Dropdown(topics, placeholder="Topic #3", id="topics-3")),
+                        dbc.Col(dcc.Dropdown(topics, placeholder="Topic #4", id="topics-4")),
+                        dbc.Col(dcc.Dropdown(topics, placeholder="Topic #5", id="topics-5"))
                     ],
                     className="g-1",
                 ),
@@ -62,7 +63,7 @@ search = dbc.Row(
 results_container = dbc.Col(
     [
         html.P(id="cip-count"),
-        dbc.Spinner(html.Div(id="cip-results"))
+        html.Div(id="cip-results")
     ]
 )
 
@@ -70,11 +71,12 @@ viz_container = dbc.Col(
     [
         html.Div(
             [
-                dbc.Spinner(dcc.Graph(id="salary-viz"))
+                dcc.Graph(id="salary-viz")
             ],
             id="viz-container"
         ),
-    ]
+    ],
+    style={'visibility': 'hidden'}
 )
 
 layout = dbc.Container([
@@ -83,8 +85,8 @@ layout = dbc.Container([
     html.Br(),
     dbc.Row(
         [
-            dbc.Col(results_container),
-            dbc.Col(viz_container)
+            dbc.Col(dcc.Loading(results_container, type="circle", color="#158cba")),
+            dbc.Col(dcc.Loading(viz_container, type="circle", color="#158cba"))
         ]
     )
 ])
@@ -92,7 +94,8 @@ layout = dbc.Container([
 @dash.callback(
     [
         Output('results-temp', 'data'),
-        Output('cip-count', 'children')
+        Output('cip-count', 'children'),
+        Output('viz-container', 'style')
     ],
     Input('search-button', 'n_clicks'),
     [
@@ -101,11 +104,14 @@ layout = dbc.Container([
         State('topics-3', 'value'),
         State('topics-4', 'value'),
         State('topics-5', 'value')
-    ]
+    ],
+    prevent_initial_call=True
 )
 def update_results(click, topic1, topic2, topic3, topic4, topic5):
     # retrieve results from model here
-    cip_results = ["45.06", "30.70", "11.01", "13.06", "11.07"]
+    # cip_results = ["45.06", "30.70", "11.01", "13.06", "11.07"]
+    url = f"http://127.0.0.1:8000/topics/{topic1}+{topic2}+{topic3}+{topic4}+{topic5}"
+    cip_results = requests.get(url).json()['cips']
     cip_path = os.getcwd() + dash.get_asset_url("data/cip_url_summary.csv")
     cip_info = pd.read_csv(cip_path, dtype={"CIPCode": str})
 
@@ -134,11 +140,12 @@ def update_results(click, topic1, topic2, topic3, topic4, topic5):
 
     n_results = f"Returning top {len(results)} matches"
 
-    return results, n_results
+    return results, n_results, {'visibility': 'visible'}
 
 @dash.callback(
     Output('cip-results', 'children'),
-    Input('results-temp', 'data')
+    Input('results-temp', 'data'),
+    prevent_initial_call=True
 )
 def display_cards(data):
     cards = []
@@ -174,7 +181,8 @@ def generate_labels(data):
 
 @dash.callback(
     Output('salary-viz', 'figure'),
-    Input('results-temp', 'data')
+    Input('results-temp', 'data'),
+    prevent_initial_call=True
 )
 def plot_salary(data):
     cip_list = [i['cip'] for i in data]
