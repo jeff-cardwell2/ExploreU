@@ -1,4 +1,5 @@
 import os
+import uvicorn
 import tensorflow as tf
 import tensorflow_ranking as tfr
 import tensorflow_recommenders as tfrs
@@ -6,13 +7,16 @@ import pandas as pd
 import numpy as np
 from mangum import Mangum
 from fastapi import FastAPI
+from fastapi.responses import JSONResponse
 
 app = FastAPI()
-model = tf.keras.models.load_model(os.path.join(os.path.dirname(__file__), 'pointwise_model'))
+model = tf.keras.models.load_model('assets/pointwise_model')
+# os.path.join(os.path.dirname(__file__)
+handler = Mangum(app)
 
 @app.get("/")
 def read_root():
-    return {"Connection": "Success"}
+    return JSONResponse({"Connection": "Success"})
 
 @app.get("/topics/{topics}")
 def get_cips(topics: str):
@@ -27,18 +31,18 @@ def get_cips(topics: str):
 
     top_cips = sorted(cip_dict, key=cip_dict.get, reverse=True)[:10]
     
-    return {"cips": top_cips}
+    return JSONResponse({"cips": top_cips})
 
 def generate_predictions(query, model, n_cips=10):
-    docset = pd.read_csv(os.path.join(os.path.dirname(__file__), 'final_docset.csv')).drop(index=[210, 199, 47, 190]).reset_index(drop=True)
-    cip_titles = pd.read_csv(os.path.join(os.path.dirname(__file__), 'cip_names.csv'))[['Title', 'CIP Code']]
+    docset = pd.read_csv('assets/final_docset.csv').drop(index=[210, 199, 47, 190]).reset_index(drop=True)
+    cip_titles = pd.read_csv('assets/cip_names.csv')[['Title', 'CIP Code']]
     cip_titles['CIP Code'] = [i[2:-1] if i[2] != '0' else i[3:-1] for i in cip_titles['CIP Code']]
     cip_titles['CIP Code'] = [i[:-1] if i[-1] == '0' else i for i in cip_titles['CIP Code']]
     docset = docset[docset['cip'].isin(cip_titles['CIP Code'])].reset_index(drop=True)
     docset['cip_name'] = [cip_titles[cip_titles['CIP Code']==i].Title.iloc[0] for i in docset.cip]
     docset['cip'] = docset['cip'].astype(str)
 
-    all_queries = pd.read_csv(os.path.join(os.path.dirname(__file__), 'query_terms.csv'))['0'].unique().tolist()
+    all_queries = pd.read_csv('assets/query_terms.csv')['0'].unique().tolist()
     all_courses = docset['courses'].astype(str).tolist()
     all_descriptions = docset['descriptions'].astype(str).tolist()
     prediction_dataset = tf.data.Dataset.from_tensor_slices({'query':[[query]],'courses':[[all_courses]], 'descriptions':[[all_descriptions]]})
@@ -75,4 +79,5 @@ def generate_predictions(query, model, n_cips=10):
 
     return cip_results[:n_cips]
 
-# handler = Mangum(app)
+if __name__=="__main__":
+  uvicorn.run(app, host="0.0.0.0",port=9000)
