@@ -71,12 +71,13 @@ viz_container = dbc.Col(
     [
         html.Div(
             [
-                dcc.Graph(id="salary-viz")
+                dcc.Graph(id="salary-viz"),
+                dcc.Graph(id="employment-viz")
             ],
-            id="viz-container"
+            id="viz-container",
+            style={'display': 'none'}
         ),
-    ],
-    style={'visibility': 'hidden'}
+    ]
 )
 
 layout = dbc.Container([
@@ -140,7 +141,7 @@ def update_results(click, topic1, topic2, topic3, topic4, topic5):
 
     n_results = f"Returning top {len(results)} matches"
 
-    return results, n_results, {'visibility': 'visible'}
+    return results, n_results, {'display': 'block'}
 
 @dash.callback(
     Output('cip-results', 'children'),
@@ -185,6 +186,24 @@ def generate_labels(data):
     prevent_initial_call=True
 )
 def plot_salary(data):
+    cip_list = [i['cip'] for i in data]
+    fig_data = pdf_data[pdf_data['cip_code'].isin(cip_list)]
+    fig = px.line(
+        fig_data, x='year', y='mean_starting_salary', color='cip_code',
+        labels={'year': '', 'mean_starting_salary': '', 'cip_code': "CIP"}, template="ggplot2"
+    )
+    fig.update_traces(mode="markers+lines", hovertemplate=None)
+    fig.update_layout(hovermode="x unified", title={'text': "Mean Starting Salary", 'y': 0.95}, height=400)
+    
+    return fig
+
+
+@dash.callback(
+    Output('employment-viz', 'figure'),
+    Input('results-temp', 'data'),
+    prevent_initial_call=True
+)
+def plot_employment(data):
     cip_list = [i['cip'] for i in data]
     fig_data = pdf_data[pdf_data['cip_code'].isin(cip_list)]
     fig = px.line(
