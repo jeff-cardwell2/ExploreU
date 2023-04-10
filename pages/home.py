@@ -6,14 +6,18 @@ import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
 
 dash.register_page(__name__, path='/', title="ExploreU")
 
 topics_path = os.getcwd() + dash.get_asset_url("data/query_terms.csv")
 pdf_path = os.getcwd() + dash.get_asset_url("data/full_bach_pdf.csv")
+cip_path = os.getcwd() + dash.get_asset_url("data/cip_url_summary.csv")
 
 topics = list(pd.read_csv(topics_path)['0'])
 pdf_data = pd.read_csv(pdf_path, dtype={"cip_code": str, "year": int})
+cip_info = pd.read_csv(cip_path, dtype={"CIPCode": str})
+cip_full = pdf_data.merge(cip_info[['CIPCode', 'CIPTitle']], how='right', left_on='cip_code', right_on='CIPCode')
 
 search = dbc.Row(
     [
@@ -111,10 +115,8 @@ layout = dbc.Container([
 def update_results(click, topic1, topic2, topic3, topic4, topic5):
     # retrieve results from model here
     # cip_results = ["45.06", "30.70", "11.01", "13.06", "11.07"]
-    url = f"http://127.0.0.1:8000/topics/{topic1}+{topic2}+{topic3}+{topic4}+{topic5}"
+    url = f"https://qkljp7mtn5hed6ctzqsntgbqom0tbdgm.lambda-url.us-east-1.on.aws/topics/{topic1}+{topic2}+{topic3}+{topic4}+{topic5}"
     cip_results = requests.get(url).json()['cips']
-    cip_path = os.getcwd() + dash.get_asset_url("data/cip_url_summary.csv")
-    cip_info = pd.read_csv(cip_path, dtype={"CIPCode": str})
 
     cips = list(cip_info['CIPCode'])
     results = []
@@ -187,7 +189,7 @@ def generate_labels(data):
 )
 def plot_salary(data):
     cip_list = [i['cip'] for i in data]
-    fig_data = pdf_data[pdf_data['cip_code'].isin(cip_list)]
+    fig_data = cip_full[cip_full['cip_code'].isin(cip_list)]
     fig = px.line(
         fig_data, x='year', y='mean_starting_salary', color='cip_code',
         labels={'year': '', 'mean_starting_salary': '', 'cip_code': "CIP"}, template="ggplot2"
@@ -205,12 +207,59 @@ def plot_salary(data):
 )
 def plot_employment(data):
     cip_list = [i['cip'] for i in data]
-    fig_data = pdf_data[pdf_data['cip_code'].isin(cip_list)]
-    fig = px.line(
-        fig_data, x='year', y='mean_starting_salary', color='cip_code',
-        labels={'year': '', 'mean_starting_salary': '', 'cip_code': "CIP"}, template="ggplot2"
-    )
-    fig.update_traces(mode="markers+lines", hovertemplate=None)
-    fig.update_layout(hovermode="x unified", title={'text': "Mean Starting Salary", 'y': 0.95}, height=400)
+    fig_data = cip_full[cip_full['cip_code'].isin(cip_list)]
+    grouped = fig_data.groupby(['cip_code', 'CIPTitle']).mean(numeric_only=True).reset_index()
+    # selected_grouped = grouped[grouped['cip_code'].isin(selected_cips)]
+    # other_grouped = grouped[~grouped['cip_code'].isin(selected_cips)]
     
+    # if len(selected_grouped) == 0:
+    #     opacity = 1.0
+    # else:
+    #     opacity = 0.25
+    
+    fig = go.Figure(
+        data=[
+            go.Bar(
+                name='Percent Employed',
+                x=grouped['cip_code'],
+                y=grouped['total_perc_employed_overall'],
+                hovertext = grouped['CIPTitle'],
+                hovertemplate = "<b>%{hovertext}</b><br><br>" + "Percent Employed: %{y:.2f}%<br>"+"<extra></extra>"
+            ),                    
+            go.Bar(
+                name='Percent Continuing Education',
+                x=grouped['cip_code'],
+                y=grouped['perc_continuing_ed'],
+                hovertext = grouped['CIPTitle'],
+                hovertemplate = "Percent Continuing Education: %{y:.2f}%<br>"+"<extra></extra>"
+            ),
+                                
+            #   go.Bar(name='Percent Employed',
+            #         x=other_grouped['cip_code'],
+            #         y=other_grouped['total_perc_employed_overall'],
+            #         opacity = opacity,
+            #         hovertext = other_grouped['CIPTitle'],
+            #         hovertemplate = "<b>%{hovertext}</b><br><br>" +
+            #          "Percent Employed: %{y:.2f}%<br>"+"<extra></extra>"),
+                
+            #   go.Bar(name='Percent Continuing Education',
+            #         x=other_grouped['cip_code'],
+            #         y=other_grouped['perc_continuing_ed'],
+            #         opacity = opacity,
+            #         hovertext = other_grouped['CIPTitle'],
+            #         hovertemplate =  
+            #          "Percent Continuing Education: %{y:.2f}%<br>"+"<extra></extra>")
+        ]
+    )
+
+    fig.update_layout(
+        barmode='stack',
+        title='Average First-Year Outcomes by CIP Code',
+        xaxis_title = 'CIP Code',
+        yaxis_title = 'Percentage of First-Year Graduates',
+        hovermode = 'x unified',
+        template = 'ggplot2',
+        legend={'traceorder':'normal'}
+    )
+
     return fig
