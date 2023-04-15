@@ -40,7 +40,7 @@ header = dbc.Navbar(
             dbc.Row(
                 [
                     dbc.Col(
-                        html.A('Code', href="https://github.com/jeff-cardwell2/SI699-Project", target="_blank"),
+                        html.A('Code', href="https://github.com/jeff-cardwell2/ExploreU", target="_blank"),
                         width="auto",
                         className="nav-link"
                     )
