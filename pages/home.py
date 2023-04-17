@@ -42,11 +42,11 @@ search = dbc.Row(
                             ),
                             width=1
                         ),
-                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #1", id="topics-1")),
-                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #2", id="topics-2")),
-                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #3", id="topics-3")),
-                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #4", id="topics-4")),
-                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #5", id="topics-5"))
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, persistence_type="session", placeholder="Topic #1", id="topics-1", optionHeight=50)),
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, persistence_type="session", placeholder="Topic #2", id="topics-2", optionHeight=50)),
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, persistence_type="session", placeholder="Topic #3", id="topics-3", optionHeight=50)),
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, persistence_type="session", placeholder="Topic #4", id="topics-4", optionHeight=50)),
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, persistence_type="session", placeholder="Topic #5", id="topics-5", optionHeight=50))
                     ],
                     className="g-1",
                 ),
@@ -119,8 +119,7 @@ layout = dbc.Container([
 )
 def update_results(click, topic1, topic2, topic3, topic4, topic5):
     # retrieve results from model here
-    # cip_results = ["45.06", "30.70", "11.01", "13.06", "11.07"]
-    url = f"https://qkljp7mtn5hed6ctzqsntgbqom0tbdgm.lambda-url.us-east-1.on.aws/topics/{topic1}+{topic2}+{topic3}+{topic4}+{topic5}"
+    url = f"https://qkljp7mtn5hed6ctzqsntgbqom0tbdgm.lambda-url.us-east-1.on.aws/topics/{'+'.join(filter(None, [topic1, topic2, topic3, topic4, topic5]))}"
     cip_results = requests.get(url).json()['cips']
 
     cips = list(cip_info['CIPCode'])
