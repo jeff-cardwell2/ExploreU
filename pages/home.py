@@ -42,11 +42,11 @@ search = dbc.Row(
                             ),
                             width=1
                         ),
-                        dbc.Col(dcc.Dropdown(topics, persistent=True, placeholder="Topic #1", id="topics-1")),
-                        dbc.Col(dcc.Dropdown(topics, persistent=True, placeholder="Topic #2", id="topics-2")),
-                        dbc.Col(dcc.Dropdown(topics, persistent=True, placeholder="Topic #3", id="topics-3")),
-                        dbc.Col(dcc.Dropdown(topics, persistent=True, placeholder="Topic #4", id="topics-4")),
-                        dbc.Col(dcc.Dropdown(topics, persistent=True, placeholder="Topic #5", id="topics-5"))
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #1", id="topics-1")),
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #2", id="topics-2")),
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #3", id="topics-3")),
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #4", id="topics-4")),
+                        dbc.Col(dcc.Dropdown(topics, persistence=True, placeholder="Topic #5", id="topics-5"))
                     ],
                     className="g-1",
                 ),
