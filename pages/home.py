@@ -15,7 +15,7 @@ pdf_path = os.getcwd() + dash.get_asset_url("data/pdf_merged.csv")
 cip_path = os.getcwd() + dash.get_asset_url("data/cip_url_summary.csv")
 sc_path = os.getcwd() + dash.get_asset_url("data/scorecard_merged.csv")
 
-topics = list(pd.read_csv(topics_path)['0'])
+topics = sorted(list(pd.read_csv(topics_path)['0']))
 pdf_data = pd.read_csv(pdf_path, index_col=0, dtype={'cip_code': str, 'CIPCode': str, "year": int})
 cip_info = pd.read_csv(cip_path, dtype={"CIPCode": str})
 sc_data = pd.read_csv(sc_path, index_col=0, dtype={'cip_code': str, 'CIPCode': str})
@@ -42,11 +42,11 @@ search = dbc.Row(
                             ),
                             width=1
                         ),
-                        dbc.Col(dcc.Dropdown(topics, placeholder="Topic #1", id="topics-1")),
-                        dbc.Col(dcc.Dropdown(topics, placeholder="Topic #2", id="topics-2")),
-                        dbc.Col(dcc.Dropdown(topics, placeholder="Topic #3", id="topics-3")),
-                        dbc.Col(dcc.Dropdown(topics, placeholder="Topic #4", id="topics-4")),
-                        dbc.Col(dcc.Dropdown(topics, placeholder="Topic #5", id="topics-5"))
+                        dbc.Col(dcc.Dropdown(topics, persistent=True, placeholder="Topic #1", id="topics-1")),
+                        dbc.Col(dcc.Dropdown(topics, persistent=True, placeholder="Topic #2", id="topics-2")),
+                        dbc.Col(dcc.Dropdown(topics, persistent=True, placeholder="Topic #3", id="topics-3")),
+                        dbc.Col(dcc.Dropdown(topics, persistent=True, placeholder="Topic #4", id="topics-4")),
+                        dbc.Col(dcc.Dropdown(topics, persistent=True, placeholder="Topic #5", id="topics-5"))
                     ],
                     className="g-1",
                 ),
